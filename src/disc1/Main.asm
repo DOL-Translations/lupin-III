@@ -1,8 +1,14 @@
-// GameCube "Lupin The Third - Umi Ni Kieta Hihou" Japanese To English Translation by krom (Peter Lemon):
+// GameCube "Lupin The Third - Umi Ni Kieta Hihou" Japanese To English Translation by Radiant, started by Peter Lemon):
 
 endian msb // Used To Encode SHIFT-JIS Words
 output "../../output/Lupin Disc 1 [U].iso", create
 origin $000000; insert "../../isos/Lupin Disc 1 [J].iso" // Include Japanese Lupin The Third - Umi Ni Kieta Hihou GameCube ISO Disc 1
+
+macro Text(OFFSET, TEXT) {
+  map 0, 0, 256
+  origin {OFFSET}
+  db {TEXT}
+}
 
 macro TextSave(OFFSET, TEXT) {
   origin {OFFSET}
@@ -29,10 +35,10 @@ macro TextMain(OFFSET, SPACE, SQUARE, TEXT) {
 }
 
 //Region
-Text($3, "E")
+//Text($3, "E") was told to remove this idk.
 
 include "Banner.asm"
 include "Credits.asm"
-incude "Menus.asm"
+include "Menus.asm"
 include "Intro.asm"
-include "Dialogue.asm"
+include "Chapter1.asm"
