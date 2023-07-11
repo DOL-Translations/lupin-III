@@ -11,7 +11,7 @@ TextMain($43A496A2, 0, 0, "Thats a lot but,")
 TextMain($43A496B8, 0, 0, "theres more to come.")
 
 TextMain($43A4988C, 0, 1, "Aburio]   ")
-TextMain($43A498CA, 0, 0, "Hey, great job Theo!  ")
+TextMain($43A498CA, 2, 0, "Hey, great job Theo!")
 
 TextMain($43A499A4, 0, 1, "Aburio]   ")
 TextMain($43A499D6, 6, 0, "Hey!")
