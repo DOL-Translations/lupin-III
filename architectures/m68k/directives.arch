@@ -1,0 +1,5 @@
+#directive db 1
+#directive dh 1
+#directive dw 2
+#directive dl 3
+#directive dd 4
