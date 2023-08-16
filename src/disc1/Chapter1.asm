@@ -369,20 +369,74 @@ TextMain($43A55C72, 20, 0, "It happened...")
 TextMain($43A55C9A, 2, 0, "right after the ferry crashed.")
 
 TextMain($43A55CE0, 21, 1, "Ferry Crew]")
+TextMain($43A55D28, 18, 0, "Most of us")
+TextMain($43A55D4A, 19, 0, "jumped overboard,")
 
+TextMain($43A55D94, 21, 1, "Ferry Crew]")
+TextMain($43A55DDC, 6, 0, "but one girl ran into the cabin.")
 
+TextMain($43A55E34, 9, 1, "Costas]")
+TextMain($43A55E6C, 1, 0, "So down there for 2 hours") //I really don't like this line. Orignal "...So she's been in there for 2 hours"
 
+TextMain($43A55EB4, 9, 1, "Costas]")
+TextMain($43A55EEC, 1, 0, "Assuming theres air in the cabin.")
 
+TextMain($43A55F30, 21, 1, "Ferry Crew]")
 
+TextMain($43A55FA0, 9, 1, "Costas]")
+TextMain($43A55FEE, 1, 0, "So, where is she?")
 
+TextMain($43A56022, 21, 1, "Ferry Crew]")
+TextMain($43A5606A, 21, 0, "Well...")
 
+TextMain($43A560AC, 21, 1, "Ferry Crew]")
+TextMain($43A560DC, 19, 0, "...She...")
+TextMain($43A5612C, 1, 0, "She should be somewhere below us.")
 
+TextMain($43A56170, 9, 1, "Costas]")
+TextMain($43A561A8, 1, 0, "How far down?")
 
+TextMain($43A561D8, 8, 1, "Captain]" )
+TextMain($43A5621A, 7, 0, "I'd say about 18...")
+TextMain($43A56258, 18, 0, "to 22 meters deep.")
 
+TextMain($43A56294, 8, 1, "Captain]")
+TextMain($43A562CC, 1, 0, "Its deeper the more north you are.")
 
+TextMain($43A56310, 9, 1, "Costas]")
+TextMain($43A56348, 1, 0, "How are the others?")
 
+TextMain($43A5637E, 21, 1, "Ferry Crew]")
+TextMain($43A563C6, 10, 0, "I'll go and check.")
 
+TextMain($43A5640C, 13, 1, "Theo]")
+TextMain($43A5643E, 18, 0, "A girl...")
 
+TextMain($43A56480, 13, 1, "Theo]")
+TextMain($43A564B2, 18, 0, "Did that girl...")
+TextMain($43A564DA, 11, 0, "happen to be running late...?")
+
+TextMain($43A56516, 21, 1, "Ferry Crew]")
+TextMain($43A5655E, 17, 0, "Yeah.")
+
+TextMain($43A56588, 13, 1, "Theo]")
+TextMain($43A565C2, 14, 0, "That girl...")
+
+TextMain($43A565F0, 9, 1, "Costas]")
+TextMain($43A56628, 11, 0, "Theo...")
+TextMain($43A56640, 2, 0, "Do you know this girl?")
+
+TextMain($43A5667A, 13, 1, "Theo]")
+TextMain($43A566B4, 3, 0, "...Yea I saw her earlier.")
+
+TextMain($43A566E4, 9, 1, "Costas]")
+TextMain($43A5671C, 3, 0, "Just do what you can, Theo.")
+TextMain($43A56740, 3, 0, "Don't overthink it.")
+
+TextMain($43A56934, 9, 1, "Costas]")
+TextMain($43A56969, 6, 0, "All right, let's go!")
+
+TextMain($43A56AE1, 15, 1, "Costas]")
 
 
 
