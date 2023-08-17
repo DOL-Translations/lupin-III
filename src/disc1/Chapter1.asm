@@ -437,10 +437,61 @@ TextMain($43A56934, 9, 1, "Costas]")
 TextMain($43A56969, 6, 0, "All right, let's go!")
 
 TextMain($43A56AE1, 15, 1, "Costas]")
+TextMain($43A56B1A, 5, 0, "Abrio, is everything okay?")
 
+TextMain($43A56B5C, 16, 1, "Abrio]")
+TextMain($43A56B91, 16, 0, "Yes!")
 
+TextMain($43A56C63, 11, 1, "Costas]")
+TextMain($43A56CD2, 5, 0, "Okay, we're going diving.")
 
+TextMain($43A56DAC, 14, 1, "Captain]")
+TextMain($43A56DE9, 15, 0, "Got it.")
 
+TextMain($43A56E41, 7, 1, "Costas]")
+TextMain($43A56E6E, 4, 0, "I spotted the ferry.")
+TextMain($43A56E94, 2, 0, "But I think it's stuck on a ledge.")
+
+TextMain($43A56EEA, 8, 1, "Abrio]")
+TextMain($43A56F17, 7, 0, "Ah!")
+TextMain($43A56F27, 6, 0, "The ferry moved!")
+
+TextMain($43A56F95, 7, 1, "Costas]")
+TextMain($43A56FC2, 1, 0, "It sank to a lower ledge") //Want to add a period here :(
+TextMain($43A56FF3, 8, 0, "Be careful, Abrio.")
+
+TextMain($43A57033, 14, 1, "Catpain]")
+TextMain($43A57059, 14, 0, "(This isn't good...)")
+
+TextMain($43A5714B, 14, 1, "Captain]")
+TextMain($43A57180, 1, 0, "How's it looking there?")
+
+TextMain($43A571B6, 7, 1, "Costas]")
+
+TextMain($43A571FA, 7, 1, "Costas]")
+TextMain($43A57239, 3, 0, "It's on its side, but")
+TextMain($43A57261, 2, 0, "It stopped moving.")
+
+TextMain($43A572F3, 7, 1, "Costas]")
+
+TextMain($43A57339, 7, 1, "Costas]")
+
+TextMain($43A57385, 7, 1, "Costas]")
+TextMain($43A573D4, 1, 0, "I've reached the ferry.")
+
+TextMain($43A5740A, 14, 1, "Captain]")
+TextMain($43A57430, 21, 0, "Good...")
+
+TextMain($43A5746C, 7, 1, "Costas]")
+TextMain($43A57499, 2, 0, "Abrio, search the entrence.")
+
+TextMain($43A574D3, 8, 1, "Abrio]")
+TextMain($43A57500, 6, 0, "Right.")
+
+TextMain($43A57576, 14, 1, "Captain]")
+TextMain($43A575B3, 4, 0, "Over two hours has passed already...")
+
+TextMain($43A57637, 2, 0, "Path")
 
 
 //Bad ending route
