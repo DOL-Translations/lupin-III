@@ -1,4 +1,4 @@
-// GameCube "Lupin The Third - Umi Ni Kieta Hihou" Japanese To English Translation by Radiant, started by Peter Lemon):
+// GameCube "Lupin The Third - Umi Ni Kieta Hihou" Japanese To English Translation by Radiant, started by krom (Peter Lemon):
 
 endian msb // Used To Encode SHIFT-JIS Words
 output "../../output/Lupin Disc 1 [U].iso", create
