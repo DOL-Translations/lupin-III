@@ -492,8 +492,31 @@ TextMain($43A57576, 14, 1, "Captain]")
 TextMain($43A575B3, 4, 0, "Over two hours has passed already...")
 
 TextMain($43A57637, 2, 0, "Path")
+TextSave($43A57647, " They're alive")
 
+TextMain($43AC07CD, 11, 1, "Theo]")
+TextMain($43AC081C, 7, 0, "That girl is still alive,")
+TextMain($43AC0842, 1, 0, "shes waiting to be saved!")
 
+TextMain($43AC088A, 11, 1, "Theo]")
+TextMain($43AC08D7, 11, 0, "Please,")
+TextMain($43AC08EF, 17, 0, "help her quickly!")
+
+TextMain($43AC092D, 14, 1, "Captain]")
+TextMain($43AC096A, 19, 0, "... Theo.")
+
+TextMain($43AC09B2, 7, 1, "Costas]")
+TextMain($43AC09DF, 1, 0, "I understand.")
+TextMain($43AC0A0D, 3, 0, "...Let's hurry!")
+
+TextMain($43AC0A3D, 8, 1, "Abrio]")
+TextMain($43AC0A6A, 6, 0, "Right!")
+
+TextMain($43AC0B3A, 8, 1, "Abrio]")
+TextMain($43AC0B71, 12, 0, "Boss, is this-?!")
+
+TextMain($43AC0BA1, 13, 1, "Costas]")
+TextMain($43AC0BD4, 14, 0, "...Yeah.")
 //Bad ending route
 TextMain($43A4AF70, 16, 1, "Riana]  ")
 TextMain($43A4AFB0, 20, 0, "If you hit a girl,")
