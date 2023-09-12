@@ -517,6 +517,75 @@ TextMain($43AC0B71, 12, 0, "Boss, is this-?!")
 
 TextMain($43AC0BA1, 13, 1, "Costas]")
 TextMain($43AC0BD4, 14, 0, "...Yeah.")
+TextMain($43AC0BF0, 18, 0, "You wait here.")
+
+TextMain($43AC0C28, 13, 1, "Costas]")
+TextMain($43AC0C5B, 3, 0, "If anything happens, tell me.")
+
+TextMain($43AC0C8F, 18, 1, "Abrio]")
+TextMain($43AC0CC6, 17, 0, "Understood.")
+
+TextMain($43AC0E80, 11, 1, "Theo]")
+TextMain($43AC0EB7, 9, 0, "This is all my fault...") //529 -537 could prob be better worded. 
+
+TextMain($43AC0F05, 11, 1, "Theo]")
+TextMain($43AC0F46, 1, 0, "if only I didn't yell at them")
+TextMain($43AC0F6A, 3, 0, "asking to stop the ferry,")
+
+TextMain($43AC0FAC, 11, 1, "Theo]")
+TextMain($43AC0FE3, 2, 0, "she would have missed the ferry,")
+TextMain($43AC100B, 1, 0, "she wouldnt be he here.")
+
+TextMain($43AC1057, 10, 1, "Captain]")
+TextMain($43AC1090, 13, 0, "Hey, it's not your fault, okay?")
+TextMain($43AC10DC, 2, 0, "We should pray for the best, however hopeless.")
+
+TextMain($43AC1138, 7, 1, "Costas]")
+TextMain($43AC1165, 4, 0, "Wait...!")
+TextMain($43AC11B0, 3, 0, "I found the girl!")
+
+TextMain($43AC1270, 13, 1, "Captain")
+TextMain($43AC12A3, 20, 0, "This is Constantine Salvage.")
+TextMain($43AC12D9, 4, 0, "We'll back back 20 minutes.")
+
+TextMain($43AC1311, 12, 1, "Captain]")
+TextMain($43AC1344, 6, 0, "Get an ambulance ready for us!")
+
+TextMain($43AC1398, 15, 1, "Costas]")
+TextMain($43AC13CD, 9, 0, "It's terribly slow...")
+TextMain($43AC13F1, 6, 0, "But she has a pulse.")
+
+TextMain($43AC141F, 10, 1, "Abrio]" )
+TextMain($43AC144E, 8, 0, "Man, what a shocker.")
+
+TextMain($43AC1482, 10, 1, "Abrio]")
+TextMain($43AC14B1, 5, 0, "To think,")
+TextMain($43AC14C5, 1, 0, "someone survived such conditions!")
+
+TextMain($43AC14FB, 14, 1, "Coastas]")
+TextMain($43AC1530, 2, 0, "I don't know how she did it but,")
+
+TextMain($43AC1566, 8, 1, "Coastas]")
+TextMain($43AC1595, 7, 0, "I'm amazed too!") //Doesn't feel right.
+
+TextMain($43AC15C3, 15, 1, "Costas]")
+TextMain($43AC15F2, 5, 0, "Maybe the girl is a")
+TextMain($43AC1610, 3, 0, "mermaid or something!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Bad ending route
 TextMain($43A4AF70, 16, 1, "Riana]  ")
 TextMain($43A4AFB0, 20, 0, "If you hit a girl,")
