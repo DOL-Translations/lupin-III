@@ -4,9 +4,9 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Lupin III Disc 1 | Win",
+            "label": "Lupin III Disc 1 | Linux",
             "type": "shell",
-            "command": "cls ; echo '[INFO] Compiling patches' ; tools\\bass\\win\\bass.exe src\\disc1\\Main.asm ; echo '[INFO] Patches compiled' ; echo ---------- ; echo Finished! ; echo ----------",
+            "command": "clear ; echo '[INFO] Compiling patches' ; ./tools/bass/lin/bass src/disc1/Main.asm ; echo '[INFO] Patches compiled' ; echo ---------- ; echo Finished! ; echo ----------",
             "problemMatcher": [],
             "group": {
                 "kind": "build",
@@ -14,9 +14,9 @@
             }
         },
         {
-            "label": "Lupin III Disc 2 | Win",
+            "label": "Lupin III Disc 2 | Linux",
             "type": "shell",
-            "command": "cls ; echo '[INFO] Compiling patches' ; tools\\bass\\win\\bass.exe src\\disc2\\Main.asm ; echo '[INFO] Patches compiled' ; echo ---------- ; echo Finished! ; echo ----------",
+            "command": "clear ; echo '[INFO] Compiling patches' ; ./tools/bass/lin/bass.exe src/disc2/Main.asm ; echo '[INFO] Patches compiled' ; echo ---------- ; echo Finished! ; echo ----------",
             "problemMatcher": [],
             "group": {
                 "kind": "build",

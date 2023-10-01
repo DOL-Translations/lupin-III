@@ -1,0 +1,14 @@
+Credits: original translation and programming done by Peter Lemon.
+
+New translation by: Bingokemski for originally joining the team and partially translating chapter 1 before needing to take a step back from the project.
+
+Cindi/Robindebank for finishing the rest of chapter 1, along with partial translation of chapter 7.
+
+Jebbi/Jebbi90 for translating chapters 2-6 (as of the time of this writing)
+
+New programming by: Radiant for for chapter 1 - (fill in later), and for being the one who started the whole project up after Peter Lemon left it.
+
+Special thanks to Drgn for teaching me how to set up the project, and it helped me debug stuff.
+
+
+Written 9/8/2023
