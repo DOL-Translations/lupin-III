@@ -6,13 +6,16 @@ origin $000000; insert "../../input/Lupin Disc 1 [J].iso" // Include Japanese Lu
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256
+  map '\n', 0x0A // Use [n] instead for newline, \n is only used for specific system text
   origin {OFFSET}
   db {TEXT}
 }
 
 macro TextSave(OFFSET, TEXT) {
+  map 0, 0, 256
+  map '\n', 0x0A // Use [n] instead for newline, \n is only used for specific system text
   origin {OFFSET}
-  db {TEXT} // ASCII Text To Print
+  db {TEXT}
 }
 
 macro TextMain(OFFSET, SPACE, SQUARE, TEXT) {
@@ -34,11 +37,28 @@ macro TextMain(OFFSET, SPACE, SQUARE, TEXT) {
   db "[n]", 0 // Text EOF
 }
 
+macro ReplaceAsset(ORIGIN, FILE, SIZE) {
+  if !file.exists({FILE}) {
+    print "{FILE} doesn't exist!"
+  } else if file.exists({FILE}) {
+    if (file.size({FILE}) > {SIZE} && {SIZE} != -1) {
+      Assert("File {FILE} is bigger than Size {SIZE}")
+    } else if (file.size({FILE}) <= {SIZE}) {
+      origin {ORIGIN}
+      insert {FILE}
+      fill {SIZE} - file.size({FILE})
+    }
+  }
+}
+
 //Region
-//Text($3, "E") was told to remove this idk.
+//Uncomment BOTH lines to change region. Doing so will garble the Japanese characters.
+//Text($3, "E")
+//origin $45B; db $01
 
 include "Banner.asm"
-include "Credits.asm"
-include "Menus.asm"
-include "Intro.asm"
-include "Chapter1.asm"
+include "System.asm"
+include "Text.asm"
+//include "Credits.asm"
+//include "Intro.asm"
+//include "Chapter1.asm"
