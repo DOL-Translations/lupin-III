@@ -2,6 +2,7 @@
 
 set ISOFile1=..\input\Lupin Disc 1 [J].iso
 set ISOFile2=..\input\Lupin Disc 2 [J].iso
+set ISOTargetSize=1459978240
 
 if not exist "%ISOFile1%" (
 	echo [INFO] "%ISOFile1%" was not found
@@ -9,6 +10,18 @@ if not exist "%ISOFile1%" (
 	echo Exiting in 10 seconds..
 	C:\Windows\System32\timeout.exe /t 10 /nobreak >nul
 	exit /b 0
+)
+
+for %%F in ("%ISOFile1%") do (
+    set "ISOSize=%%~zF"
+)
+
+if %ISOSize% neq %ISOTargetSize% (
+    echo [INFO] "%ISOFile1%" was has an incorrect size
+    echo Are you using the uncompressed ROM?
+    echo Exiting in 10 seconds..
+    C:\Windows\System32\timeout.exe /t 10 /nobreak >nul
+    exit /b 0
 )
 
 BinString.exe patch --source C:/Users/newgb/Documents/GitHub/DOL-Translations/lupin-iii/src/common/fs/COMMON/ --filter sfil.bin --output C:/Users/newgb/Documents/GitHub/DOL-Translations/lupin-iii/src/common/fs/COMMON/ --patch C:/Users/newgb/Documents/GitHub/DOL-Translations/lupin-iii/src/common/fs/COMMON/ --encoding "shift jis" --verbose
@@ -25,6 +38,18 @@ if not exist "%ISOFile2%" (
 	echo Exiting in 10 seconds..
 	C:\Windows\System32\timeout.exe /t 10 /nobreak >nul
 	exit /b 0
+)
+
+for %%F in ("%ISOFile2%") do (
+    set "ISOSize=%%~zF"
+)
+
+if %ISOSize% neq %ISOTargetSize% (
+    echo [INFO] "%ISOFile2%" was has an incorrect size
+    echo Are you using the uncompressed ROM?
+    echo Exiting in 10 seconds..
+    C:\Windows\System32\timeout.exe /t 10 /nobreak >nul
+    exit /b 0
 )
 
 echo [INFO] Compiling patches for disc2
