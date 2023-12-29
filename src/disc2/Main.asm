@@ -1,8 +1,8 @@
 // GameCube "Lupin The Third - Umi Ni Kieta Hihou" Japanese To English Translation by Radiant, started by krom (Peter Lemon):
 
 endian msb // Used To Encode SHIFT-JIS Words
-output "../../output/Lupin Disc 1 [U].iso", create
-origin $000000; insert "../../input/Lupin Disc 1 [J].iso" // Include Japanese Lupin The Third - Umi Ni Kieta Hihou GameCube ISO Disc 1
+output "../../output/Lupin Disc 2 [U].iso", create
+origin $000000; insert "../../input/Lupin Disc 2 [J].iso" // Include Japanese Lupin The Third - Umi Ni Kieta Hihou GameCube ISO Disc 1
 
 macro Text(OFFSET, TEXT) {
   map 0, 0, 256
@@ -59,9 +59,3 @@ include "Banner.asm"
 include "Dialogue.asm"
 include "../common/System.asm"
 include "../common/Text.asm"
-
-//Note: these will not be overwritten by BinString,
-//but additional text should be added to the json.
-include "Credits.asm"
-include "Intro.asm"
-include "Chapter1.asm"
