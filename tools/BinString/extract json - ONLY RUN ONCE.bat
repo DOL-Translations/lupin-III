@@ -1,0 +1,1 @@
+BinString.exe extract --source "C:\Users\newgb\Documents\GitHub\DOL-Translations\lupin-iii\src\disc1\fs\COMMON\sfil.BIN" --patch "C:\Users\newgb\Documents\GitHub\DOL-Translations\lupin-iii\src\disc1\fs\COMMON\sfil.BIN.json" --encoding "shift jis" --verbose --pattern "\[.*?\]\0\0(3)(?<length>.)(?<text>.*?)\0"
