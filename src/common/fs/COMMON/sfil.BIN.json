@@ -43769,7 +43769,7 @@
       "PositionHex": "0x0007D699",
       "ByteLengthDec": 39,
       "OriginalText": "　　　『リアナ・マルガリトス』さん。[n]",
-      "Replacement": " Her name is Liana Margaritos [n]" ,
+      "Replacement": " Her name is Liana Margaritos.[n]"
     },
     {
       "PositionDec": 513731,
@@ -44035,7 +44035,7 @@
       "PositionHex": "0x0007DF54",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　 ［Zai］[n]"
+      "Replacement": "　　　　　　 ［Zai] [n]"
     },
     {
       "PositionDec": 515975,
@@ -44049,7 +44049,7 @@
       "PositionHex": "0x0007DFB1",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　私以外にもまだいたとはな。[n]",
-      "Replacement": "   of the Oceanfolk descendants.[n]"
+      "Replacement": " of the Oceanfolk descendants.[n]"
     },
     {
       "PositionDec": 516061,
@@ -44063,7 +44063,7 @@
       "PositionHex": "0x0007DFEF",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　  ［Zai］[n]"
+      "Replacement": "　　　　　　  ［Zai] [n]"
     },
     {
       "PositionDec": 516130,
@@ -44091,21 +44091,21 @@
       "PositionHex": "0x0007E078",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　  ［Zai］[n]"
+      "Replacement": "　　　　　　  ［Zai] [n]"
     },
     {
       "PositionDec": 516267,
       "PositionHex": "0x0007E0AB",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　ミヌーパならば・・・。[n]",
-      "Replacement": "　    If she is the Minupa...[n]"
+      "Replacement": "　 If she is the Minupa...[n]"
     },
     {
       "PositionDec": 516339,
       "PositionHex": "0x0007E0F3",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　  ［Zai］[n]"
+      "Replacement": "　　　　　　  ［Zai] [n]"
     },
     {
       "PositionDec": 516390,
@@ -44119,7 +44119,7 @@
       "PositionHex": "0x0007E13E",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　リアナという娘について調べろ。[n]",
-      "Replacement": "              Look into her for me.[n]"
+      "Replacement": "           Look into her for me.[n]"
     },
     {
       "PositionDec": 516462,
@@ -44133,14 +44133,14 @@
       "PositionHex": "0x0007E180",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　  ［Zai］[n]"
+      "Replacement": "　　　　　　  ［Zai] [n]"
     },
     {
       "PositionDec": 516531,
       "PositionHex": "0x0007E1B3",
       "ByteLengthDec": 32,
       "OriginalText": "　　　　　　それと・・・、[k][n]",
-      "Replacement": "　　　　　　     Also...[k][n]"
+      "Replacement": "　　　　　   Also...[k][n]"
     },
     {
       "PositionDec": 516582,
@@ -44161,7 +44161,7 @@
       "PositionHex": "0x0007E228",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　  ［Zai］[n]"
+      "Replacement": "　　　　　　  ［Zai] [n]"
     },
     {
       "PositionDec": 516699,
@@ -44175,14 +44175,14 @@
       "PositionHex": "0x0007E2CB",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　［  Zai］[n]"
+      "Replacement": "　　　　　　［Zai] [n]"
     },
     {
       "PositionDec": 516862,
       "PositionHex": "0x0007E2FE",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　５年か・・・。[n]",
-      "Replacement": "　　　　Only 5 years...[n]"
+      "Replacement": "　　Only 5 years...[n]"
     },
     {
       "PositionDec": 516894,
@@ -44196,7 +44196,7 @@
       "PositionHex": "0x0007E330",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　  ［Zai］[n]"
+      "Replacement": "　　　　  ［Zai] [n]"
     },
     {
       "PositionDec": 517005,
@@ -44217,7 +44217,7 @@
       "PositionHex": "0x0007E3C5",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　  ［Zai］[n]"
+      "Replacement": "　　　　  ［Zai] [n]"
     },
     {
       "PositionDec": 517112,
@@ -44245,7 +44245,7 @@
       "PositionHex": "0x0007E458",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　［ザーイ］[n]",
-      "Replacement": "　　　　　　  ［Zai］[n]"
+      "Replacement": "　　　　　　  ［Zai] [n]"
     },
     {
       "PositionDec": 517259,
