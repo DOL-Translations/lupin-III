@@ -362,7 +362,8 @@ TextMain($43A55B1A, 21, 1, "Ferry Crew]")
 TextMain($43A55B62, 21, 0, "...Yes.")
 
 TextMain($43A55BA8, 9, 1, "Costas]")
-TextMain($43A55BE0, 1, 0, "Well, what happened just now?") //one character short of "Can you tell us what happened?" 
+//TextMain($43A55BE0, 1, 0, "Well, what happened just now?") //one character short of "Can you tell us what happened?" 
+//crashes
 
 //TextMain($43A55C21, 20, 1, "Ferry Crew]")
 //TextMain($43A55C72, 20, 0, "It happened...")
