@@ -6,7 +6,7 @@ TextMain($43A49580, 12, 1, "Theo] ")
 TextMain($43A495B2, 12, 0, "Amazing!")
 TextMain($43A495CC, 12, 0, "We did it, boss!")
 
-TextMain($43A49678, 0, 1, "Kostas]   ")
+TextMain($43A49678, 0, 1, "Costas]   ")
 TextMain($43A496A2, 0, 0, "Quite a bit,    ")
 TextMain($43A496B8, 0, 0, "still, more to come.")
 
@@ -40,7 +40,7 @@ TextMain($43A49F8F, 12, 1, "Aburio]   ")
 TextMain($43A49FC4, 5, 0, "If something happens,")
 TextMain($43A49FE4, 7, 0, "the mermaid will help us again!")
 
-TextMain($43A4A144, 6, 1, "Kostas]   ")
+TextMain($43A4A144, 6, 1, "Costas]   ")
 TextMain($43A4A174, 12, 0, "... Aburio")
 TextMain($43A4A190, 13, 0, "Hurry up!")
 

@@ -10,10 +10,10 @@ TextMain($43A49678, 0, 1, "Costas]   ")
 TextMain($43A496A2, 0, 0, "Thats a lot but,")
 TextMain($43A496B8, 0, 0, "theres more to come.")
 
-TextMain($43A4988C, 0, 1, "Aburio]   ")
+TextMain($43A4988C, 1, 1, "Abrio]   ")
 TextMain($43A498CA, 2, 0, "Hey, great job Theo!")
 
-TextMain($43A499A4, 0, 1, "Aburio]   ")
+TextMain($43A499A4, 1, 1, "Abrio]   ")
 TextMain($43A499D6, 6, 0, "Hey!")
 
 TextMain($43A49B1A, 12, 1, "Theo] ")
@@ -22,26 +22,26 @@ TextMain($43A49B3C, 16, 0, "Oh, my name...")
 TextMain($43A49B72, 12, 1, "Theo] ")
 TextMain($43A49B94, 12, 0, "My name is Theo.")
 
-TextMain($43A49BC4, 0, 1, "Aburio]   ")
+TextMain($43A49BC4, 1, 1, "Abrio]   ")
 TextMain($43A49BEE, 4, 0, "Hey!")
-TextMain($43A49CC2, 12, 1, "Aburio]   ")
+TextMain($43A49CC2, 13, 1, "Abrio]   ")
 TextMain($43A49D03, 12, 0, "Let's dive together!")
-TextMain($43A49D29, 16, 0, "It's exciting!")
+//TextMain($43A49E59, 16, 0, "It's exciting!")
 TextMain($43A49E09, 12, 1, "Theo] ")
-TextMain($43A49E59, 12, 1, "Aburio]   ")
+TextMain($43A49E59, 13, 1, "Abrio]   ")
 TextMain($43A49E8F, 9, 0, "What? He says its fine!")
 
 TextMain($43A49F07, 12, 1, "Theo] ")
 
-TextMain($43A49F8F, 12, 1, "Aburio]   ")
+TextMain($43A49F8F, 13, 1, "Abrio]   ")
 TextMain($43A49FC4, 5, 0, "If something happens,")
 TextMain($43A49FE4, 12, 0, "the mermaid will save you!")
 
 TextMain($43A4A144, 6, 1, "Costas]   ")
-TextMain($43A4A174, 12, 0, "... Aburio")
+TextMain($43A4A174, 13, 0, "... Abrio")
 TextMain($43A4A190, 13, 0, "Hurry up!")
 
-TextMain($43A4A1BA, 12, 1, "Aburio]   ")
+TextMain($43A4A1BA, 13, 1, "Abrio]   ")
 TextMain($43A4A1F0, 15, 0, "Ah-")
 TextMain($43A4A208, 18, 0, "Y-yes!")
 
@@ -92,8 +92,8 @@ TextSave($43A4AE9E, "  Oh, sorry.")                     //This is the right choi
 
 //Good route
 TextMain($43A4ECA8, 4, 1, "Theo] ")
-TextMain($43A4ECE7, 5, 0, "Ah, I'm so sorry.")
-// THIS KEEPS CRASHING FOR NO REASON??? TextMain($43A4ED03, 1, 0, "Heading to... the ferry?")
+//TextMain($43A4ECE7, 5, 0, "Ah, I'm so sorry.")
+// Put to sfil instead, it simply works. TextMain($43A4ED03, 1, 0, "Heading to... the ferry?")
 
 TextMain($43A4ED31, 16, 1, "Riana]  ")
 TextMain($43A4EDE6, 13, 0, "That's right!")
@@ -139,8 +139,8 @@ TextSave($43A4F75D, " Take a look at it")
 TextSave($43A4F773, " Leave it alone   ")
 
 TextMain($43A4F7C7, 1, 1, "Theo]")
-TextMain($43A4F7DE, 0, 0, "I'll keep it.")
-TextMain($43AB50A8, 1, 0, "...Oh, right!")
+//TextMain($43A4F7DE, 0, 0, "I'll keep it.")
+//TextMain($43AB50A8, 1, 0, "...Oh, right!") Moved to json
 
 TextMain($43AB503A, 1, 1, "Theo]")
 TextMain($43AB505F, 4, 0, "I guess.") 
@@ -364,9 +364,9 @@ TextMain($43A55B62, 21, 0, "...Yes.")
 TextMain($43A55BA8, 9, 1, "Costas]")
 TextMain($43A55BE0, 1, 0, "Well, what happened just now?") //one character short of "Can you tell us what happened?" 
 
-TextMain($43A55C21, 20, 1, "Ferry Crew]")
-TextMain($43A55C72, 20, 0, "It happened...")
-TextMain($43A55C9A, 2, 0, "right after the ferry crashed.")
+//TextMain($43A55C21, 20, 1, "Ferry Crew]")
+//TextMain($43A55C72, 20, 0, "It happened...")
+//TextMain($43A55C9A, 2, 0, "right after the ferry crashed.")
 
 TextMain($43A55CE0, 21, 1, "Ferry Crew]")
 TextMain($43A55D28, 18, 0, "Most of us")
@@ -401,7 +401,7 @@ TextMain($43A5621A, 7, 0, "I'd say about 18...")
 TextMain($43A56258, 18, 0, "to 22 meters deep.")
 
 TextMain($43A56294, 8, 1, "Captain]")
-TextMain($43A562CC, 1, 0, "Its deeper the more north you are.")
+//TextMain($43A562CC, 1, 0, "Its deeper the more north you are.")
 
 TextMain($43A56310, 9, 1, "Costas]")
 TextMain($43A56348, 1, 0, "How are the others?")
@@ -410,7 +410,7 @@ TextMain($43A5637E, 21, 1, "Ferry Crew]")
 TextMain($43A563C6, 10, 0, "I'll go and check.")
 
 TextMain($43A5640C, 13, 1, "Theo]")
-TextMain($43A5643E, 18, 0, "A girl...")
+TextMain($43A5643E, 17, 0, "A girl...")
 
 TextMain($43A56480, 13, 1, "Theo]")
 TextMain($43A564B2, 18, 0, "Did that girl...")
@@ -433,11 +433,11 @@ TextMain($43A566E4, 9, 1, "Costas]")
 TextMain($43A5671C, 3, 0, "Just do what you can, Theo.")
 TextMain($43A56740, 3, 0, "Don't overthink it.")
 
-TextMain($43A56934, 9, 1, "Costas]")
-TextMain($43A56969, 6, 0, "All right, let's go!")
+//TextMain($43A56934, 9, 1, "Costas]")
+//TextMain($43A56969, 6, 0, "All right, let's go!")
 
-TextMain($43A56AE1, 15, 1, "Costas]")
-TextMain($43A56B1A, 5, 0, "Abrio, is everything okay?")
+//TextMain($43A56AE1, 15, 1, "Costas]")
+TextMain($43A56B1A, 6, 0, "Abrio, is everything okay?")
 
 TextMain($43A56B5C, 16, 1, "Abrio]")
 TextMain($43A56B91, 16, 0, "Yes!")
@@ -457,7 +457,7 @@ TextMain($43A56F17, 7, 0, "Ah!")
 TextMain($43A56F27, 6, 0, "The ferry moved!")
 
 TextMain($43A56F95, 7, 1, "Costas]")
-TextMain($43A56FC2, 1, 0, "It sank to a lower ledge") //Want to add a period here :(
+//TextMain($43A56FC2, 1, 0, "It sank to a lower ledge") //Want to add a period here :(
 TextMain($43A56FF3, 8, 0, "Be careful, Abrio.")
 
 TextMain($43A57033, 14, 1, "Catpain]")
