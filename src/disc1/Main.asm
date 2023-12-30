@@ -52,13 +52,21 @@ macro ReplaceAsset(ORIGIN, FILE, SIZE) {
 }
 
 //Region
-//Uncomment BOTH lines to change region. Doing so will garble the Japanese characters.
-//Text($3, "E")
-//origin $45B; db $01
+Text($3, "E")
+origin $45B; db $01
 
 include "Banner.asm"
+<<<<<<< HEAD
 include "System.asm"
 include "Text.asm"
+=======
+include "Dialogue.asm"
+include "../common/System.asm"
+include "../common/Text.asm"
+
+//Note: these will not be overwritten by BinString,
+//but additional text should be added to the json.
+>>>>>>> e49bf609e6064edd74087346a7168ed5fd1c3a1c
 include "Credits.asm"
 include "Intro.asm"
 include "Chapter1.asm"

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Main Game
 TextMain($43A494D0, 18, 1, "Captain]")
 TextMain($43A4950A, 24, 0, "... Hey you!")
@@ -97,3 +98,7 @@ TextMain($43A4AFDC, 15, 0, "you should ask her \dAre you OK?\d!")
 
 TextMain($43A4B02E, 6, 1, "Theo] ")
 TextMain($43A4B05A, 9, 0, "Huh...?")
+=======
+// Dialogue
+ReplaceAsset($43A4426C, "../common/fs/COMMON/sfil.BIN", 667392)
+>>>>>>> e49bf609e6064edd74087346a7168ed5fd1c3a1c
