@@ -1,6 +1,3 @@
-// Dialogue
-ReplaceAsset($43A4426C, "fs/COMMON/sfil.BIN", 667392)
-
 // General Menus - 11 strings
 Text($000D5E90, "[x32][y32]             [p2][x18][y18]Scenario Clear [d1>7]/[d1>8][x24][y24][p0][n][n]") ; fill $20
 Text($000D5EF9, "  [x20][y20][d4>0]YR[d2>1]MN[d2>2]DY[d2>3]HR[d2>4]MN Play time[d2>5]HRS[d2>6]MIN[x24][y24]") ; fill $20
