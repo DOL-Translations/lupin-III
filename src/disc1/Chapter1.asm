@@ -484,7 +484,7 @@ TextMain($43A5740A, 14, 1, "Captain]")
 TextMain($43A57430, 23, 0, "Good...")
 
 TextMain($43A5746C, 7, 1, "Costas]")
-TextMain($43A57499, 2, 0, "Abrio, search the entrence.") //Stopped here
+//TextMain($43A57499, 2, 0, "Abrio, search the entrence.") //Stopped here
 
 TextMain($43A574D3, 8, 1, "Abrio]")
 TextMain($43A57500, 6, 0, "Right.")
@@ -501,7 +501,7 @@ TextMain($43AC0842, 1, 0, "shes waiting to be saved!")
 
 TextMain($43AC088A, 11, 1, "Theo]")
 TextMain($43AC08D7, 11, 0, "Please,")
-TextMain($43AC08EF, 17, 0, "help her quickly!")
+//TextMain($43AC08EF, 17, 0, "help her quickly!")
 
 TextMain($43AC092D, 14, 1, "Captain]")
 TextMain($43AC096A, 19, 0, "... Theo.")
@@ -513,7 +513,7 @@ TextMain($43AC0A0D, 3, 0, "...Let's hurry!")
 TextMain($43AC0A3D, 8, 1, "Abrio]")
 TextMain($43AC0A6A, 6, 0, "Right!")
 
-TextMain($43AC0B3A, 8, 1, "Abrio]")
+//TextMain($43AC0B3A, 8, 1, "Abrio]")
 TextMain($43AC0B71, 12, 0, "Boss, is this-?!")
 
 TextMain($43AC0BA1, 13, 1, "Costas]")
@@ -545,9 +545,9 @@ TextMain($43AC1138, 7, 1, "Costas]")
 TextMain($43AC1165, 4, 0, "Wait...!")
 TextMain($43AC11B0, 3, 0, "I found the girl!")
 
-TextMain($43AC1270, 13, 1, "Captain")
-TextMain($43AC12A3, 20, 0, "This is Constantine Salvage.")
-TextMain($43AC12D9, 4, 0, "We'll back back 20 minutes.")
+//TextMain($43AC1270, 13, 1, "Captain")
+//TextMain($43AC12A3, 20, 0, "This is Constantine Salvage.")
+//TextMain($43AC12D9, 4, 0, "We'll back back 20 minutes.")
 
 TextMain($43AC1311, 12, 1, "Captain]")
 TextMain($43AC1344, 6, 0, "Get an ambulance ready for us!")
@@ -564,14 +564,14 @@ TextMain($43AC14B1, 5, 0, "To think,")
 TextMain($43AC14C5, 1, 0, "someone survived such conditions!")
 
 TextMain($43AC14FB, 14, 1, "Coastas]")
-TextMain($43AC1530, 2, 0, "I don't know how she did it but,")
+TextMain($43AC1530, 3, 0, "I don't know how she did it but")
 
-TextMain($43AC1566, 8, 1, "Coastas]")
-TextMain($43AC1595, 7, 0, "I'm amazed too!") //Doesn't feel right.
+//TextMain($43AC1566, 8, 1, "Coastas]")
+//TextMain($43AC1595, 7, 0, "I'm amazed too!") //Doesn't feel right.
 
-TextMain($43AC15C3, 15, 1, "Costas]")
-TextMain($43AC15F2, 5, 0, "Maybe the girl is a")
-TextMain($43AC1610, 3, 0, "mermaid or something!")
+//TextMain($43AC15C3, 15, 1, "Costas]")
+//TextMain($43AC15F2, 5, 0, "Maybe the girl is a")
+//TextMain($43AC1610, 3, 0, "mermaid or something!")
 
 
 
