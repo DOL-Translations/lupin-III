@@ -56,8 +56,12 @@ Text($3, "E")
 origin $45B; db $01
 
 include "Banner.asm"
-include "System.asm"
-include "Text.asm"
+include "Dialogue.asm"
+include "../common/System.asm"
+include "../common/Text.asm"
+
+//Note: these will not be overwritten by BinString,
+//but additional text should be added to the json.
 include "Credits.asm"
 include "Intro.asm"
 include "Chapter1.asm"
