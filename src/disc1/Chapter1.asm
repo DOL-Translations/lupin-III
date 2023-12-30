@@ -26,7 +26,7 @@ TextMain($43A49BC4, 1, 1, "Abrio]   ")
 TextMain($43A49BEE, 4, 0, "Hey!")
 TextMain($43A49CC2, 13, 1, "Abrio]   ")
 TextMain($43A49D03, 12, 0, "Let's dive together!")
-//TextMain($43A49E59, 16, 0, "It's exciting!")
+TextMain($43A49D29, 16, 0, "It's exciting!")
 TextMain($43A49E09, 12, 1, "Theo] ")
 TextMain($43A49E59, 13, 1, "Abrio]   ")
 TextMain($43A49E8F, 9, 0, "What? He says its fine!")
@@ -481,10 +481,10 @@ TextMain($43A57385, 7, 1, "Costas]")
 TextMain($43A573D4, 1, 0, "I've reached the ferry.")
 
 TextMain($43A5740A, 14, 1, "Captain]")
-TextMain($43A57430, 21, 0, "Good...")
+TextMain($43A57430, 23, 0, "Good...")
 
 TextMain($43A5746C, 7, 1, "Costas]")
-TextMain($43A57499, 2, 0, "Abrio, search the entrence.")
+TextMain($43A57499, 2, 0, "Abrio, search the entrence.") //Stopped here
 
 TextMain($43A574D3, 8, 1, "Abrio]")
 TextMain($43A57500, 6, 0, "Right.")
