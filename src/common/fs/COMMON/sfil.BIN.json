@@ -5136,7 +5136,7 @@
       "PositionHex": "0x0001322F",
       "ByteLengthDec": 31,
       "OriginalText": "　　アブリオ、入口を探そう。[n]",
-      "Replacement": "　　アブリオ、入口を探そう。[n]"
+      "Replacement": "　　アブリオ、入口を探そう。[n]" // Left of here
     },
     {
       "PositionDec": 78441,
