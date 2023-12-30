@@ -24,7 +24,7 @@ if %ISOSize% neq %ISOTargetSize% (
     exit /b 0
 )
 
-BinString.exe patch --source C:/Users/newgb/Documents/GitHub/DOL-Translations/lupin-iii/src/common/fs/COMMON/ --filter sfil.bin --output C:/Users/newgb/Documents/GitHub/DOL-Translations/lupin-iii/src/common/fs/COMMON/ --patch C:/Users/newgb/Documents/GitHub/DOL-Translations/lupin-iii/src/common/fs/COMMON/ --encoding "shift jis" --verbose
+BinString.exe patch --source C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --filter sfil.bin --output C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --patch C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --encoding "shift jis" --verbose
 
 echo [INFO] Compiling patches for disc1
 

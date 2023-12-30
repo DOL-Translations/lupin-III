@@ -2476,7 +2476,7 @@
       "PositionHex": "0x00005ABF",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　コーフンするぜっ！[n]",
-      "Replacement": "　　　　　It is exciting![n]"
+      "Replacement": "　　　　　　コーフンするぜっ！[n]"
     },
     {
       "PositionDec": 23455,
@@ -2497,7 +2497,7 @@
       "PositionHex": "0x00005BEF",
       "ByteLengthDec": 27,
       "OriginalText": "　　　　　　［アブリオ］[n]",
-      "Replacement": "　　　　　　［Abrio］[n]"
+      "Replacement": "　　　　　　［アブリオ］[n]"
     },
     {
       "PositionDec": 23589,
@@ -2525,7 +2525,7 @@
       "PositionHex": "0x00005D25",
       "ByteLengthDec": 27,
       "OriginalText": "　　　　　　［アブリオ］[n]",
-      "Replacement": "　　　　　　［Abrio］[n]"
+      "Replacement": "　　　　　　［アブリオ］[n]"
     },
     {
       "PositionDec": 23898,
@@ -3057,14 +3057,14 @@
       "PositionHex": "0x0000AA7D",
       "ByteLengthDec": 25,
       "OriginalText": "　　あ、ごめんなさい。[n]",
-      "Replacement": " Ah, I'm so sorry.[n]"
+      "Replacement": " I'm so sorry.[n]"
     },
     {
       "PositionDec": 43673,
       "PositionHex": "0x0000AA99",
       "ByteLengthDec": 28,
       "OriginalText": "　　もしかして､フェリー？[n]",
-      "Replacement": " Going to the ferry?[n]"
+      "Replacement": " Headed to the ferry?[n]"
     },
     {
       "PositionDec": 43719,
@@ -4457,7 +4457,7 @@
       "PositionHex": "0x00011976",
       "ByteLengthDec": 33,
       "OriginalText": "　　　状況を聞かせてくれるか？[n]",
-      "Replacement": "　　　状況を聞かせてくれるか？[n]"
+      "Replacement": " What happend just now?[n]"
     },
     {
       "PositionDec": 72118,
@@ -4688,7 +4688,7 @@
       "PositionHex": "0x00012062",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　北に行くほど、深くなる。[n]",
-      "Replacement": " The ravine gets deeper. [n]"
+      "Replacement": " It gets deeper for a while.[n]"
     },
     {
       "PositionDec": 73894,
@@ -4856,7 +4856,7 @@
       "PositionHex": "0x000126FF",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　よし、行くぞ！[n]",
-      "Replacement": " All right, lets go![n]"
+      "Replacement": " All right, let's go![n]"
     },
     {
       "PositionDec": 75895,
@@ -4975,7 +4975,7 @@
       "PositionHex": "0x00012D58",
       "ByteLengthDec": 30,
       "OriginalText": "　　下の岩棚まで落ちた。[k][n]",
-      "Replacement": " It sank into a ledge.[k][n]"
+      "Replacement": " It sank to a ledge.[k][n]"
     },
     {
       "PositionDec": 77193,
@@ -5122,7 +5122,7 @@
       "PositionHex": "0x000131C6",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　　　そうか・・・。[n]",
-      "Replacement": "　　　　　　　Good...[n]" //Left off here
+      "Replacement": "　　　　　　　　そうか・・・。[n]"
     },
     {
       "PositionDec": 78338,
@@ -5136,7 +5136,7 @@
       "PositionHex": "0x0001322F",
       "ByteLengthDec": 31,
       "OriginalText": "　　アブリオ、入口を探そう。[n]",
-      "Replacement": "　　アブリオ、入口を探そう。[n]"
+      "Replacement": "　　アブリオ、入口を探そう。[n]" // Left of here
     },
     {
       "PositionDec": 78441,
@@ -40507,7 +40507,7 @@
       "PositionHex": "0x00070E3E",
       "ByteLengthDec": 17,
       "OriginalText": "・・・そうだ！[n]",
-      "Replacement": "... Wait![n]"
+      "Replacement": " Oh, right![n]"
     },
     {
       "PositionDec": 462418,
