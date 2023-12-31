@@ -362,12 +362,7 @@ TextMain($43A55B1A, 21, 1, "Ferry Crew]")
 TextMain($43A55B62, 21, 0, "...Yes.")
 
 TextMain($43A55BA8, 9, 1, "Costas]")
-//TextMain($43A55BE0, 1, 0, "Well, what happened just now?") //one character short of "Can you tell us what happened?" 
-//crashes
 
-//TextMain($43A55C21, 20, 1, "Ferry Crew]")
-//TextMain($43A55C72, 20, 0, "It happened...")
-//TextMain($43A55C9A, 2, 0, "right after the ferry crashed.")
 
 TextMain($43A55CE0, 21, 1, "Ferry Crew]")
 TextMain($43A55D28, 18, 0, "Most of us")
@@ -402,7 +397,7 @@ TextMain($43A5621A, 7, 0, "I'd say about 18...")
 TextMain($43A56258, 18, 0, "to 22 meters deep.")
 
 TextMain($43A56294, 8, 1, "Captain]")
-//TextMain($43A562CC, 1, 0, "Its deeper the more north you are.")
+
 
 TextMain($43A56310, 9, 1, "Costas]")
 TextMain($43A56348, 1, 0, "How are the others?")
@@ -434,10 +429,6 @@ TextMain($43A566E4, 9, 1, "Costas]")
 TextMain($43A5671C, 3, 0, "Just do what you can, Theo.")
 TextMain($43A56740, 3, 0, "Don't overthink it.")
 
-//TextMain($43A56934, 9, 1, "Costas]")
-//TextMain($43A56969, 6, 0, "All right, let's go!")
-
-//TextMain($43A56AE1, 15, 1, "Costas]")
 TextMain($43A56B1A, 6, 0, "Abrio, is everything okay?")
 
 TextMain($43A56B5C, 16, 1, "Abrio]")
@@ -458,7 +449,7 @@ TextMain($43A56F17, 7, 0, "Ah!")
 TextMain($43A56F27, 6, 0, "The ferry moved!")
 
 TextMain($43A56F95, 7, 1, "Costas]")
-//TextMain($43A56FC2, 1, 0, "It sank to a lower ledge") //Want to add a period here :(
+
 TextMain($43A56FF3, 8, 0, "Be careful, Abrio.")
 
 TextMain($43A57033, 14, 1, "Catpain]")
@@ -484,7 +475,7 @@ TextMain($43A5740A, 14, 1, "Captain]")
 TextMain($43A57430, 23, 0, "Good...")
 
 TextMain($43A5746C, 7, 1, "Costas]")
-//TextMain($43A57499, 2, 0, "Abrio, search the entrence.") //Stopped here
+
 
 TextMain($43A574D3, 8, 1, "Abrio]")
 TextMain($43A57500, 6, 0, "Right.")
@@ -501,7 +492,7 @@ TextMain($43AC0842, 1, 0, "shes waiting to be saved!")
 
 TextMain($43AC088A, 11, 1, "Theo]")
 TextMain($43AC08D7, 11, 0, "Please,")
-//TextMain($43AC08EF, 17, 0, "help her quickly!")
+
 
 TextMain($43AC092D, 14, 1, "Captain]")
 TextMain($43AC096A, 19, 0, "... Theo.")
@@ -513,7 +504,7 @@ TextMain($43AC0A0D, 3, 0, "...Let's hurry!")
 TextMain($43AC0A3D, 8, 1, "Abrio]")
 TextMain($43AC0A6A, 6, 0, "Right!")
 
-//TextMain($43AC0B3A, 8, 1, "Abrio]")
+
 TextMain($43AC0B71, 12, 0, "Boss, is this-?!")
 
 TextMain($43AC0BA1, 13, 1, "Costas]")
@@ -545,9 +536,7 @@ TextMain($43AC1138, 7, 1, "Costas]")
 TextMain($43AC1165, 4, 0, "Wait...!")
 TextMain($43AC11B0, 3, 0, "I found the girl!")
 
-//TextMain($43AC1270, 13, 1, "Captain")
-//TextMain($43AC12A3, 20, 0, "This is Constantine Salvage.")
-//TextMain($43AC12D9, 4, 0, "We'll back back 20 minutes.")
+
 
 TextMain($43AC1311, 12, 1, "Captain]")
 TextMain($43AC1344, 6, 0, "Get an ambulance ready for us!")
@@ -566,32 +555,15 @@ TextMain($43AC14C5, 1, 0, "someone survived such conditions!")
 TextMain($43AC14FB, 14, 1, "Coastas]")
 TextMain($43AC1530, 3, 0, "I don't know how she did it but")
 
-//TextMain($43AC1566, 8, 1, "Coastas]")
-//TextMain($43AC1595, 7, 0, "I'm amazed too!") //Doesn't feel right.
+// To fix .json bugs
 
-//TextMain($43AC15C3, 15, 1, "Costas]")
-//TextMain($43AC15F2, 5, 0, "Maybe the girl is a")
-//TextMain($43AC1610, 3, 0, "mermaid or something!")
+//Good route
+TextMain($43AC21F1, 8, 0, " To think I was the last")
 
 
+TextMain($43AC3AEE, 7, 0, " The only proof they existed...")
 
-
-
-
-
-
-
-
-
-
-
+TextMain($43AC5A50, 10, 0, " There should be enough treasure")
 
 
 //Bad ending route
-TextMain($43A4AF70, 16, 1, "Riana]  ")
-TextMain($43A4AFB0, 20, 0, "If you hit a girl,")
-//TextMain($43A4AFDC, 6, 0, "you should ask if they're okay! ") THIS KEEPS CRASHING, IDK WHY
-TextMain($43A4B02E, 6, 1, "Theo] ")
-TextMain($43A4B05A, 9, 0, "Huh...?")
-
-TextMain($43A4B0C8, 6, 1, "But... you...   ")
