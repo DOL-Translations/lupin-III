@@ -139,8 +139,6 @@ TextSave($43A4F75D, " Take a look at it")
 TextSave($43A4F773, " Leave it alone   ")
 
 TextMain($43A4F7C7, 1, 1, "Theo]")
-//TextMain($43A4F7DE, 0, 0, "I'll keep it.")
-//TextMain($43AB50A8, 1, 0, "...Oh, right!") Moved to json
 
 TextMain($43AB503A, 1, 1, "Theo]")
 TextMain($43AB505F, 4, 0, "I guess.") 
