@@ -92,8 +92,6 @@ TextSave($43A4AE9E, "  Oh, sorry.")                     //This is the right choi
 
 //Good route
 TextMain($43A4ECA8, 4, 1, "Theo] ")
-//TextMain($43A4ECE7, 5, 0, "Ah, I'm so sorry.")
-// Put to sfil instead, it simply works. TextMain($43A4ED03, 1, 0, "Heading to... the ferry?")
 
 TextMain($43A4ED31, 16, 1, "Riana]  ")
 TextMain($43A4EDE6, 13, 0, "That's right!")
@@ -122,7 +120,7 @@ TextMain($43A4F3FD, 14, 0, "I'm sorry!")
 
 TextMain($43A4F487, 4, 1, "Theo] ")
 TextMain($43A4F4B0, 4, 0, "What the hell...")
-TextMain($43A4F4CA, 9, 0, "But you bumped into me...") 
+TextMain($43A4F4CA, 13, 0, "You bumped into me...") 
 
 TextMain($43A4F508, 4, 1, "Theo] ")
 TextMain($43A4F531, 4, 0, "I hope she got everything...")
@@ -141,7 +139,8 @@ TextSave($43A4F773, " Leave it alone   ")
 TextMain($43A4F7C7, 1, 1, "Theo]")
 
 TextMain($43AB503A, 1, 1, "Theo]")
-TextMain($43AB505F, 4, 0, "I guess.") 
+TextMain($43AB505F, 5, 0, "A book?") 
+
 
 TextMain($43AB5083, 1, 1, "Theo]")
 TextMain($43AB50BC, 2, 0, "I should hurry to Grandpa's!")
@@ -323,7 +322,7 @@ TextMain($43A54185, 1, 0, "Theo, if they ask for Lupin")
 TextMain($43A541BC, 3, 0, "please, keep it a secret.")
 
 TextMain($43A541F0, 0, 1, "Professor]")
-TextMain($43A54219, 2, 0, "All right?")
+TextMain($43A54219, 4, 0, "Alright?")
 
 TextMain($43A54243, 13, 1, "Theo]")
 TextMain($43A54274, 16, 0, "...Okay.")
@@ -343,7 +342,7 @@ TextMain($43A54552, 6, 0, "The ferry?")
 
 TextMain($43A54576, 17, 1, "Costas]")
 TextMain($43A545B5, 12, 0, "Come on, Theo!")
-TextMain($43A545D5, 8, 0, "We're heading out too!")
+TextMain($43A545D5, 12, 0, "We're heading out!")
 
 TextMain($43A54615, 7, 1,  "Theo]")
 TextMain($43A54640, 9, 0, "O-okay!")
@@ -421,7 +420,7 @@ TextMain($43A56628, 11, 0, "Theo...")
 TextMain($43A56640, 2, 0, "Do you know this girl?")
 
 TextMain($43A5667A, 13, 1, "Theo]")
-TextMain($43A566B4, 3, 0, "...Yea I saw her earlier.")
+TextMain($43A566B4, 3, 0, "...Ya, I saw her earlier.")
 
 TextMain($43A566E4, 9, 1, "Costas]")
 TextMain($43A5671C, 3, 0, "Just do what you can, Theo.")
@@ -482,7 +481,7 @@ TextMain($43A57576, 14, 1, "Captain]")
 TextMain($43A575B3, 4, 0, "Over two hours has passed already...")
 
 TextMain($43A57637, 2, 0, "Path")
-TextSave($43A57647, " They're alive")
+TextSave($43A57647, " She is alive!")
 
 TextMain($43AC07CD, 11, 1, "Theo]")
 TextMain($43AC081C, 7, 0, "That girl is still alive,")
@@ -520,7 +519,7 @@ TextMain($43AC0EB7, 9, 0, "This is all my fault...") //529 -537 could prob be be
 
 TextMain($43AC0F05, 11, 1, "Theo]")
 TextMain($43AC0F46, 1, 0, "if only I didn't yell at them")
-TextMain($43AC0F6A, 3, 0, "asking to stop the ferry,")
+TextMain($43AC0F6A, 10, 0, "to stop the ferry,")
 
 TextMain($43AC0FAC, 11, 1, "Theo]")
 TextMain($43AC0FE3, 2, 0, "she would have missed the ferry,")
