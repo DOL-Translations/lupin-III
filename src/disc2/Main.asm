@@ -57,5 +57,6 @@ origin $45B; db $01
 
 include "Banner.asm"
 include "Dialogue.asm"
+include "Tpl.asm"
 include "../common/System.asm"
 include "../common/Text.asm"
