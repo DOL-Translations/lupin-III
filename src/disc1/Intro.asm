@@ -12,7 +12,7 @@ TextMain($43A45668, 12, 1, "Lupin]  ")
 TextMain($43A4568C, 18, 0, "Look!!")
 
 TextMain($43A456C8, 4, 1, "Jigen]        ")
-TextMain($43A456EA, 13, 0, "Oh, no...")
+TextMain($43A456EA, 15, 0, "Huh...?")
 TextMain($43A45706, 8, 0, "What the hell is this?")
                         
 TextMain($43A4574C, 0, 1, "Jigen]")
@@ -34,7 +34,7 @@ TextMain($43A4591C, 0, 1, "Jigen]")
 TextMain($43A45932, 2, 0, "Really? ")
 
 TextMain($43A45964, 10, 1, "Jigen]")
-TextMain($43A45984, 10, 0, "For such an imposing thing")
+TextMain($43A45984, 13, 0, "For such an small thing")
 TextMain($43A459AE, 11, 0, "I just dont see it.")
 
 TextMain($43A459F4, 4, 1, "Jigen]")
@@ -73,8 +73,8 @@ TextMain($43A45E7E, 2, 1, "Jigen]")
 TextMain($43A45E96, 2, 0, "That bastard put a hole in the barrel!")
 
 TextMain($43A45FB2, 6, 1, "Jigen]")
-TextMain($43A45FED, 0, 0, "Looks like there's more people than us")
-TextMain($43A46019, 7, 0, "that's after this thing, Lupin.")
+TextMain($43A45FED, 4, 0, "Looks like we're not the only ones")
+TextMain($43A46019, 5, 0, "that are after this thing, Lupin.")
 
 TextMain($43A46095, 12, 1, "Lupin]  ")
 TextMain($43A460E6, 13, 0, "What did I say?")
@@ -85,8 +85,8 @@ TextMain($43A461B0, 7, 0, "So...")
 TextMain($43A461DF, 1, 0, "what's so great about it?")
 
 TextMain($43A46269, 12, 1, "Lupin]  ")
-TextMain($43A462AC, 10, 0, "Im going to somone who knows why")
-TextMain($43A462DC, 14, 0, "we're going to them now!")
+TextMain($43A462AC, 6, 0, "I dunno, but I know someone who will")
+TextMain($43A462DC, 8, 0, "we're gonna go visit them now!")
 
 TextMain($43A46372, 6, 1, "Jigen]")
 TextMain($43A463A5, 1, 0, "Wait, what?")
