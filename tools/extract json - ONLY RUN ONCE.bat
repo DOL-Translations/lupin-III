@@ -1,1 +1,0 @@
-BinString.exe extract --source "C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON\sfil.BIN" --patch "C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON\sfil.BIN.json" --encoding "shift jis" --verbose --pattern "(3)(?<length>[\x08-\xFF])(?<text>(?=[\x5B\u0080-\uFFFF]).*?\])(\0)"
