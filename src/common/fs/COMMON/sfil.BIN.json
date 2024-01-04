@@ -5451,7 +5451,7 @@
       "PositionHex": "0x00016304",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　そう見える？[n]",
-      "Replacement": " Do I really look like one?[n]" //Might crash
+      "Replacement": " Do I really look like one?[n]"
     },
     {
       "PositionDec": 90922,
@@ -6214,7 +6214,7 @@
       "PositionHex": "0x00017BBD",
       "ByteLengthDec": 11,
       "OriginalText": "［婦長］[n]",
-      "Replacement": "［Nurse][n]" //This will crash
+      "Replacement": "［Nurse][n]"
     },
     {
       "PositionDec": 97258,
@@ -6242,7 +6242,7 @@
       "PositionHex": "0x00017C55",
       "ByteLengthDec": 49,
       "OriginalText": "リアナは言葉がでなくなっているけど、その事には[n]",
-      "Replacement": "Liana can't talk, but don't mention it-[n]" //This may crash.
+      "Replacement": "Liana can't talk, but don't mention it-[n]"
     },
     {
       "PositionDec": 97417,
@@ -6326,7 +6326,7 @@
       "PositionHex": "0x000181D0",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　あなたを助けてくれた[n]",
-      "Replacement": "These are the people who[n]" //Might crash
+      "Replacement": "These are the people who[n]"
     },
     {
       "PositionDec": 98802,
@@ -6781,7 +6781,7 @@
       "PositionHex": "0x0001912D",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　・・・もう大丈夫かな。[n]",
-      "Replacement": "Is she going to be okay now?[n]" // might crash
+      "Replacement": "Is she going to be okay now?[n]"
     },
     {
       "PositionDec": 102765,
@@ -7159,7 +7159,7 @@
       "PositionHex": "0x00019B24",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　あ、よかったらもう少しだけ。[n]",
-      "Replacement": "I'd like a little more time, please![n]" // Might crash
+      "Replacement": "I'd like a little more time, please![n]" 
     },
     {
       "PositionDec": 105316,
@@ -7467,7 +7467,7 @@
       "PositionHex": "0x0001A562",
       "ByteLengthDec": 49,
       "OriginalText": "　　　　　　しかし小さな生き物になる・・・か。[n]",
-      "Replacement": " To be a small fish...?[n]" //Might crash
+      "Replacement": " To be a small fish...?[n]" 
     },
     {
       "PositionDec": 107926,
