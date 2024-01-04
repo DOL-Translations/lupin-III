@@ -1,3 +1,4 @@
 *.iso
 *.dol
 *.sav
+src/common/fs/COMMON/sfil.BIN
