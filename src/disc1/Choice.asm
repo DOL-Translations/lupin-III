@@ -1,3 +1,5 @@
+//Chapter 2 Choices
+
 TextSave($43A5B29E, " Alright")  
 
 TextSave($43A5C6CC, " Did you drop this book?          ")
@@ -19,3 +21,8 @@ TextSave($43A60F1B, " ... I have   ")
 TextSave($43A60F2D, " N-no I did not   ")
 
 TextSave($43A5CBC3, " Did you drop this book?          ")
+
+//Chapter 3 Choices
+
+TextSave($43A68109, " Listen to Costas's conversation   ")
+TextSave($43A68131, " Go to the hospital now ")
