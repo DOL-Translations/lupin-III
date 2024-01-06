@@ -11,11 +11,16 @@ macro Text(OFFSET, TEXT) {
   db {TEXT}
 }
 
+// for Memory Card text
 macro TextSave(OFFSET, TEXT) {
   map 0, 0, 256
   map '\n', 0x0A // Use [n] instead for newline, \n is only used for specific system text
   origin {OFFSET}
   db {TEXT}
+  fill 42, $20
+  dq $5B70335D81A55B70
+  dl $305D00
+  fill 1
 }
 
 macro TextMain(OFFSET, SPACE, SQUARE, TEXT) {
