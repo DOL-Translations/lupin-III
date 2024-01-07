@@ -14621,14 +14621,14 @@
       "PositionHex": "0x0002D7FE",
       "ByteLengthDec": 15,
       "OriginalText": "　　海中で、[n]",
-      "Replacement": "　　海中で、[n]"
+      "Replacement": "She was able[n]"
     },
     {
       "PositionDec": 186384,
       "PositionHex": "0x0002D810",
       "ByteLengthDec": 31,
       "OriginalText": "　　２時間生き続けたリアナ。[n]",
-      "Replacement": "　　２時間生き続けたリアナ。[n]"
+      "Replacement": "to survive for 2 hours...[n]"
     },
     {
       "PositionDec": 186418,
@@ -14649,14 +14649,14 @@
       "PositionHex": "0x0002D86F",
       "ByteLengthDec": 29,
       "OriginalText": "　　リアナの持っていた本に[n]",
-      "Replacement": "　　リアナの持っていた本に[n]"
+      "Replacement": "And her book had a[n]"
     },
     {
       "PositionDec": 186511,
       "PositionHex": "0x0002D88F",
       "ByteLengthDec": 25,
       "OriginalText": "　　キリムの絵・・・。[n]",
-      "Replacement": "　　キリムの絵・・・。[n]"
+      "Replacement": "kirim picture...[n]"
     },
     {
       "PositionDec": 186539,
@@ -14677,7 +14677,7 @@
       "PositionHex": "0x0002D8E8",
       "ByteLengthDec": 23,
       "OriginalText": "　　海の民のキリム、[n]",
-      "Replacement": "　　海の民のキリム、[n]"
+      "Replacement": "The Oceanfolk's[n]"
     },
     {
       "PositionDec": 186626,
