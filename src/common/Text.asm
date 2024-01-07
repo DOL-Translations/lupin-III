@@ -30,3 +30,4 @@ Text($000DAA48, "           - Sardo the Great Power -            ")
 Text($000DAA7C, "                  Dummy Data                    ") //Dummy
 Text($000DAAB0, "     - Infiltration of a Research Institute -   ")
 Text($000DAAE4, "              - Bicycle Escape -                ") 
+
