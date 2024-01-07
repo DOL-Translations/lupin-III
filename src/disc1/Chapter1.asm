@@ -563,4 +563,7 @@ TextMain($43AC3AEE, 7, 0, " The only proof they existed...")
 TextMain($43AC5A50, 10, 0, " There should be enough treasure")
 
 
-//Bad ending route
+//Bike fix
+
+TextMain($43AB394A, 18, 1, "Liana]")
+TextMain($43AB396A, 19, 0, "Ehmmm......")
