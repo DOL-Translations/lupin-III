@@ -7,7 +7,7 @@ The project is still in a heavy WiP state, with no set release yet - however ove
 
 Download/clone the repository
 
-In the folder `./tools/` you'll soo two `.bat` files, right click to edit them. In the `compile.bat` you'll see a line starting with
+In the folder `./tools/` you'll see two `.bat` files, right click to edit them. In the `compile.bat` you'll see a line starting with
 
 `BinString.exe patch --source`. you'll have to edit the path to the `src\common\fs\COMMON` that your computer has. For example, here is what I have
 
