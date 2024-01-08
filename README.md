@@ -10,6 +10,7 @@ Currently we're in need on additional translators to translate the rest of the s
 
 ![image](https://github.com/radianthero/lupin-III/assets/90285213/f1fa0723-183f-44c3-ad59-b561784078a0)
 
+![lupin 3](https://github.com/radianthero/lupin-III/assets/90285213/06c6d445-185e-4e2b-81de-a2ac48577027)
 
 The project is still in a heavy WiP state, with no set release yet - however over half of the game has been translated. If you want to see what we've been having been working, here's a tutorial on how to get it all working:
 
