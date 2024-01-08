@@ -47,7 +47,11 @@ Fix the space rendering on `History`. Right now the english text has no spaces i
 ![image](https://github.com/radianthero/lupin-III/assets/90285213/9c1c2fd5-c8a1-4d13-a820-79f850f83afb)
 
 Save data play time & banner. This is primarily for GameCube, if playing on Dolphin/Nintendont, this wont be an issue.
+
 Tweak opening.bnr text length. To make the image look better.
+
 Translate submenus (graphics). Every menu option is actually a pre-made sprite, and not dynamic with the text, so someone would have to make new assets (Currently being worked on)
+
 Translate Chapters 6, 7 & 8. The last translators stopped at this parrt, and we need someone to help us translate for us to continue with the project.
+
 Grammar, spacing, etc fixes to text. Sometimes the characters will say the next line after getting rid of the previous line, so the sentence doesn't slow perfectly. This is something to be tinkered with after the initial translation is completed, as just getting the text to the screen is more important atm.
