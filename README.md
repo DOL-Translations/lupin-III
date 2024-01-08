@@ -55,3 +55,5 @@ Translate submenus (graphics). Every menu option is actually a pre-made sprite, 
 Translate Chapters 6, 7 & 8. The last translators stopped at this parrt, and we need someone to help us translate for us to continue with the project.
 
 Grammar, spacing, etc fixes to text. Sometimes the characters will say the next line after getting rid of the previous line, so the sentence doesn't slow perfectly. This is something to be tinkered with after the initial translation is completed, as just getting the text to the screen is more important atm.
+
+Get a translation for disc 2, then add that to a custom dolphin build which lets us add subtitles. The game itself doesn't allow us to add any during this part, so its basically the only way to do so. 
