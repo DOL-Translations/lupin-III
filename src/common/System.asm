@@ -1,3 +1,6 @@
+// Save banner (inside the .dol)
+ReplaceAsset($000D7BC0, "../common/fs/save_banner", 3848) 
+
 // Memory Card - 38 strings
 Text($000D97C0, "Lupin III - Lost Treasure          ") //Under the Sea -")
 Text($000D97E4, "Would you like to start the game?[n]You will not be able to save."); fill 10
@@ -30,9 +33,9 @@ TextSave($000D9FA8, "The game data saved on the Memory Card[n]in Slot A is corru
 TextSave($000DA03C, "Save data has been deleted.[n][n][n]")
 TextSave($000DA094, "Select the file to save.[n][n][n]")
 TextSave($000DA0FC, "Select the file to load.[n][n][n]")
-TextSave($000DA164, "Do not touch the Memory Card,[n]Reset Button, or Power Button while saving or data[n]may be lost.[n]")
+TextSave($000DA164, "Do not touch the Memory Card, Reset Button,[n]or Power Button while saving or data[n]may be lost.[n]")
 
-Text($000DA22C, "[n]        [x32][y32]Saving...[x24][y24]")
+Text($000DA22C, "[n]        [x32][y32]Saving...[x24][y24]") ; fill 9
 TextSave($000DA260, "Saving complete.[n][n][n]")
 TextSave($000DA2B8, "[p1]The Memory Card was removed during writing,[n]so writing may have failed.[n][n]")
 TextSave($000DA34C, "There is no data for this game[n]on the Memory Card in Slot A.[n][n]")
