@@ -18,21 +18,15 @@ Currently we're in need on additional translators to translate the rest of the s
 
 ![Radnom scene](https://github.com/radianthero/lupin-III/assets/90285213/06c6d445-185e-4e2b-81de-a2ac48577027)
 
-The project is still in a heavy WiP state, with no set final release yet - however over half of the game has been translated. If you want to see what we've been having been working, here's a tutorial on how to get it all working:
-
-If you want to use the current patch, then download and extract the latest release <https://github.com/DOL-Translations/lupin-III/releases>. From there use an xDelta patcher, either getting one from <https://www.romhacking.net/utilities/598/> or using an online patcher here <https://hack64.net/tools/patcher.php>
-
-However, if you want to get the most up to date version (including any new text translations, new English graphic, or general fixes) then follow the steps below:
-
 - Download/clone the repository
-- Edit the directory in `compile.bat` marked `C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON` to point to your local download of the repository. 
+- (Optional) Edit the directory in `compile.bat` marked `C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON` to point to your local download of the repository. 
 - Once both these files are edited, you'll have to add Discs 1/2 into the `input` folder. It HAS to be renamed correctly, with the names and hashes listed above. You don't need to have both files in the folder at the same time, one or the other will work. 
 - Lastly, back in `tools` folder, run the `compile.bat` file, and assuming you did all the steps correctly, it'll compile properly.
 
-- That's it! After a few seconds, your translated English ROM will be in the `output` folder and you'll have the most updated wip build. 
+- That's it! After a few seconds, your translated English ROM will be in the `output` folder. 
 
 
-Special thanks to Peter Lemon for starting the whole thing, thanks to Drgn for helping me setup the whole project, along with gbaXL for assisting in new tools to make this easier.
+Special thanks to Peter Lemon for starting the whole thing, and thanks to Drgn for helping me setup the whole project, along with gbaXL for assisting in new tools to make this easier.
 
 
 
