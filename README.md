@@ -18,7 +18,7 @@ Currently we're in need on additional translators to translate the rest of the s
 
 ![Radnom scene](https://github.com/radianthero/lupin-III/assets/90285213/06c6d445-185e-4e2b-81de-a2ac48577027)
 
-Instructions on patching: If you want the most up to date translation, follow the steps below
+## Instructions on patching: If you want the most up to date translation, follow the steps below
 
 - Download/clone the repository
 - (Optional) Edit the directory in `compile.bat` marked `C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON` to point to your local download of the repository. 
@@ -27,7 +27,7 @@ Instructions on patching: If you want the most up to date translation, follow th
 
 - That's it! After a few seconds, your translated English ROM will be in the `output` folder. 
 
-Otherwise, go to the release page, download the xDelta patch and use a patcher, like: <https://hack64.net/tools/patcher.php> or use <https://www.romhacking.net/utilities/598/> for offline patching. 
+## Otherwise, go to the release page, download the xDelta patch and use a patcher, like: <https://hack64.net/tools/patcher.php> or use <https://www.romhacking.net/utilities/598/> for offline patching. 
 
 Special thanks to Peter Lemon for starting the whole thing, and thanks to Drgn for helping me setup the whole project, along with gbaXL for assisting in new tools to make this easier.
 
