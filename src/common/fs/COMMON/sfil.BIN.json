@@ -37805,14 +37805,14 @@
       "PositionHex": "0x0006B1AA",
       "ByteLengthDec": 31,
       "OriginalText": "移動は十字ボタンで行います。[n]",
-      "Replacement": "移動は十字ボタンで行います。[n]"
+      "Replacement": "Move around with d-pad[n]"
     },
     {
       "PositionDec": 438732,
       "PositionHex": "0x0006B1CC",
       "ByteLengthDec": 47,
       "OriginalText": "Ｂボタンを押しながらだと、速く移動できます。[n]",
-      "Replacement": "Ｂボタンを押しながらだと、速く移動できます。[n]"
+      "Replacement": "You can move faster if you hold B down.[n]"
     },
     {
       "PositionDec": 438798,
@@ -37826,14 +37826,14 @@
       "PositionHex": "0x0006B218",
       "ByteLengthDec": 33,
       "OriginalText": "画面下に「！」マークが出たら、[n]",
-      "Replacement": "画面下に「！」マークが出たら、[n]"
+      "Replacement": "If you see a \"!\" on the [n]"
     },
     {
       "PositionDec": 438844,
       "PositionHex": "0x0006B23C",
       "ByteLengthDec": 33,
       "OriginalText": "Ａボタンを押してみてください。[n]",
-      "Replacement": "Ａボタンを押してみてください。[n]"
+      "Replacement": "screen, press the A button.[n]"
     },
     {
       "PositionDec": 438896,
