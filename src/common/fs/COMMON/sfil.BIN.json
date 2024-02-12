@@ -37847,7 +37847,7 @@
       "PositionHex": "0x0006B288",
       "ByteLengthDec": 19,
       "OriginalText": "そろそろ行くぞ。[n]",
-      "Replacement": "そろそろ行くぞ。[n]"
+      "Replacement": "It's time to go.[n]"
     },
     {
       "PositionDec": 439058,
