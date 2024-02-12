@@ -37854,14 +37854,14 @@
       "PositionHex": "0x0006B312",
       "ByteLengthDec": 56,
       "OriginalText": "＜ 『[p2]ＭＥＥＴＩＮＧ ＲＯＯＭ[p0]』 と書いてある＞[n]",
-      "Replacement": "＜ 『[p2]ＭＥＥＴＩＮＧ ＲＯＯＭ[p0]』 と書いてある＞[n]"
+      "Replacement": "( 『[p2]Meeting Room[p0]』 It says).[n]"
     },
     {
       "PositionDec": 439132,
       "PositionHex": "0x0006B35C",
       "ByteLengthDec": 43,
       "OriginalText": "＜ドアがロックされていて開きそうもない＞[n]",
-      "Replacement": "＜ドアがロックされていて開きそうもない＞[n]"
+      "Replacement": "(The door is locked right now)[n]"
     },
     {
       "PositionDec": 439202,
@@ -37875,42 +37875,42 @@
       "PositionHex": "0x0006B3C0",
       "ByteLengthDec": 36,
       "OriginalText": "　　　　大きな会議室だなぁ。[w30][n]",
-      "Replacement": "　　　　大きな会議室だなぁ。[w30][n]"
+      "Replacement": "That's a big conference room[w30][n]"
     },
     {
       "PositionDec": 439272,
       "PositionHex": "0x0006B3E8",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　いったい何を話し合うんだろう。[n]",
-      "Replacement": "　　　　いったい何を話し合うんだろう。[n]"
+      "Replacement": "What on earth were they discussing?[n]"
     },
     {
       "PositionDec": 439358,
       "PositionHex": "0x0006B43E",
       "ByteLengthDec": 52,
       "OriginalText": "＜ 『[p2]ＥＶＥＮＴ ＲＯＯＭ[p0]』 と書いてある＞[n]",
-      "Replacement": "＜ 『[p2]ＥＶＥＮＴ ＲＯＯＭ[p0]』 と書いてある＞[n]"
+      "Replacement": "( 『[p2]Event Room[p0]』It says)[n]"
     },
     {
       "PositionDec": 439428,
       "PositionHex": "0x0006B484",
       "ByteLengthDec": 43,
       "OriginalText": "＜ドアがロックされていて開きそうもない＞[n]",
-      "Replacement": "＜ドアがロックされていて開きそうもない＞[n]"
+      "Replacement": "(The door is locked and won't unlock)[n]"
     },
     {
       "PositionDec": 439504,
       "PositionHex": "0x0006B4D0",
       "ByteLengthDec": 50,
       "OriginalText": "＜何かイベントをするための部屋のようだが、[w20][n]",
-      "Replacement": "＜何かイベントをするための部屋のようだが、[w20][n]"
+      "Replacement": "(Looks like a room for an event[w20][n]"
     },
     {
       "PositionDec": 439558,
       "PositionHex": "0x0006B506",
       "ByteLengthDec": 27,
       "OriginalText": "　室内は雑然としている＞[n]",
-      "Replacement": "　室内は雑然としている＞[n]"
+      "Replacement": "the room is messy>[n]"
     },
     {
       "PositionDec": 439596,
@@ -37924,56 +37924,56 @@
       "PositionHex": "0x0006B54A",
       "ByteLengthDec": 42,
       "OriginalText": "　　　　ここは作業中みたいですね。[w30][n]",
-      "Replacement": "　　　　ここは作業中みたいですね。[w30][n]"
+      "Replacement": "Looks like a work in progress[w30][n]"
     },
     {
       "PositionDec": 439672,
       "PositionHex": "0x0006B578",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　何か展示するのかな？[n]",
-      "Replacement": "　　　　何か展示するのかな？[n]"
+      "Replacement": "What's on display?[n]"
     },
     {
       "PositionDec": 439746,
       "PositionHex": "0x0006B5C2",
       "ByteLengthDec": 34,
       "OriginalText": "＜カード差し込む所がある。[w40][n]",
-      "Replacement": "＜カード差し込む所がある。[w40][n]"
+      "Replacement": "(I can insert a card here[w40][n]"
     },
     {
       "PositionDec": 439784,
       "PositionHex": "0x0006B5E8",
       "ByteLengthDec": 35,
       "OriginalText": "　それがなければ開かないようだ＞[n]",
-      "Replacement": "　それがなければ開かないようだ＞[n]"
+      "Replacement": "it won't open without one.)[n]"
     },
     {
       "PositionDec": 439836,
       "PositionHex": "0x0006B61C",
       "ByteLengthDec": 44,
       "OriginalText": "＜カードを差し込むと軽く音をたてた。[w40][n]",
-      "Replacement": "＜カードを差し込むと軽く音をたてた。[w40][n]"
+      "Replacement": "(When I inserted the card[w40][n]"
     },
     {
       "PositionDec": 439884,
       "PositionHex": "0x0006B64C",
       "ByteLengthDec": 31,
       "OriginalText": "　ロックが解除されたらしい＞[n]",
-      "Replacement": "　ロックが解除されたらしい＞[n]"
+      "Replacement": "it lit up and opened)[n]"
     },
     {
       "PositionDec": 439952,
       "PositionHex": "0x0006B690",
       "ByteLengthDec": 52,
       "OriginalText": "＜ 『[p2]ＬＩＢＲＡＲＹ[p0]』 と書いてある。[w40][n]",
-      "Replacement": "＜ 『[p2]ＬＩＢＲＡＲＹ[p0]』 と書いてある。[w40][n]"
+      "Replacement": "( 『[p2]Library[p0]』 It says[w40][n]"
     },
     {
       "PositionDec": 440008,
       "PositionHex": "0x0006B6C8",
       "ByteLengthDec": 29,
       "OriginalText": "　この部屋は図書室らしい＞[n]",
-      "Replacement": "　この部屋は図書室らしい＞[n]"
+      "Replacement": "Theo reads the book)[n]"
     },
     {
       "PositionDec": 440302,
