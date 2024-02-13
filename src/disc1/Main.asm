@@ -69,6 +69,5 @@ include "../common/Text.asm"
 //Note: these will not be overwritten by BinString,
 //but additional text should be added to the json.
 include "Credits.asm"
-include "Intro.asm"
 include "Chapter1.asm"
 include "Choice.asm"

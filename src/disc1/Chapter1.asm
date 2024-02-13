@@ -567,3 +567,7 @@ TextMain($43AC5A50, 10, 0, " There should be enough treasure")
 
 TextMain($43AB394A, 18, 1, "Liana]")
 TextMain($43AB396A, 19, 0, "Ehmmm......")
+
+// "This seems to be Zhai's room."" line doesn't have Lupin's name in the .json, so this is the fix.
+
+TextMain($43AB0E2C, 4, 1, "Lupin]")

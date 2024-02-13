@@ -1,0 +1,17 @@
+The game has a few in game commands it uses within the parser, as follows. None of these commands will create a space if you insert it (mostly for [p#) so make sure you add the space yourself
+
+Rendering commands:
+[a#] - Unknown
+[c] - Unknown
+[d#] - variable insertion (like %d in C programming language)
+[f#] - Unkown (only called once)
+[g#] - Unknown
+[k] - Unknown
+[j#] - Unknown
+[n] - Creates a newline.
+[p#] - Changes the text color, [p0] is white and must be called after a color change or all text will be what you changed it to. [p0] is white, [p1] is red, [p2] is blue, [p3] is green. If set to any other number, it will blank the text, as though nothing is written in dialogue.
+[r] - Unknown
+[s#] - Slows down how fast the text is drawn to the screen itself. The speed resets after next line.
+[w#] - A wait command, I believe its counted in frames. It seems to delay how fast the next dialogue shows on the next line, not a delay on when you can press A to go to the next line.
+[x#] and [y#] - Sets the width and height of a character, the default I think is 24 
+[z#] - Unkown
