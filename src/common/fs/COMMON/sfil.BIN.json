@@ -53754,5 +53754,103 @@
       "OriginalText": "　やっぱり…ゴメンなさい[n]\u0000　・・・うん！[n]",
       "Replacement": "I don't think I can...  [n]\u0000 Of course!   [n]"
     },
+    {
+      "PositionDec": 27662,
+      "PositionHex": "0x00006C0E",
+      "ByteLengthDec": 51,
+      "OriginalText": "　そっちがぶつかってきたんだろ！[n]\u0000　あ、ごめん[n]",
+      "Replacement": " But you bumped into me!        [n]\u0000　Oh, sorry.[n]"
+    },
+    {
+      "PositionDec": 46321,
+      "PositionHex": "0x0000B4F1",
+      "ByteLengthDec": 43,
+      "OriginalText": "　預かってあげよう[n]\u0000　・・・放っておく[n]",
+      "Replacement": " Take the book    [n]\u0000　Leave the book  [n]"
+    },
+    {
+      "PositionDec": 61308,
+      "PositionHex": "0x0000EF7C",
+      "ByteLengthDec": 55,
+      "OriginalText": "　　それ、見たことある。[n]\u0000　　本を拾ったんだけど。[n]",
+      "Replacement": "I've seen that before.  [n]\u0000 I found this book.     [n]"
+    },
+    {
+      "PositionDec": 78811,
+      "PositionHex": "0x000133DB",
+      "ByteLengthDec": 33,
+      "OriginalText": "　　生きてる！[n]\u0000　　・・・。[n]",
+      "Replacement": "She is alive! [n]\u0000 ...        [n]"
+    },
+    {
+      "PositionDec": 94258,
+      "PositionHex": "0x00017032",
+      "ByteLengthDec": 25,
+      "OriginalText": "　　はい[n]\u0000　　・・・[n]",
+      "Replacement": " Alright[n]\u0000　　・・・[n]"
+    },
+    {
+      "PositionDec": 99424,
+      "PositionHex": "0x00018460",
+      "ByteLengthDec": 77,
+      "OriginalText": "　　この本、キミが落としたんじゃ。[n]\u0000　　ごめん、ボクのせいでこんな事に。[n]",
+      "Replacement": " Did you drop this book?          [n]\u0000 I'm sorry, this is all my fault.   [n]"
+    },
+    {
+      "PositionDec": 100015,
+      "PositionHex": "0x000186AF",
+      "ByteLengthDec": 39,
+      "OriginalText": "　　ごめん、ボクのせいでこんな事に。[n]",
+      "Replacement": " I'm sorry, this is all my fault.   [n]"
+    },
+    {
+      "PositionDec": 100695,
+      "PositionHex": "0x00018957",
+      "ByteLengthDec": 37,
+      "OriginalText": "　　この本、キミが落としたんじゃ。[n]",
+      "Replacement": " Did you drop this book?          [n]"
+    },
+    {
+      "PositionDec": 108997,
+      "PositionHex": "0x0001A9C5",
+      "ByteLengthDec": 69,
+      "OriginalText": "　　そ、その本のことが聞きたい[n]\u0000　　そういえばリアナっていくつ？[n]",
+      "Replacement": " Ask her about the book.      [n]\u0000　How old are you, Liana?       [n]"
+    },
+    {
+      "PositionDec": 110815,
+      "PositionHex": "0x0001B0DF",
+      "ByteLengthDec": 39,
+      "OriginalText": "　　・・・見た[n]\u0000　　見、見てないよ[n]",
+      "Replacement": " ...I have.   [n]\u0000　N-no, I didn't. [n]"
+    },
+    {
+      "PositionDec": 114067,
+      "PositionHex": "0x0001BD93",
+      "ByteLengthDec": 35,
+      "OriginalText": "　　そういえばリアナっていくつ？[n]",
+      "Replacement": " How old are you, Liana?        [n]"
+    },
+    {
+      "PositionDec": 116153,
+      "PositionHex": "0x0001C5B9",
+      "ByteLengthDec": 33,
+      "OriginalText": "　　そ、その本のことが聞きたい[n]",
+      "Replacement": " Ask her about the book.      [n]"
+    },
+    {
+      "PositionDec": 117935,
+      "PositionHex": "0x0001CCAF",
+      "ByteLengthDec": 39,
+      "OriginalText": "　　・・・見た[n]\u0000　　見、見てないよ[n]",
+      "Replacement": " ...I have.   [n]\u0000　N-no, I didn't. [n]"
+    },
+    {
+      "PositionDec": 147101,
+      "PositionHex": "0x00023E9D",
+      "ByteLengthDec": 67,
+      "OriginalText": "　　ちょっとコスタスの様子を見ている[n]\u0000　　まっすぐ病院へ向かう[n]",
+      "Replacement": " Listen to Costas' conversation.    [n]\u0000　　Go to the hospital. [n]"
+    },
   ]
 }

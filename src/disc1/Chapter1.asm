@@ -86,10 +86,6 @@ TextMain($43A4ADCE, 25, 0, "Be careful!")
 TextMain($43A4AE06, 6, 1, "Theo] ")
 TextMain($43A4AE22, 12, 0, "Huh?")
 
-TextMain($43A4AE6A, 0, 0, "Choice")
-Text($43A4AE7A, "  But you bumped into me!       ") //This is the wrong choice
-Text($43A4AE9E, "  Oh, sorry.")                     //This is the right choice
-
 //Good route
 TextMain($43A4ECA8, 4, 1, "Theo] ")
 
@@ -127,14 +123,11 @@ TextMain($43A4F531, 4, 0, "I hope she got everything...")
 
 TextMain($43A4F56D, 4, 1, "Theo] ")
 TextMain($43A4F596, 8, 0, "...Hm?")
+
 TextMain($43A4F688, 4, 1, "Theo] ")
 
 TextMain($43A4F6CE, 0, 1, "Theo] ")
 TextMain($43A4F6F3, 2, 0, "Did she drop this?")
-
-TextMain($43A4F74D, 0, 0, "Choice")
-Text($43A4F75D, " Take a look at it")
-Text($43A4F773, " Leave it alone   ")
 
 TextMain($43A4F7C7, 1, 1, "Theo]")
 
@@ -238,8 +231,7 @@ TextMain($43A53147, 13, 1, "Theo]")
 TextMain($43A53178, 18, 0, "Wait, Grandpa.")
 
 TextMain($43A531D8, 2, 0, "Path")
-Text($43A531E8, " I've seen that before  ")
-Text($43A53204, " I found this today     ")
+
 
 TextMain($43A53240, 0, 1, "Professor]")
 TextMain($43A53269, 2, 0, "Hmm? What is it?")
@@ -481,7 +473,6 @@ TextMain($43A57576, 14, 1, "Captain]")
 TextMain($43A575B3, 4, 0, "Over two hours has passed already...")
 
 TextMain($43A57637, 2, 0, "Path")
-Text($43A57647, " She is alive!")
 
 TextMain($43AC07CD, 11, 1, "Theo]")
 TextMain($43AC081C, 7, 0, "That girl is still alive,")
