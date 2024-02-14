@@ -24,10 +24,13 @@ TextMain($43A49B94, 12, 0, "My name is Theo.")
 
 TextMain($43A49BC4, 1, 1, "Abrio]   ")
 TextMain($43A49BEE, 4, 0, "Hey!")
+
 TextMain($43A49CC2, 13, 1, "Abrio]   ")
 TextMain($43A49D03, 12, 0, "Let's dive together!")
 TextMain($43A49D29, 16, 0, "It's exciting!")
+
 TextMain($43A49E09, 12, 1, "Theo] ")
+
 TextMain($43A49E59, 13, 1, "Abrio]   ")
 TextMain($43A49E8F, 9, 0, "What? He says its fine!")
 
@@ -47,7 +50,6 @@ TextMain($43A4A208, 18, 0, "Y-yes!")
 
 TextMain($43A4A346, 12, 1, "Costas]   ")
 TextMain($43A4A388, 10, 0, "Captain, once you return")
-
 TextMain($43A4A3B0, 2, 0, "report to the professor.")
 
 TextMain($43A4A61E, 16, 1, "Costas]   ")
@@ -108,9 +110,10 @@ TextMain($43A4F0EE, 11, 0, "Look, I'm already done!")
 TextMain($43A4F146, 16, 1, "Riana]  ")
 TextMain($43A4F17D, 21, 0, "... Honestly.")
 TextMain($43A4F1A5, 8, 0, "Just mind your own buisness!")
-TextMain($43A4F35F, 17, 1, "Ferry Crew]")
 
+TextMain($43A4F35F, 17, 1, "Ferry Crew]")
 TextMain($43A4F39A, 0, 0, "C'mon, we dont have all day!")
+
 TextMain($43A4F3CA, 12, 1, "Riana]  ")
 TextMain($43A4F3FD, 14, 0, "I'm sorry!")
 
@@ -133,7 +136,6 @@ TextMain($43A4F7C7, 1, 1, "Theo]")
 
 TextMain($43AB503A, 1, 1, "Theo]")
 TextMain($43AB505F, 5, 0, "A book?") 
-
 
 TextMain($43AB5083, 1, 1, "Theo]")
 TextMain($43AB50BC, 2, 0, "I should hurry to Grandpa's!")
