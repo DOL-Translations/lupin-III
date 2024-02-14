@@ -1,4 +1,4 @@
-The game has a few in game commands it uses within the parser, as follows. None of these commands will create a space if you insert it (mostly for [p#) so make sure you add the space yourself
+The game has a few in game commands it uses within the parser, as follows. None of these commands will create a space if you insert it (mostly for [p#] so make sure you add the space yourself
 
 Rendering commands:
 [a#] - Unknown
