@@ -66,7 +66,6 @@ include "Tpl.asm"
 include "../common/System.asm"
 include "../common/Text.asm"
 
-//Note: these will not be overwritten by BinString,
-//but additional text should be added to the json.
+//Note: these will not be overwritten by BinString
 include "Credits.asm"
-include "Chapter1.asm"
+include "JsonFixes.asm"
