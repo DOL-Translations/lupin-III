@@ -19606,63 +19606,63 @@
       "PositionHex": "0x00037038",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　　　　青い海、[n]",
-      "Replacement": "　　　　　　　　　青い海、[n]"
+      "Replacement": "A blue ocean..[n]"
     },
     {
       "PositionDec": 225368,
       "PositionHex": "0x00037058",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　そして・・・深い海。[n]",
-      "Replacement": "　　　　　　そして・・・深い海。[n]"
+      "Replacement": "In its deepest parts..[n]"
     },
     {
       "PositionDec": 225427,
       "PositionHex": "0x00037093",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　　　遥か昔から、[n]",
-      "Replacement": "　　　　　　　　遥か昔から、[n]"
+      "Replacement": "A long time ago..[n]"
     },
     {
       "PositionDec": 225461,
       "PositionHex": "0x000370B5",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　この星は青き水に包まれていた。[n]",
-      "Replacement": "　　　　この星は青き水に包まれていた。[n]"
+      "Replacement": "A star was enveloped by blue waters,[n]"
     },
     {
       "PositionDec": 225526,
       "PositionHex": "0x000370F6",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　そんな世界の果てにある海の中。[n]",
-      "Replacement": "　　　　そんな世界の果てにある海の中。[n]"
+      "Replacement": "At the world's end,[n]"
     },
     {
       "PositionDec": 225591,
       "PositionHex": "0x00037137",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　そこは海の守り神・・・、[n]",
-      "Replacement": "　　　　　そこは海の守り神・・・、[n]"
+      "Replacement": "An ancient dragon is sleeping..[n]"
     },
     {
       "PositionDec": 225652,
       "PositionHex": "0x00037174",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　大きな竜が眠っている。[n]",
-      "Replacement": "　　　　　　大きな竜が眠っている。[n]"
+      "Replacement": "The god who protects us all.[n]"
     },
     {
       "PositionDec": 225713,
       "PositionHex": "0x000371B1",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　海が荒れ、世界が荒れたとき、[n]",
-      "Replacement": "　　　　　海が荒れ、世界が荒れたとき、[n]"
+      "Replacement": "When the ocean is stormy,[n]"
     },
     {
       "PositionDec": 225757,
       "PositionHex": "0x000371DD",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　それらをおさめし神。[n]",
-      "Replacement": "　　　　　　　それらをおさめし神。[n]"
+      "Replacement": "And the world becomes violent,[n]"
     },
     {
       "PositionDec": 225797,
@@ -19676,63 +19676,63 @@
       "PositionHex": "0x0003721E",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　人はどうしても困ったとき、[n]",
-      "Replacement": "　　　　　人はどうしても困ったとき、[n]"
+      "Replacement": "He calms them.[n]"
     },
     {
       "PositionDec": 225864,
       "PositionHex": "0x00037248",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　『選ばれしモノ』を選び、[n]",
-      "Replacement": "　　　　　『選ばれしモノ』を選び、[n]"
+      "Replacement": "When humanity is in a pinch,[n]"
     },
     {
       "PositionDec": 225904,
       "PositionHex": "0x00037270",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　竜の神様に救いを求める・・・。[n]",
-      "Replacement": "　　　　竜の神様に救いを求める・・・。[n]"
+      "Replacement": "The \"Chosen One\" arises..[n]"
     },
     {
       "PositionDec": 225969,
       "PositionHex": "0x000372B1",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　竜が眠る場所・・・。[n]",
-      "Replacement": "　　　　　　　竜が眠る場所・・・。[n]"
+      "Replacement": "To ask of the Dragon God's help..[n]"
     },
     {
       "PositionDec": 226030,
       "PositionHex": "0x000372EE",
       "ByteLengthDec": 47,
       "OriginalText": "　　　そこは、気の荒い番兵が守っている場所。[n]",
-      "Replacement": "　　　そこは、気の荒い番兵が守っている場所。[n]"
+      "Replacement": "In the dragon's resting place..[n]"
     },
     {
       "PositionDec": 226101,
       "PositionHex": "0x00037335",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　　　　海の底より、[n]",
-      "Replacement": "　　　　　　　　　海の底より、[n]"
+      "Replacement": "Protected by fiery guards.[n]"
     },
     {
       "PositionDec": 226137,
       "PositionHex": "0x00037359",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　もっともっと深い底なしの[n]",
-      "Replacement": "　　　　　　もっともっと深い底なしの[n]"
+      "Replacement": "Deeper than the depths of the ocean..[n]"
     },
     {
       "PositionDec": 226179,
       "PositionHex": "0x00037383",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　落とし穴もある危険な場所。[n]",
-      "Replacement": "　　　　　　落とし穴もある危険な場所。[n]"
+      "Replacement": "A bottomless pit.[n]"
     },
     {
       "PositionDec": 226244,
       "PositionHex": "0x000373C4",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　さらに嵐の谷・・・、[n]",
-      "Replacement": "　　　　　　　さらに嵐の谷・・・、[n]"
+      "Replacement": "Resting in a valley of storms..[n]"
     },
     {
       "PositionDec": 226284,
@@ -19746,70 +19746,70 @@
       "PositionHex": "0x00037405",
       "ByteLengthDec": 45,
       "OriginalText": "　　　竜の眠る場所にはなかなか近づけない。[n]",
-      "Replacement": "　　　竜の眠る場所にはなかなか近づけない。[n]"
+      "Replacement": "Unable to be reached by mere mortals.[n]"
     },
     {
       "PositionDec": 226378,
       "PositionHex": "0x0003744A",
       "ByteLengthDec": 43,
       "OriginalText": "　　　竜の眠る場所に辿りつけたとしても、[n]",
-      "Replacement": "　　　竜の眠る場所に辿りつけたとしても、[n]"
+      "Replacement": "Even if one could reach the Dragon's abode..[n]"
     },
     {
       "PositionDec": 226424,
       "PositionHex": "0x00037478",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　それだけで竜が起きることはない。[n]",
-      "Replacement": "　　　　それだけで竜が起きることはない。[n]"
+      "Replacement": "That won't guarantee he'll arise.[n]"
     },
     {
       "PositionDec": 226491,
       "PositionHex": "0x000374BB",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　　　守り神・・・、[n]",
-      "Replacement": "　　　　　　　　守り神・・・、[n]"
+      "Replacement": "To wake the guardian god,[n]"
     },
     {
       "PositionDec": 226548,
       "PositionHex": "0x000374F4",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　竜を目覚めさせるには、[n]",
-      "Replacement": "　　　　　　竜を目覚めさせるには、[n]"
+      "Replacement": "To awaken the dragon,[n]"
     },
     {
       "PositionDec": 226588,
       "PositionHex": "0x0003751C",
       "ByteLengthDec": 45,
       "OriginalText": "　　　竜のクチに牙をささなければいけない。[n]",
-      "Replacement": "　　　竜のクチに牙をささなければいけない。[n]"
+      "Replacement": "You will need to offer him his tooth.[n]"
     },
     {
       "PositionDec": 226657,
       "PositionHex": "0x00037561",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　竜の口を開け、牙をさし込む・・・。[n]",
-      "Replacement": "　　　　竜の口を開け、牙をさし込む・・・。[n]"
+      "Replacement": "Open his mouth to give your offering.[n]"
     },
     {
       "PositionDec": 226726,
       "PositionHex": "0x000375A6",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　そうして、はじめて[n]",
-      "Replacement": "　　　　　　　そうして、はじめて[n]"
+      "Replacement": "Then, and ony then..[n]"
     },
     {
       "PositionDec": 226764,
       "PositionHex": "0x000375CC",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　　　竜は目覚め、[n]",
-      "Replacement": "　　　　　　　　竜は目覚め、[n]"
+      "Replacement": "Will the dragon awakens,[n]"
     },
     {
       "PositionDec": 226798,
       "PositionHex": "0x000375EE",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　竜の体内に入ることができる。[n]",
-      "Replacement": "　　　　竜の体内に入ることができる。[n]"
+      "Replacement": "And you may enter the body of it.[n]"
     },
     {
       "PositionDec": 226840,
@@ -19823,63 +19823,63 @@
       "PositionHex": "0x00037631",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　そのキラキラ光るウロコは、[n]",
-      "Replacement": "　　　　　そのキラキラ光るウロコは、[n]"
+      "Replacement": "The inside covered in shiny scales,[n]"
     },
     {
       "PositionDec": 226907,
       "PositionHex": "0x0003765B",
       "ByteLengthDec": 45,
       "OriginalText": "　　　この世のモノとは思えないほど美しい。[n]",
-      "Replacement": "　　　この世のモノとは思えないほど美しい。[n]"
+      "Replacement": "More beautiful than anything imaginable.[n]"
     },
     {
       "PositionDec": 226976,
       "PositionHex": "0x000376A0",
       "ByteLengthDec": 45,
       "OriginalText": "　　でも、そんなものに惑わされてはだめだ。[n]",
-      "Replacement": "　　でも、そんなものに惑わされてはだめだ。[n]"
+      "Replacement": "But you can't let yourself be decieved.[n]"
     },
     {
       "PositionDec": 227045,
       "PositionHex": "0x000376E5",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　竜の神様に救いを求めるには、[n]",
-      "Replacement": "　　　　　　竜の神様に救いを求めるには、[n]"
+      "Replacement": "To ask the Dragon for help,[n]"
     },
     {
       "PositionDec": 227091,
       "PositionHex": "0x00037713",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　もっと・・・、[n]",
-      "Replacement": "　　　　　　　　　　もっと・・・、[n]"
+      "Replacement": "You must...[n]"
     },
     {
       "PositionDec": 227152,
       "PositionHex": "0x00037750",
       "ByteLengthDec": 43,
       "OriginalText": "　　　もっと、奥に進まなければならない。[n]",
-      "Replacement": "　　　もっと、奥に進まなければならない。[n]"
+      "Replacement": "Enter further into the Dragon.[n]"
     },
     {
       "PositionDec": 227219,
       "PositionHex": "0x00037793",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　そして竜の胸の奥・・・、[n]",
-      "Replacement": "　　　　　そして竜の胸の奥・・・、[n]"
+      "Replacement": "And deep in the Dragon's chest...[n]"
     },
     {
       "PositionDec": 227280,
       "PositionHex": "0x000377D0",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　そこに隠された凍った心臓を[n]",
-      "Replacement": "　　　　そこに隠された凍った心臓を[n]"
+      "Replacement": "A frozen heart lies in there.[n]"
     },
     {
       "PositionDec": 227320,
       "PositionHex": "0x000377F8",
       "ByteLengthDec": 45,
       "OriginalText": "　　見つけなければ救いは得られない・・・。[n]",
-      "Replacement": "　　見つけなければ救いは得られない・・・。[n]"
+      "Replacement": "Without it, you won't get salvation...[n]"
     },
     {
       "PositionDec": 227368,
