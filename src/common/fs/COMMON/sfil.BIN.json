@@ -53745,7 +53745,7 @@
       "PositionHex": "0x00031731",
       "ByteLengthDec": 73,
       "OriginalText": "　『サルド』の場所って[n]\u0000　『大いなる力』って[n]\u0000　『キリム』のことを[n]",
-      "Replacement": "Where is the Saludo?  [n]\u0000Great power?        [n]\u0000About the Kirim.    [n]"
+      "Replacement": "Where is the Saludo?  [n]\u0000 \"Great power?\"     [n]\u0000About the Kirim.    [n]"
     },
     {
       "PositionDec": 251753,
@@ -53851,6 +53851,147 @@
       "ByteLengthDec": 67,
       "OriginalText": "　　ちょっとコスタスの様子を見ている[n]\u0000　　まっすぐ病院へ向かう[n]",
       "Replacement": " Listen to Costas' conversation.    [n]\u0000　　Go to the hospital. [n]"
+
     },
+    {
+      "PositionDec": 202975,
+      "PositionHex": "0x000318DF",
+      "ByteLengthDec": 47,
+      "OriginalText": "　『大いなる力』って[n]\u0000　『キリム』のことを[n]",
+      "Replacement": "\"Great power\"?      [n]\u0000 About the \"Kirim\"  [n]"
+    },
+    {
+      "PositionDec": 204126,
+      "PositionHex": "0x00031D5E",
+      "ByteLengthDec": 23,
+      "OriginalText": "　『キリム』のことを[n]",
+      "Replacement": "About the \"Kirim\"   [n]"
+    },
+    {
+      "PositionDec": 206470,
+      "PositionHex": "0x00032686",
+      "ByteLengthDec": 23,
+      "OriginalText": "　『大いなる力』って[n]",
+      "Replacement": " \"Great power\"?     [n]"
+    },
+    {
+      "PositionDec": 208610,
+      "PositionHex": "0x00032EE2",
+      "ByteLengthDec": 49,
+      "OriginalText": "　『サルド』の場所って[n]\u0000　『キリム』のことを[n]",
+      "Replacement": " Where is Saludo?     [n]\u0000　About the \"Kirim\" [n]"
+    },
+    {
+      "PositionDec": 209014,
+      "PositionHex": "0x00033076",
+      "ByteLengthDec": 23,
+      "OriginalText": "　『キリム』のことを[n]",
+      "Replacement": "　About the \"Kirim\" [n]"
+    },
+    {
+      "PositionDec": 211358,
+      "PositionHex": "0x0003399E",
+      "ByteLengthDec": 25,
+      "OriginalText": "　『サルド』の場所って[n]",
+      "Replacement": " Where is Saludo?     [n]"
+    },
+    {
+      "PositionDec": 212859,
+      "PositionHex": "0x00033F7B",
+      "ByteLengthDec": 49,
+      "OriginalText": "　『サルド』の場所って[n]\u0000　『大いなる力』って[n]",
+      "Replacement": " Where is Saludo?     [n]\u0000 \"Great power\"?     [n]"
+    },
+    {
+      "PositionDec": 213263,
+      "PositionHex": "0x0003410F",
+      "ByteLengthDec": 23,
+      "OriginalText": "　『大いなる力』って[n]",
+      "Replacement": " \"Great power\"?     [n]"
+    },
+    {
+      "PositionDec": 215395,
+      "PositionHex": "0x00034963",
+      "ByteLengthDec": 25,
+      "OriginalText": "　『サルド』の場所って[n]",
+      "Replacement": " Where is Saludo?     [n]"
+    },
+    {
+      "PositionDec": 215785,
+      "PositionHex": "0x00034AE9",
+      "ByteLengthDec": 23,
+      "OriginalText": "　『海の竜』の話は？[n]",
+      "Replacement": "Dragon of the Sea?[n]"
+    },
+    {
+      "PositionDec": 228569,
+      "PositionHex": "0x00037CD9",
+      "ByteLengthDec": 47,
+      "OriginalText": "　『入れ墨』のこと[n]\u0000　『大いなる力』のこと[n]",
+      "Replacement": "The \"Tattoo\"      [n]\u0000　The \"Great Power\"   [n]"
+    },
+    {
+      "PositionDec": 229800,
+      "PositionHex": "0x000381A8",
+      "ByteLengthDec": 25,
+      "OriginalText": "　『大いなる力』のこと[n]",
+      "Replacement": " The \"Great power\"    [n]"
+    },
+    {
+      "PositionDec": 232282,
+      "PositionHex": "0x00038B5A",
+      "ByteLengthDec": 21,
+      "OriginalText": "　『入れ墨』のこと[n]",
+      "Replacement": "The \"Tattoo\"      [n]"
+    },
+    {
+      "PositionDec": 233489,
+      "PositionHex": "0x00039011",
+      "ByteLengthDec": 23,
+      "OriginalText": "　『赤いアザ』のこと[n]",
+      "Replacement": " The \"Birthmark\"    [n]"
+    },
+    {
+      "PositionDec": 240947,
+      "PositionHex": "0x0003AD33",
+      "ByteLengthDec": 31,
+      "OriginalText": "　・・・。[n]\u0000　ボクも行く！[n]",
+      "Replacement": "　・・・  [n]\u0000I'll be there![n]"
+    },
+    {
+      "PositionDec": 251753,
+      "PositionHex": "0x0003D769",
+      "ByteLengthDec": 45,
+      "OriginalText": "　やっぱり…ゴメンなさい[n]\u0000　・・・うん！[n]",
+      "Replacement": "I don't think I can...  [n]\u0000　I'm ready!  [n]"
+    },
+    {
+      "PositionDec": 256652,
+      "PositionHex": "0x0003EA8C",
+      "ByteLengthDec": 23,
+      "OriginalText": "　押さない[n]\u0000　押す[n]",
+      "Replacement": "　押さない[n]\u0000　押す[n]"
+    },
+    {
+      "PositionDec": 583446,
+      "PositionHex": "0x0008E716",
+      "ByteLengthDec": 41,
+      "OriginalText": "　銭形警部を止める[n]\u0000　ジッと見ている[n]",
+      "Replacement": " Stop Zenigata    [n]\u0000　I can't help  [n]"
+    },
+    {
+      "PositionDec": 589528,
+      "PositionHex": "0x0008FED8",
+      "ByteLengthDec": 53,
+      "OriginalText": "　ルパン達を追いかける[n]\u0000　言われた通り待っている[n]",
+      "Replacement": " Go after Lupin       [n]\u0000Wait for them to return [n]"
+    },
+    {
+      "PositionDec": 623332,
+      "PositionHex": "0x000982E4",
+      "ByteLengthDec": 61,
+      "OriginalText": "　　傷によくないし、また今度に[n]\u0000　　でも、大丈夫・・・？[n]",
+      "Replacement": "It's not good for the wound.  [n]\u0000　But are you okay...?  [n]"
+    }
   ]
 }
