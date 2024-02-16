@@ -18,31 +18,33 @@ Currently we're in need on additional translators to translate the rest of the s
 
 ![Radnom scene](https://github.com/radianthero/lupin-III/assets/90285213/06c6d445-185e-4e2b-81de-a2ac48577027)
 
-Instructions on patching: If you want the most up to date translation, follow the steps below
+# Instructions on patching: If you want the most up to date translation, follow the steps below
 
 - Download/clone the repository
 - (Optional) Edit the directory in `compile.bat` marked `C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON` to point to your local download of the repository. 
-- Once both these files are edited, you'll have to add Discs 1/2 into the `input` folder. It HAS to be renamed correctly, with the names and hashes listed above. You don't need to have both files in the folder at the same time, one or the other will work. 
-- Lastly, back in `tools` folder, run the `compile.bat` file, and assuming you did all the steps correctly, it'll compile properly.
+- Once both these files are edited, you'll have to add Discs 1/2 into the `input` folder. It HAS to be renamed correctly, with the names and hashes listed above in the files section. You don't need to have both files in the folder at the same time, one or the other will work. 
+- Lastly, back in the `tools` folder, run the `compile.bat` file, and assuming you did all the steps correctly, it'll compile properly.
 
-- That's it! After a few seconds, your translated English ROM will be in the `output` folder. 
+- That's it! After a few seconds, your translated English ISO will be in the `output` folder. 
 
-Otherwise, go to the release page, download the xDelta patch and use a patcher, like: <https://hack64.net/tools/patcher.php> or use <https://www.romhacking.net/utilities/598/> for offline patching. 
+# If you just want to use the latest release, go to the release page, download the xDelta patch and use a patcher
+
+Some examples would be <https://hack64.net/tools/patcher.php> for online patching or <https://www.romhacking.net/utilities/598/> for offline patching. 
 
 Special thanks to Peter Lemon for starting the whole thing, and thanks to Drgn for helping me setup the whole project, along with gbaXL for assisting in new tools to make this easier.
 
 
 
-Current road map for the team (No specific order):
+# Current road map for the team (No specific order):
 
 Fix the space rendering on `History`. Right now the English text has no spaces in the log.
 
-![image](https://github.com/radianthero/lupin-III/assets/90285213/9c1c2fd5-c8a1-4d13-a820-79f850f83afb)
+![Example of lack of space in History](https://github.com/radianthero/lupin-III/assets/90285213/9c1c2fd5-c8a1-4d13-a820-79f850f83afb)
 
-Translate submenus (graphics). Every menu option is actually a pre-made sprite, and not dynamic with the text, so someone would have to make new assets (Currently being worked on)
+Translate submenus (graphics). Every menu option is actually a pre-made image, and not dynamic with the text, so someone would have to make new assets (Currently being worked on)
 
-Translate Chapters 6, 7 & 8. The last translators stopped at this part, and we need someone to help us translate for us to continue with the project.
+Translate Chapters 6 & 8. The last translators stopped at chapter 6, and we need someone to help us translate the rest of the project.
 
 Grammar, spacing, etc fixes to text. Sometimes the characters will say the next line after getting rid of the previous line, so the sentence doesn't slow perfectly. This is something to be tinkered with after the initial translation is completed, as just getting the text to the screen is more important atm.
 
-Get a translation for disc 2, then add that to a custom Dolphin build which lets us add subtitles. The game itself doesn't allow us to add any during this part, so its basically the only way to do so. The Dolphin build that allows subtitles will hopefully be merged to the main branch of Dolphin soon. 
+Get a translation for disc 2. The game itself doesn't allow us to add any during this part, so we'll be using a custom version of Dolphin that allows subtitles to be injected. Hopefully the custom build will be merged to the main branch of Dolphin soon. 
