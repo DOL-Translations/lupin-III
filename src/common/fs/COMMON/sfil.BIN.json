@@ -19718,7 +19718,7 @@
       "PositionHex": "0x00037359",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　もっともっと深い底なしの[n]",
-      "Replacement": "Deeper than the depths of the ocean..[n]"
+      "Replacement": "Deeper than the depths of the ocean.[n]"
     },
     {
       "PositionDec": 226179,
@@ -19753,7 +19753,7 @@
       "PositionHex": "0x0003744A",
       "ByteLengthDec": 43,
       "OriginalText": "　　　竜の眠る場所に辿りつけたとしても、[n]",
-      "Replacement": "Even if one could reach the Dragon's abode..[n]"
+      "Replacement": "Even if one reached the Dragon's abode..[n]"
     },
     {
       "PositionDec": 226424,
@@ -40515,7 +40515,7 @@
       "PositionHex": "0x00070E52",
       "ByteLengthDec": 33,
       "OriginalText": "おじいちゃんとこに急がなきゃ！[n]",
-      "Replacement": "おじいちゃんとこに急がなきゃ！[n]"
+      "Replacement": "I should hurry to Grandpa's![n]"
     },
     {
       "PositionDec": 473294,
