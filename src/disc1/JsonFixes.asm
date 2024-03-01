@@ -15,5 +15,7 @@ TextMain($43AB394A, 18, 1, "Liana]")
 TextMain($43AB396A, 19, 0, "Ehmmm......")
 
 // Chapter 8 fix
-
-TextMain($43AB0E2C, 4, 1, "Lupin]")
+//These names are more hacks than anything, trying to put jp [ won't won't unless I use the 1 paramater. It still works, but is "wrong"
+TextMain($43AB0E26, 6, 1, "Lupin][s4]")
+TextMain($43AB0F5D, 6, 1, "Lupin][s4]")
+TextMain($43AB1F4F, 6, 1, "Lupin][s4]")

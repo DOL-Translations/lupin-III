@@ -1,22 +1,28 @@
-Credits: original translation and programming done by Peter Lemon.
+Credits: Original translation and programming done by Peter Lemon.
 
 New translation by: Bingokemski for originally joining the team and partially translating chapter 1 before needing to take a step back from the project.
 
 Cindi/Robindebank for finishing the rest of chapter 1, along with partial translation of chapter 7.
 
-Radiant for translating the rest of chapter 7, and partial translation of chapter 8
+Jebbi/Jebbi90 for translating chapters 2-6.
 
-Jebbi/Jebbi90 for translating chapters 2-6 (as of the time of this writing)
+Radiant for translating the rest of chapter 7, and partial translation of chapter 8 (first person section) and translating disc 2, along with making subs go along with it.
 
-New programming by: Radiant for for chapter 1 - (fill in later), and for being the one who started the whole project up after Peter Lemon left it.
+New programming by: Radiant for for chapter 1-5, and chapter 7, along with being the one who started the project up again after Peter Lemon left it.
 
-Thanks to NewGBAXL for assisting with debugging, and making some graphic english replacement
+Thanks to PTwr for making a much easier way to edit the text, and insert it in with the .json.
 
-Thanks to aldi_09 for creating graphic english replacement
+Thanks to NewGBAXL for assisting with debugging, and making some english graphic replacements.
+
+Thanks to aldi_09 for creating english graphic replacements.
 
 Thanks to arhkma_muddykipz for assisting with proofreading.
 
-Special thanks to Drgn for teaching me how to set up the project, and it helped me debug stuff.
+Thanks to Lord-Giganticus for making "THP-Converter", this helped me make MP4 files to edit for the ending.
+
+Thanks to Wiimpathy for making WiiFlowTHP, this helped me convert the MP4 files back to thp files to add back to the game.
+
+Special thanks to Drgn for teaching me how to set up the project, and it helping me debug stuff.
 
 
 
