@@ -13612,8 +13612,7 @@
       "PositionDec": 178753,
       "PositionHex": "0x0002BA41",
       "ByteLengthDec": 33,
-      "OriginalText": "　　　　　　　
-ああ、そうだよ。[n]",
+      "OriginalText": "　　　　　　　ああ、そうだよ。[n]",
       "Replacement": "       Yes I am.[n]"
     },
     {
@@ -15133,14 +15132,14 @@
       "PositionHex": "0x0002E691",
       "ByteLengthDec": 15,
       "OriginalText": "　　確かに、[n]",
-      "Replacement": "  You are[n]"
+      "Replacement": "You sure are[n]"
     },
     {
       "PositionDec": 190115,
       "PositionHex": "0x0002E6A3",
       "ByteLengthDec": 27,
       "OriginalText": "　　教授の孫だけあるな。[n]",
-      "Replacement": "  the Clark's grandkid.[n]"
+      "Replacement": " Clark's grandkid.[n]"
     },
     {
       "PositionDec": 190159,
@@ -22021,7 +22020,7 @@
       "PositionHex": "0x0003C72A",
       "ByteLengthDec": 33,
       "OriginalText": "　　おぬし見込まれたようだな。[n]",
-      "Replacement": "  Seems like he's determined.[n]" //Hate this translation
+      "Replacement": "  Seems like he's determined.[n]" 
     },
     {
       "PositionDec": 247666,
@@ -22727,8 +22726,8 @@
       "PositionDec": 257972,
       "PositionHex": "0x0003EFB4",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 258027,
@@ -22769,8 +22768,8 @@
       "PositionDec": 258358,
       "PositionHex": "0x0003F136",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 258413,
@@ -22811,8 +22810,8 @@
       "PositionDec": 258793,
       "PositionHex": "0x0003F2E9",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 258840,
@@ -22832,8 +22831,8 @@
       "PositionDec": 258894,
       "PositionHex": "0x0003F34E",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 258941,
@@ -22888,8 +22887,8 @@
       "PositionDec": 259237,
       "PositionHex": "0x0003F4A5",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 259284,
@@ -22930,8 +22929,8 @@
       "PositionDec": 259509,
       "PositionHex": "0x0003F5B5",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 259556,
@@ -22965,8 +22964,8 @@
       "PositionDec": 259749,
       "PositionHex": "0x0003F6A5",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 259796,
@@ -23000,8 +22999,8 @@
       "PositionDec": 260020,
       "PositionHex": "0x0003F7B4",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 260067,
@@ -23028,8 +23027,8 @@
       "PositionDec": 260155,
       "PositionHex": "0x0003F83B",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 260202,
@@ -23056,8 +23055,8 @@
       "PositionDec": 260292,
       "PositionHex": "0x0003F8C4",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 260339,
@@ -23077,8 +23076,8 @@
       "PositionDec": 260401,
       "PositionHex": "0x0003F931",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 260448,
@@ -23182,8 +23181,8 @@
       "PositionDec": 261783,
       "PositionHex": "0x0003FE97",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 261830,
@@ -23210,8 +23209,8 @@
       "PositionDec": 262271,
       "PositionHex": "0x0004007F",
       "ByteLengthDec": 21,
-      "OriginalText": "　　　　［不二子］[n]",
-      "Replacement": "　　　　［不二子］[n]"
+      "OriginalText": "　　　　［Fujiko][n]",
+      "Replacement": "　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 262318,
@@ -24204,8 +24203,8 @@
       "PositionDec": 272176,
       "PositionHex": "0x00042730",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 272231,
@@ -24239,8 +24238,8 @@
       "PositionDec": 272622,
       "PositionHex": "0x000428EE",
       "ByteLengthDec": 25,
-      "OriginalText": "　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 272675,
@@ -24295,8 +24294,8 @@
       "PositionDec": 273191,
       "PositionHex": "0x00042B27",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 273246,
@@ -24316,8 +24315,8 @@
       "PositionDec": 273310,
       "PositionHex": "0x00042B9E",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 273365,
@@ -24351,8 +24350,8 @@
       "PositionDec": 274010,
       "PositionHex": "0x00042E5A",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 274065,
@@ -24379,8 +24378,8 @@
       "PositionDec": 274410,
       "PositionHex": "0x00042FEA",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 274465,
@@ -24428,8 +24427,8 @@
       "PositionDec": 274925,
       "PositionHex": "0x000431ED",
       "ByteLengthDec": 25,
-      "OriginalText": "　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 274976,
@@ -24456,8 +24455,8 @@
       "PositionDec": 275123,
       "PositionHex": "0x000432B3",
       "ByteLengthDec": 25,
-      "OriginalText": "　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 275174,
@@ -24547,8 +24546,8 @@
       "PositionDec": 276495,
       "PositionHex": "0x0004380F",
       "ByteLengthDec": 25,
-      "OriginalText": "　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 276547,
@@ -24659,8 +24658,8 @@
       "PositionDec": 277262,
       "PositionHex": "0x00043B0E",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 277317,
@@ -24722,8 +24721,8 @@
       "PositionDec": 277689,
       "PositionHex": "0x00043CB9",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 277744,
@@ -24757,8 +24756,8 @@
       "PositionDec": 277925,
       "PositionHex": "0x00043DA5",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 277980,
@@ -24785,8 +24784,8 @@
       "PositionDec": 278098,
       "PositionHex": "0x00043E52",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 278153,
@@ -24813,8 +24812,8 @@
       "PositionDec": 278275,
       "PositionHex": "0x00043F03",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 278330,
@@ -24855,8 +24854,8 @@
       "PositionDec": 278547,
       "PositionHex": "0x00044013",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 278602,
@@ -24876,8 +24875,8 @@
       "PositionDec": 278660,
       "PositionHex": "0x00044084",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 278715,
@@ -24904,8 +24903,8 @@
       "PositionDec": 278811,
       "PositionHex": "0x0004411B",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 278866,
@@ -24967,8 +24966,8 @@
       "PositionDec": 279180,
       "PositionHex": "0x0004428C",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 279235,
@@ -24988,8 +24987,8 @@
       "PositionDec": 279285,
       "PositionHex": "0x000442F5",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 279340,
@@ -25016,8 +25015,8 @@
       "PositionDec": 279440,
       "PositionHex": "0x00044390",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 279495,
@@ -25044,8 +25043,8 @@
       "PositionDec": 279652,
       "PositionHex": "0x00044464",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 279707,
@@ -25065,8 +25064,8 @@
       "PositionDec": 279773,
       "PositionHex": "0x000444DD",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 279828,
@@ -25093,8 +25092,8 @@
       "PositionDec": 279948,
       "PositionHex": "0x0004458C",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 280003,
@@ -25156,8 +25155,8 @@
       "PositionDec": 280329,
       "PositionHex": "0x00044709",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 280384,
@@ -25177,8 +25176,8 @@
       "PositionDec": 280434,
       "PositionHex": "0x00044772",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 280489,
@@ -25205,8 +25204,8 @@
       "PositionDec": 280595,
       "PositionHex": "0x00044813",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 280650,
@@ -25261,8 +25260,8 @@
       "PositionDec": 280961,
       "PositionHex": "0x00044981",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 281016,
@@ -25282,8 +25281,8 @@
       "PositionDec": 281076,
       "PositionHex": "0x000449F4",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 281131,
@@ -25324,8 +25323,8 @@
       "PositionDec": 281375,
       "PositionHex": "0x00044B1F",
       "ByteLengthDec": 29,
-      "OriginalText": "　　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 281430,
@@ -26682,8 +26681,8 @@
       "PositionDec": 292335,
       "PositionHex": "0x000475EF",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 292396,
@@ -26717,8 +26716,8 @@
       "PositionDec": 292603,
       "PositionHex": "0x000476FB",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 292664,
@@ -26759,8 +26758,8 @@
       "PositionDec": 292975,
       "PositionHex": "0x0004786F",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 293028,
@@ -26780,8 +26779,8 @@
       "PositionDec": 293086,
       "PositionHex": "0x000478DE",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 293139,
@@ -26808,8 +26807,8 @@
       "PositionDec": 293255,
       "PositionHex": "0x00047987",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 293308,
@@ -26864,8 +26863,8 @@
       "PositionDec": 293618,
       "PositionHex": "0x00047AF2",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 293671,
@@ -26892,8 +26891,8 @@
       "PositionDec": 293779,
       "PositionHex": "0x00047B93",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 293832,
@@ -26927,8 +26926,8 @@
       "PositionDec": 294067,
       "PositionHex": "0x00047CB3",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 294128,
@@ -26955,8 +26954,8 @@
       "PositionDec": 294244,
       "PositionHex": "0x00047D64",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 294305,
@@ -27004,8 +27003,8 @@
       "PositionDec": 294673,
       "PositionHex": "0x00047F11",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 294726,
@@ -27032,8 +27031,8 @@
       "PositionDec": 294816,
       "PositionHex": "0x00047FA0",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 294869,
@@ -27067,8 +27066,8 @@
       "PositionDec": 295066,
       "PositionHex": "0x0004809A",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 295119,
@@ -27095,8 +27094,8 @@
       "PositionDec": 295223,
       "PositionHex": "0x00048137",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 295276,
@@ -27123,8 +27122,8 @@
       "PositionDec": 295384,
       "PositionHex": "0x000481D8",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 295437,
@@ -27172,8 +27171,8 @@
       "PositionDec": 295767,
       "PositionHex": "0x00048357",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 295820,
@@ -27193,8 +27192,8 @@
       "PositionDec": 295872,
       "PositionHex": "0x000483C0",
       "ByteLengthDec": 27,
-      "OriginalText": "　　　　　　　［不二子］[n]",
-      "Replacement": "　　　　　　　［不二子］[n]"
+      "OriginalText": "　　　　　　　［Fujiko][n]",
+      "Replacement": "　　　　　　　［Fujiko][n]"
     },
     {
       "PositionDec": 295925,
@@ -37904,14 +37903,14 @@
       "PositionHex": "0x0006B4D0",
       "ByteLengthDec": 50,
       "OriginalText": "＜何かイベントをするための部屋のようだが、[w20][n]",
-      "Replacement": "(Looks like a room for storage[w20][n]"
+      "Replacement": "(Looks like a room for storage,[w20][n]"
     },
     {
       "PositionDec": 439558,
       "PositionHex": "0x0006B506",
       "ByteLengthDec": 27,
       "OriginalText": "　室内は雑然としている＞[n]",
-      "Replacement": "the room is messy)[n]"
+      "Replacement": "the room is messy.)[n]"
     },
     {
       "PositionDec": 439596,
@@ -37925,7 +37924,7 @@
       "PositionHex": "0x0006B54A",
       "ByteLengthDec": 42,
       "OriginalText": "　　　　ここは作業中みたいですね。[w30][n]",
-      "Replacement": "Looks like a work in progress[w30][n]"
+      "Replacement": "Looks like a work in progress.[w30][n]"
     },
     {
       "PositionDec": 439672,
@@ -38506,7 +38505,7 @@
       "PositionHex": "0x0006C69A",
       "ByteLengthDec": 19,
       "OriginalText": "　中は空っぽだ＞[n]",
-      "Replacement": "its empty)[n]"
+      "Replacement": "it's empty.)[n]"
     },
     {
       "PositionDec": 444094,
@@ -38709,7 +38708,7 @@
       "PositionHex": "0x0006CCA3",
       "ByteLengthDec": 39,
       "OriginalText": "やつの[p2]声のサンプル[p0]があれば、[n]",
-      "Replacement": "If I only had a his[p2]voice[p0],[n]"
+      "Replacement": "If I only had a his [p2]voice[p0],[n]"
     },
     {
       "PositionDec": 445645,
@@ -38723,14 +38722,14 @@
       "PositionHex": "0x0006CD0B",
       "ByteLengthDec": 33,
       "OriginalText": "さっきのディスクが役に立つぞ。[n]",
-      "Replacement": "The disc will be helpful.[n]"
+      "Replacement": "We can record stuff with[n]"
     },
     {
       "PositionDec": 445743,
       "PositionHex": "0x0006CD2F",
       "ByteLengthDec": 17,
       "OriginalText": "会議室だテオ！[n]",
-      "Replacement": "Meeting room![n]"
+      "Replacement": "the disc@![n]"
     },
     {
       "PositionDec": 445785,
@@ -39353,7 +39352,7 @@
       "PositionHex": "0x0006DA4B",
       "ByteLengthDec": 38,
       "OriginalText": "[p2]サウンドモード[p0]だって！[w30][n]",
-      "Replacement": "It's on[p2]sound mode![p0][w30][n]"
+      "Replacement": "It's on [p2]sound mode![p0][w30][n]"
     },
     {
       "PositionDec": 449141,
@@ -39409,7 +39408,7 @@
       "PositionHex": "0x0006DB4B",
       "ByteLengthDec": 42,
       "OriginalText": "…[w30]ここに…[w30]入れて…[w30]と…。[n]",
-      "Replacement": "…[w30]Here...[w30]put it in[w30]...[n]"
+      "Replacement": "[w30]Here...[w30]put it in[w30]...[n]"
     },
     {
       "PositionDec": 449415,
@@ -39465,14 +39464,14 @@
       "PositionHex": "0x0006DC7D",
       "ByteLengthDec": 30,
       "OriginalText": "何の演説をしてやがる。[w30][n]",
-      "Replacement": "What kind of speach[w30][n]"
+      "Replacement": "That speach was[w30][n]"
     },
     {
       "PositionDec": 449695,
       "PositionHex": "0x0006DC9F",
       "ByteLengthDec": 27,
       "OriginalText": "何回聞いても嫌な声だぜ。[n]",
-      "Replacement": "was he making then?[n]"
+      "Replacement": "quite ominous.[n]"
     },
     {
       "PositionDec": 449789,
@@ -39507,7 +39506,7 @@
       "PositionHex": "0x0006DD7D",
       "ByteLengthDec": 39,
       "OriginalText": "[p2]声のサンプル[p0]が手に入ったぜ。[n]",
-      "Replacement": "I got a[p2]voice sample![p0][n]"
+      "Replacement": "I got a [p2]voice sample![p0][n]"
     },
     {
       "PositionDec": 449973,
@@ -43895,7 +43894,7 @@
       "PositionDec": 514822,
       "PositionHex": "0x0007DB06",
       "ByteLengthDec": 23,
-      "OriginalText": "　　　　　［不二子］[n]",
+      "OriginalText": "　　　　　［Fujiko][n]",
       "Replacement": "　　   ［Fujiko] [n]" 
     },
     {
@@ -43937,7 +43936,7 @@
       "PositionDec": 515126,
       "PositionHex": "0x0007DC36",
       "ByteLengthDec": 23,
-      "OriginalText": "　　　　　［不二子］[n]",
+      "OriginalText": "　　　　　［Fujiko][n]",
       "Replacement": "　　　　［Fujiko] [n]"
     },
     {
@@ -53963,7 +53962,7 @@
       "PositionHex": "0x0003EA8C",
       "ByteLengthDec": 23,
       "OriginalText": "　押さない[n]\u0000　押す[n]",
-      "Replacement": "Don't push[n]\u0000 Push [n]"
+      "Replacement": " Dont push[n]\u0000 Push [n]"
     },
     {
       "PositionDec": 583446,
