@@ -9,7 +9,7 @@
 
 This is the English translation for Lupin III: Umi ni Kieta Hihou - a game for the GameCube, a visual novel created and published by Asmik Ace.
 
-The orignal translation was done be Peter Lemon around 8 years ago (From the time of writing this) which can be found here: https://github.com/PeterLemon/GC
+The original translation was done be Peter Lemon around 8 years ago (From the time of writing this) which can be found here: https://github.com/PeterLemon/GC
 
 Currently we're in need on additional translators to translate the rest of the script from chapter 6 onwards. Disc 2 is basically an fmv so I'd need a translator to who can write down what they're saying.
 
