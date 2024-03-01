@@ -26,11 +26,11 @@ if %ISOSize% neq %ISOTargetSize% (
 
 BinString.exe patch --source C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --filter sfil.bin --output C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --patch C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --encoding "shift jis" --verbose
 
-echo [INFO] Compiling patches for disc1
+echo [INFO] Compiling patches for Lupin disc 1
 
 bass\\win\\bass.exe ..\\src\\disc1\\Main.asm
 
-echo [INFO] Patches compiled for disc1
+echo [INFO] Patches compiled for Lupin disc 1
 
 if not exist "%ISOFile2%" (
 	echo [INFO] "%ISOFile2%" was not found
@@ -52,11 +52,11 @@ if %ISOSize% neq %ISOTargetSize% (
     exit /b 0
 )
 
-echo [INFO] Compiling patches for disc2
+echo [INFO] Compiling patches for Lupin disc 2
 
 bass\\win\\bass.exe ..\\src\\disc2\\Main.asm
 
-echo [INFO] Patches compiled for disc2
+echo [INFO] Patches compiled for Lupin disc 2
 
 echo ---------- 
 echo Finished!
