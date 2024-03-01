@@ -3,3 +3,5 @@
 *.sav
 src/common/fs/COMMON/sfil.BIN
 *.BIN
+*.thp
+src/common/fs/COMMON/sfil.BIN
