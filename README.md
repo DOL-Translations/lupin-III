@@ -47,4 +47,4 @@ Translate Chapters 6 & 8. The last translators stopped at chapter 6, and we need
 
 Grammar, spacing, etc fixes to text. Sometimes the characters will say the next line after getting rid of the previous line, so the sentence doesn't slow perfectly. This is something to be tinkered with after the initial translation is completed, as just getting the text to the screen is more important atm.
 
-Get a translation for disc 2. The game itself doesn't allow us to add any during this part, so we'll be using a custom version of Dolphin that allows subtitles to be injected. Hopefully the custom build will be merged to the main branch of Dolphin soon. 
+Have someone proofread disc 2 FMVs, as it was done by guess work and YouTube's auto translate option.
