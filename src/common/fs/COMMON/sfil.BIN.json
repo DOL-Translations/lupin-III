@@ -22643,7 +22643,7 @@
       "PositionHex": "0x0003EBFF",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　・・・え？[n]",
-      "Replacement": "　　　　　　・・・え？[n]"
+      "Replacement": "　　　　　　...え？[n]"
     },
     {
       "PositionDec": 257069,

@@ -26,4 +26,4 @@ Thanks AaronRules5 for assisting with getting the THP to work with the game, and
 
 Thanks to Wiimpathy for making WiiFlowTHP, this helped me convert the MP4 files back to thp files to add back to the game.
 
-Special thanks to Drgn for teaching me how to set up the project, and it helping me debug stuff.
+Special thanks to Drgn for teaching me how to set up the project, and helping me debug stuff.
