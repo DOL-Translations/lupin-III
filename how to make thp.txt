@@ -14,4 +14,4 @@ REM set "SKIP=--frameskip"
 
 Change quality to try any match the original size of the thp. We put the duration to the next whole second because it doesn't do decimal points for time, so the next second will make sure it'll capture everything. After that, make sure you save the file as last_0X.thp, or else it won't work. 
 
-You could put ANY video you want, but it'll be at an insanly low resolution, that it'll probably be a bit silly to even try to insert custom stuff, outside of a translation. 
+You could put techinally ANY video you want, but it'll be at an insanly low resolution, that it'll probably be a bit silly to even try to insert custom stuff, outside of a translation. 
