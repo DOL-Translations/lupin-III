@@ -600,21 +600,21 @@
       "PositionHex": "0x00003782",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　　　　　　　原作[n]",
-      "Replacement": "　　　　　　　　　　　　原作[n]"
+      "Replacement": "　　　　　　　Original Work[n]"
     },
     {
       "PositionDec": 14244,
       "PositionHex": "0x000037A4",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　　　　　　　　モンキー・パンチ[n]",
-      "Replacement": "　　　　　　　　　　　　　モンキー・パンチ[n]"
+      "Replacement": "　　　　　　　　　　　　　    Monkey Punch[n]"
     },
     {
       "PositionDec": 14292,
       "PositionHex": "0x000037D4",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　　　　　　（中央公論新社刊）[n]",
-      "Replacement": "　　　　　　　　　　　　　（中央公論新社刊）[n]"
+      "Replacement": "　　　　　 (Published by Chuokoron-Shinsha)[n]"
     },
     {
       "PositionDec": 14376,
@@ -670,14 +670,14 @@
       "PositionHex": "0x0000387C",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　　ルパン三世[n]",
-      "Replacement": "　　　　　　　　　　　ルパン三世[n]"
+      "Replacement": "　　　　　　　　　　　 Lupin III[n]"
     },
     {
       "PositionDec": 14498,
       "PositionHex": "0x000038A2",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　栗田貫一[n]",
-      "Replacement": "　　　　　　　　　　　　　栗田貫一[n]"
+      "Replacement": "　　　　　　　　　 Kanichi Kurita[n]"
     },
     {
       "PositionDec": 14572,
@@ -733,14 +733,14 @@
       "PositionHex": "0x00003940",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　　　　　　次元大介[n]",
-      "Replacement": "　　　　　　　　　　　次元大介[n]"
+      "Replacement": "　　　　　　　　 Daisuke Jigen[n]"
     },
     {
       "PositionDec": 14692,
       "PositionHex": "0x00003964",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　小林清志[n]",
-      "Replacement": "　　　　　　　　　　　　　小林清志[n]"
+      "Replacement": "　　　　　　　　Kiyoshi Kobayashi[n]"
     },
     {
       "PositionDec": 14766,
@@ -796,14 +796,14 @@
       "PositionHex": "0x00003A02",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　　石川五エ門[n]",
-      "Replacement": "　　　　　　　　　　　石川五エ門[n]"
+      "Replacement": "　　　　　　　　Ishikawa Goemon[n]"
     },
     {
       "PositionDec": 14888,
       "PositionHex": "0x00003A28",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　　　　　　井上真樹夫[n]",
-      "Replacement": "　　　　　　　　　　　　　井上真樹夫[n]"
+      "Replacement": "　　　　　　　　　　　　Makio Inoue[n]"
     },
     {
       "PositionDec": 14964,
@@ -859,14 +859,14 @@
       "PositionHex": "0x00003AC8",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　　　　　　峰不二子[n]",
-      "Replacement": "　　　　　　　　　　　峰不二子[n]"
+      "Replacement": "　　　　　　　　　 Fujiko Mine[n]"
     },
     {
       "PositionDec": 15084,
       "PositionHex": "0x00003AEC",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　　　　　　増山江威子[n]",
-      "Replacement": "　　　　　　　　　　　　　増山江威子[n]"
+      "Replacement": "　　　　　　　　　　　Eiko Masuyama[n]"
     },
     {
       "PositionDec": 15160,
@@ -922,14 +922,14 @@
       "PositionHex": "0x00003B8C",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　　　　　　銭形平次[n]",
-      "Replacement": "　　　　　　　　　　　銭形平次[n]"
+      "Replacement": "　　　　　　　 Koichi Zenigata[n]"
     },
     {
       "PositionDec": 15280,
       "PositionHex": "0x00003BB0",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　納谷悟朗[n]",
-      "Replacement": "　　　　　　　　　　　　　納谷悟朗[n]"
+      "Replacement": "　　　　　　　　　　　　 Goro Naya[n]"
     },
     {
       "PositionDec": 15354,
@@ -985,14 +985,14 @@
       "PositionHex": "0x00003C4E",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　　　　　　テオ[n]",
-      "Replacement": "　　　　　　　　　　　テオ[n]"
+      "Replacement": "　　　　　　　　　　　Theo[n]"
     },
     {
       "PositionDec": 15470,
       "PositionHex": "0x00003C6E",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　久保田恵[n]",
-      "Replacement": "　　　　　　　　　　　　　久保田恵[n]"
+      "Replacement": "　　　　　　　　　　Megumi Kubota[n]"
     },
     {
       "PositionDec": 15544,
@@ -1048,14 +1048,14 @@
       "PositionHex": "0x00003D0C",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　　　　　　リアナ[n]",
-      "Replacement": "　　　　　　　　　　　リアナ[n]"
+      "Replacement": "　　　　　　　　　　　 Liana[n]"
     },
     {
       "PositionDec": 15662,
       "PositionHex": "0x00003D2E",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　榎本温子[n]",
-      "Replacement": "　　　　　　　　　　　　　榎本温子[n]"
+      "Replacement": "　　　　　　　　　　Atsuko Enomoto[n]"
     },
     {
       "PositionDec": 15736,
@@ -1111,14 +1111,14 @@
       "PositionHex": "0x00003DCC",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　クラーク教授[n]",
-      "Replacement": "　　　　　　　　　　　クラーク教授[n]"
+      "Replacement": "　　　　　　　　　Professor Clark[n]"
     },
     {
       "PositionDec": 15860,
       "PositionHex": "0x00003DF4",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　藤村俊二[n]",
-      "Replacement": "　　　　　　　　　　　　　藤村俊二[n]"
+      "Replacement": "　　　　　　　　　Shunji Fujimura[n]"
     },
     {
       "PositionDec": 16208,
@@ -1174,14 +1174,14 @@
       "PositionHex": "0x00003FA4",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　　　アニメーション監督・演出[n]",
-      "Replacement": "　　　　　　　　アニメーション監督・演出[n]"
+      "Replacement": "　　　　              Animation Director[n]"
     },
     {
       "PositionDec": 16338,
       "PositionHex": "0x00003FD2",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　　　　　　　　ところともかず[n]",
-      "Replacement": "　　　　　　　　　　　　　ところともかず[n]"
+      "Replacement": "　　　　　　　　　　　　Tomokazu Tokoro[n]"
     },
     {
       "PositionDec": 16418,
@@ -1237,14 +1237,14 @@
       "PositionHex": "0x00004076",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　　　　　　　脚本[n]",
-      "Replacement": "　　　　　　　　　　　　脚本[n]"
+      "Replacement": "　　　　　　　　　Screenplay[n]"
     },
     {
       "PositionDec": 16536,
       "PositionHex": "0x00004098",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　翁　妙子[n]",
-      "Replacement": "　　　　　　　　　　　　　翁　妙子[n]"
+      "Replacement": "　　　　　　　　　　　 Taeko Okina[n]"
     },
     {
       "PositionDec": 16610,
@@ -1300,14 +1300,14 @@
       "PositionHex": "0x00004136",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　キャラクターデザイン[n]",
-      "Replacement": "　　　　　　　　キャラクターデザイン[n]"
+      "Replacement": "　　　　　　　　    Character Design[n]"
     },
     {
       "PositionDec": 16736,
       "PositionHex": "0x00004160",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　小林利充[n]",
-      "Replacement": "　　　　　　　　　　　　　小林利充[n]"
+      "Replacement": "　　　　　　　Toshimitsu Kobayashi[n]"
     },
     {
       "PositionDec": 16802,
@@ -1363,14 +1363,14 @@
       "PositionHex": "0x000041FE",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　　　美術監督[n]",
-      "Replacement": "　　　　　　　　　　　　美術監督[n]"
+      "Replacement": "　　　　　　　　　 Art Director[n]"
     },
     {
       "PositionDec": 16932,
       "PositionHex": "0x00004224",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　宮野　隆[n]",
-      "Replacement": "　　　　　　　　　　　　　宮野　隆[n]"
+      "Replacement": "　　　　　　　　 　 Takashi Miyano[n]"
     },
     {
       "PositionDec": 16998,
@@ -1426,14 +1426,14 @@
       "PositionHex": "0x000042C2",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　　　色彩設計[n]",
-      "Replacement": "　　　　　　　　　　　　色彩設計[n]"
+      "Replacement": "　　　　　　　　　　Color Design[n]"
     },
     {
       "PositionDec": 17128,
       "PositionHex": "0x000042E8",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　飯島孝枝[n]",
-      "Replacement": "　　　　　　　　　　　　　飯島孝枝[n]"
+      "Replacement": "　　　　　　　　　　　Takae Iijima[n]"
     },
     {
       "PositionDec": 17194,
@@ -1489,14 +1489,14 @@
       "PositionHex": "0x00004386",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　　　撮影監督[n]",
-      "Replacement": "　　　　　　　　　　　　撮影監督[n]"
+      "Replacement": "　　　　Director of Photography[n]"
     },
     {
       "PositionDec": 17324,
       "PositionHex": "0x000043AC",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　川田敏寛[n]",
-      "Replacement": "　　　　　　　　　　　　　川田敏寛[n]"
+      "Replacement": "　　　　　　　　 Toshihiro Kawada[n]"
     },
     {
       "PositionDec": 17390,
@@ -1552,14 +1552,14 @@
       "PositionHex": "0x0000444A",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　　　録音監督[n]",
-      "Replacement": "　　　　　　　　　　　　録音監督[n]"
+      "Replacement": "　　　　　　 Recording Director[n]"
     },
     {
       "PositionDec": 17520,
       "PositionHex": "0x00004470",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　加藤　敏[n]",
-      "Replacement": "　　　　　　　　　　　　　加藤　敏[n]"
+      "Replacement": "　　　　　　　　　　 Satoshi Kato[n]"
     },
     {
       "PositionDec": 17586,
@@ -1615,14 +1615,14 @@
       "PositionHex": "0x0000450E",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　　　音楽監修[n]",
-      "Replacement": "　　　　　　　　　　　　音楽監修[n]"
+      "Replacement": "　　　　　　　 Music Supervision[n]"
     },
     {
       "PositionDec": 17716,
       "PositionHex": "0x00004534",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　鈴木清司[n]",
-      "Replacement": "　　　　　　　　　　　　　鈴木清司[n]"
+      "Replacement": "　　　　　　　　　　　Seiji Suzuki[n]"
     },
     {
       "PositionDec": 18180,
@@ -1678,14 +1678,14 @@
       "PositionHex": "0x00004760",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　　　システム[n]",
-      "Replacement": "　　　　　　　　　　　　システム[n]"
+      "Replacement": "　　　　　　　　　　　　 Systems[n]"
     },
     {
       "PositionDec": 18310,
       "PositionHex": "0x00004786",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　　　　　　　　居石淳一（HOWZ）[n]",
-      "Replacement": "　　　　　　　　　　　　　居石淳一（HOWZ）[n]"
+      "Replacement": "　　　　　　　　　　　Junichi Iishi (HOWZ)[n]"
     },
     {
       "PositionDec": 18384,
@@ -1741,14 +1741,14 @@
       "PositionHex": "0x0000482C",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　　　　　プランニング[n]",
-      "Replacement": "　　　　　　　　　　　　プランニング[n]"
+      "Replacement": "　　　　　　　　　　　　    Planning[n]"
     },
     {
       "PositionDec": 18518,
       "PositionHex": "0x00004856",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　岩崎聡志[n]",
-      "Replacement": "　　　　　　　　　　　　　岩崎聡志[n]"
+      "Replacement": "　　　　　　　　　 Satoshi Iwasaki[n]"
     },
     {
       "PositionDec": 18584,
@@ -1804,14 +1804,14 @@
       "PositionHex": "0x000048F4",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　　　　　ディレクター[n]",
-      "Replacement": "　　　　　　　　　　　　ディレクター[n]"
+      "Replacement": "　　　　　　　　　　　　    Director[n]"
     },
     {
       "PositionDec": 18718,
       "PositionHex": "0x0000491E",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　岡野　一[n]",
-      "Replacement": "　　　　　　　　　　　　　岡野　一[n]"
+      "Replacement": "　　　　　　　　　　  Hajime Okano[n]"
     },
     {
       "PositionDec": 18784,
@@ -1867,14 +1867,14 @@
       "PositionHex": "0x000049BC",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　アニメーションプロデューサー[n]",
-      "Replacement": "　　　　　　アニメーションプロデューサー[n]"
+      "Replacement": "　　　　　　          Animation Producer[n]"
     },
     {
       "PositionDec": 18922,
       "PositionHex": "0x000049EA",
       "ByteLengthDec": 42,
       "OriginalText": "　　　　　　　　　　　　　尾崎穏通(TMS)[n]",
-      "Replacement": "　　　　　　　　　　　　　尾崎穏通(TMS)[n]"
+      "Replacement": "　　　　　　　　　Yasumichi Ozaki (TMS)[n]"
     },
     {
       "PositionDec": 18994,
@@ -1930,14 +1930,14 @@
       "PositionHex": "0x00004A8E",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　アニメーションプロデューサー[n]",
-      "Replacement": "　　　　　　アニメーションプロデューサー[n]"
+      "Replacement": "　　　　　　          Animation Producer[n]"
     },
     {
       "PositionDec": 19132,
       "PositionHex": "0x00004ABC",
       "ByteLengthDec": 42,
       "OriginalText": "　　　　　　　　　　　　　大石祐道(TMS)[n]",
-      "Replacement": "　　　　　　　　　　　　　大石祐道(TMS)[n]"
+      "Replacement": "　　　　　　　　　Hiromichi Oishi (TMS)[n]"
     },
     {
       "PositionDec": 19204,
@@ -1993,14 +1993,14 @@
       "PositionHex": "0x00004B60",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　　　　　　　プロデューサー[n]",
-      "Replacement": "　　　　　　　　　　　　プロデューサー[n]"
+      "Replacement": "　　　　　　　　　　　　      Producer[n]"
     },
     {
       "PositionDec": 19340,
       "PositionHex": "0x00004B8C",
       "ByteLengthDec": 42,
       "OriginalText": "　　　　　　　　　　　　　小野幹雄(AAE)[n]",
-      "Replacement": "　　　　　　　　　　　　　小野幹雄(AAE)[n]"
+      "Replacement": "　　　　　　　　　　　　Mikio Ono (AAE)[n]"
     },
     {
       "PositionDec": 19412,
@@ -2056,14 +2056,14 @@
       "PositionHex": "0x00004C30",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　エグゼクティブプロデューサー[n]",
-      "Replacement": "　　　　　　　　エグゼクティブプロデューサー[n]"
+      "Replacement": "                          Executive Producer[n]"
     },
     {
       "PositionDec": 19554,
       "PositionHex": "0x00004C62",
       "ByteLengthDec": 42,
       "OriginalText": "　　　　　　　　　　　　　椎名　保(AAE)[n]",
-      "Replacement": "　　　　　　　　　　　　　椎名　保(AAE)[n]"
+      "Replacement": "　　　　　　　　　Tamotsu Shiina (AAE)[n]"
     },
     {
       "PositionDec": 19626,
@@ -2119,14 +2119,14 @@
       "PositionHex": "0x00004CFE",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　エグゼクティブプロデューサー[n]",
-      "Replacement": "　　　　　　　　エグゼクティブプロデューサー[n]"
+      "Replacement": "　　　　　　　　          Executive Producer[n]"
     },
     {
       "PositionDec": 19760,
       "PositionHex": "0x00004D30",
       "ByteLengthDec": 42,
       "OriginalText": "　　　　　　　　　　　　　豊島雅郎(AAE)[n]",
-      "Replacement": "　　　　　　　　　　　　　豊島雅郎(AAE)[n]"
+      "Replacement": "　　　　　　　　　　Toshima Masao (AAE)[n]"
     },
     {
       "PositionDec": 19832,
@@ -2182,14 +2182,14 @@
       "PositionHex": "0x00004DCC",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　　　　　　アニメーション制作[n]",
-      "Replacement": "　　　　　　　　　　　アニメーション制作[n]"
+      "Replacement": "                    Animation Production[n]"
     },
     {
       "PositionDec": 19962,
       "PositionHex": "0x00004DFA",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　　　　　　　　東京ムービー[n]",
-      "Replacement": "　　　　　　　　　　　　　東京ムービー[n]"
+      "Replacement": "　　　　　　　　　　　　　 Tokyo Movie[n]"
     },
     {
       "PositionDec": 20032,
@@ -2245,14 +2245,14 @@
       "PositionHex": "0x00004E94",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　　　　　　企画・製作[n]",
-      "Replacement": "　　　　　　　　　　　　　企画・製作[n]"
+      "Replacement": "　　　　　　　 Planning & Production[n]"
     },
     {
       "PositionDec": 20158,
       "PositionHex": "0x00004EBE",
       "ByteLengthDec": 52,
       "OriginalText": "　　　　　　アスミック・エース エンタテインメント[n]",
-      "Replacement": "　　　　　　アスミック・エース エンタテインメント[n]"
+      "Replacement": "                         Asmik Ace Entertainment[n]"
     },
     {
       "PositionDec": 20240,
@@ -2308,14 +2308,14 @@
       "PositionHex": "0x00004F64",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　　　　　　　　制作[n]",
-      "Replacement": "　　　　　　　　　　　　　　　制作[n]"
+      "Replacement": "　　　　　　　　　　　　Production[n]"
     },
     {
       "PositionDec": 20364,
       "PositionHex": "0x00004F8C",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　　　　　　　　ＴＹＣＯＯＮ[n]",
-      "Replacement": "　　　　　　　　　　　　　ＴＹＣＯＯＮ[n]"
+      "Replacement": "　　　　　　　　　　　　　     TYCOON[n]"
     },
     {
       "PositionDec": 21094,
@@ -22643,7 +22643,7 @@
       "PositionHex": "0x0003EBFF",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　・・・え？[n]",
-      "Replacement": "　　　　　　・・・え？[n]"
+      "Replacement": "　　　　　　...え？[n]"
     },
     {
       "PositionDec": 257069,
@@ -43489,7 +43489,8 @@
       "PositionHex": "0x0007CDA1",
       "ByteLengthDec": 27,
       "OriginalText": "　　　　　あの子・・・。[n]",
-      "Replacement": "     and wouldn't be here.[n]"
+      "Replacement": "   and wouldn't be here.[n]"
+
     },
     {
       "PositionDec": 511469,
