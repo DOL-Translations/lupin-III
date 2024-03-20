@@ -2,7 +2,7 @@ You have to make the mp4 exported at 640 x 352, while you may be able to do it a
 
 To get the original thp files, on a J copy of Disc 2, open in gcrebuiler, go to the movie folder, then export last_00.thp and last_01.thp. From there, you'll be using https://github.com/Lord-Giganticus/THP-Converter to convert the thp to mp4. Once that is done, download ffmpeg https://ffmpeg.org/download.html#build-windows, when downloaded, Add ffmpeg's bin folder to PATH to make things very easy for you. Once all is done, and you have your modified videos you want to replace, you want to make sure the audio Hz is set correctly, most programs default it to 44 or 48 hz which is too high, so a new folder and cd into it with cmd. 
 
-In the cmd, paste in `ffmpeg -i input.mp4 -ar 32000 output.mp4`. input.mp4 will the the file you want to modify and output.mp4 is the new file being made, so don't name these the same thing! If you don't do this, it'll lag the video/audio in game from it being too high quality, otherwise it'll lag the video/audio. Once you do the conversion, you'll want to download https://github.com/Wiimpathy/WiiFlowTHP and edit the .bat with the following settings. 
+In the cmd, paste in `ffmpeg -i input.mp4 -ar 32000 output.mp4`. input.mp4 will the the file you want to modify and output.mp4 is the new file being made, so don't name these the same thing! If you don't do this, it'll lag the video/audio in game from it being too high quality. Once you do the conversion, you'll want to download https://github.com/Wiimpathy/WiiFlowTHP and edit the .bat with the following settings. 
 
 set FPS=29.97
 set BORDER=0
