@@ -46,5 +46,3 @@ Translate submenus (graphics). Every menu option is actually a pre-made image, a
 Translate Chapters 6 & 8. The last translators stopped at chapter 6, and we need someone to help us translate the rest of the project.
 
 Grammar, spacing, etc fixes to text. Sometimes the characters will say the next line after getting rid of the previous line, so the sentence doesn't slow perfectly. This is something to be tinkered with after the initial translation is completed, as just getting the text to the screen is more important atm.
-
-Have someone proofread disc 2 FMVs, as it was done by guess work and YouTube's auto translate option.
