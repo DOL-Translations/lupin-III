@@ -20,7 +20,7 @@ Thanks to arhkma_muddykipz for assisting with proofreading.
 
 Thanks to Muttvil for proofreading disc 2.
 
-Thanks to Lord-Giganticus for making "THP-Converter", this helped me make MP4 files to edit for the ending.
+Thanks AaronRules5 for assisting with getting the THP to work with the game, and helpeing with additional fixes. 
 
 Thanks to Wiimpathy for making WiiFlowTHP, this helped me convert the MP4 files back to thp files to add back to the game.
 
