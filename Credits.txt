@@ -12,20 +12,18 @@ New programming by: Radiant for for chapter 1-5, and chapter 7, along with being
 
 Thanks to PTwr for making a much easier way to edit the text, and insert it in with the .json.
 
-Thanks to NewGBAXL for assisting with debugging, and making some english graphic replacements.
+Thanks to NewGBAXL for assisting with debugging, and making some English graphic replacements.
 
-Thanks to aldi_09 for creating english graphic replacements.
+Thanks to aldi_09 for creating English graphic replacements.
 
 Thanks to arhkma_muddykipz for assisting with proofreading.
 
 Thanks to Muttvil for proofreading disc 2.
 
-Thanks AaronRules5 for assisting with getting the THP to work with the game, and helpeing with additional fixes. 
+Thanks to Lord-Giganticus for making THP-Converter, allowing the thp to me converted as an MP4 for ease of use.
+
+Thanks AaronRules5 for assisting with getting the THP to work with the game, and helping with additional fixes. 
 
 Thanks to Wiimpathy for making WiiFlowTHP, this helped me convert the MP4 files back to thp files to add back to the game.
 
-Special thanks to Drgn for teaching me how to set up the project, and it helping me debug stuff.
-
-
-
-Written 9/8/2023
+Special thanks to Drgn for teaching me how to set up the project, and helping me debug stuff.

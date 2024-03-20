@@ -67,5 +67,4 @@ include "../common/System.asm"
 include "../common/Text.asm"
 
 //Note: these will not be overwritten by BinString
-include "Credits.asm"
 include "JsonFixes.asm"

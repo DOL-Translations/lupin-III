@@ -1,6 +1,6 @@
-You have to make the mp4 exported at 640 x 352, while you may be able to do it lower, this is what the oringal scene uses. 
+You have to make the mp4 exported at 640 x 352, while you may be able to do it at lower resolutions, this is what the oringal scene uses. 
 
-Once you have the mp4 ready, use the command `ffmpeg -i input.mp4 -ar 32000 output.mp4`. Add ffmpeg to PATH to do this anywhere, and it'll make things very easy for you. input.mp4 and output.mp4 you should replace it with the proper names. The reason you have to do this is you want to make sure the audio is in 32000 Hz, otherwise it'll lag the video/audio. Once you do, you'll want to use https://github.com/Wiimpathy/WiiFlowTHP and edit the .bat with the following settings. 
+Once you have the mp4 ready, use the command `ffmpeg -i input.mp4 -ar 32000 output.mp4`. Add ffmpeg's bin folder to PATH to do this anywhere, and it'll make things very easy for you. input.mp4 and output.mp4 you should replace it with the proper names. The reason you have to do this is you want to make sure the audio is in 32000 Hz, otherwise it'll lag the video/audio. Once you do, you'll want to use https://github.com/Wiimpathy/WiiFlowTHP and edit the .bat with the following settings. 
 
 set FPS=29.97
 set BORDER=0
@@ -12,6 +12,6 @@ set "NOAUDIO=--audio"
 REM set "SKIP=--frameskip"
 
 
-Change quality to try any match the orignal size of the thp. We put the duration to the next whole second because it doesn't do decimal points for time, so the next second will make sure it'll capture everything. After that, make sure you save the file as last_0X.thp, or else it won't work. 
+Change quality to try any match the original size of the thp. We put the duration to the next whole second because it doesn't do decimal points for time, so the next second will make sure it'll capture everything. After that, make sure you save the file as last_0X.thp, or else it won't work. 
 
-You could put ANY video you want, but it'll be at an insanly low resolution, that it'll probably be a bit silly to even try to insert custom stuff, outside of a translation. 
+You could put techinally ANY video you want, but it'll be at an insanly low resolution, that it'll probably be a bit silly to even try to insert custom stuff, outside of a translation. 
