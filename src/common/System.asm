@@ -1,10 +1,22 @@
-// Save banner (inside the .dol)
-ReplaceAsset($000D7BC0, "../common/fs/save_banner", 3848) 
+// Save data
+Text($000D57DC, "Lupin III: Lost Treasure Under the Sea"); fill 1 // oopsie, overwrites some developer text lol
+origin $4871A; db $03E4 // point to the new string
+origin $48567; db $59 // "Y"
+origin $48577; db $52 // "R"
+origin $485BB; db $4D // "M"
+origin $485CB; db $4E // "N"
+origin $4860B; db $44 // "D"
+origin $4861B; db $59 // "Y"
+origin $486B7; db $48 // "H"
+origin $48677; db $52 // "R"
+origin $486B7; db $4D // "M"
+origin $486C7; db $4E // "N"
+ReplaceAsset($000D7BC0, "../common/fs/save_banner", 3848) // (inside the .dol)
 
 // Memory Card - 38 strings
 Text($000D97C0, "Lupin III - Lost Treasure          ") //Under the Sea -")
 Text($000D97E4, "Would you like to start the game?[n]You will not be able to save."); fill 10
-Text($000D9824, "You will not be able to save.[n]Continue?") ; fill 14
+Text($000D9824, "Continue?"); fill 14
 Text($000D985C, "Do you want to format the Memory Card?[n]All files will be deleted.") ; fill 8
 Text($000D98A8, "Do you want to save your progress?")
 Text($000D98CC, "Do you want to delete the corrupted data?[n]All save data for this game will be deleted.") ; fill 2
