@@ -439,14 +439,14 @@
       "PositionHex": "0x00002042",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　そのことにくわしい人間のトコへ[n]",
-      "Replacement": "     I'm dunno, but know someone who will,[n]"
+      "Replacement": "      I don't exactly know, but[n]"
     },
     {
       "PositionDec": 8306,
       "PositionHex": "0x00002072",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　これから会いに行くんだよ！[n]",
-      "Replacement": "      we're gonna go visit them now![n]"
+      "Replacement": "      I know someone who just might![n]"
     },
     {
       "PositionDec": 8456,
@@ -4086,7 +4086,7 @@
       "PositionHex": "0x0000F964",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　インターポールの銭形と申します。[n]",
-      "Replacement": "    I'm Zenigata; I work with Interpol.[n]"
+      "Replacement": "    I'm Zenigata; I work with INTERPOL.[n]"
     },
     {
       "PositionDec": 64030,
@@ -43490,7 +43490,6 @@
       "ByteLengthDec": 27,
       "OriginalText": "　　　　　あの子・・・。[n]",
       "Replacement": "   and wouldn't be here.[n]"
-
     },
     {
       "PositionDec": 511469,
