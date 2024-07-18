@@ -19101,7 +19101,7 @@
       "PositionHex": "0x00036253",
       "ByteLengthDec": 25,
       "OriginalText": "　　　アレクシウさん？[n]",
-      "Replacement": "　　      Mr. Alexiu?[n]"
+      "Replacement": "　　　アレクシウさん？[n]"
     },
     {
       "PositionDec": 221879,
@@ -19115,7 +19115,7 @@
       "PositionHex": "0x000362F6",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　ん？・・・ああ。[n]",
-      "Replacement": "　　　　　     　Hmm?...Oh.[n]"
+      "Replacement": "　　　　　　ん？・・・ああ。[n]"
     },
     {
       "PositionDec": 221990,
@@ -19129,7 +19129,7 @@
       "PositionHex": "0x00036369",
       "ByteLengthDec": 39,
       "OriginalText": "　　　ラリス教授の紹介できたんだが。[n]",
-      "Replacement": "　Professor Laris told us about you.[n]"
+      "Replacement": "　　　ラリス教授の紹介できたんだが。[n]"
     },
     {
       "PositionDec": 222113,
@@ -19143,14 +19143,14 @@
       "PositionHex": "0x000363E0",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　・・・うん、聞いてるよ。[n]",
-      "Replacement": "　　　　　　...Yeah, I'm listening.[n]"
+      "Replacement": "　　　　　　・・・うん、聞いてるよ。[n]"
     },
     {
       "PositionDec": 222218,
       "PositionHex": "0x0003640A",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　『海の民』について、だったかな？[n]",
-      "Replacement": "　　　 About the People of the Sea, was it?[n]"
+      "Replacement": "　　　　　　『海の民』について、だったかな？[n]"
     },
     {
       "PositionDec": 222296,
@@ -19164,7 +19164,7 @@
       "PositionHex": "0x00036485",
       "ByteLengthDec": 21,
       "OriginalText": "　　　ああ・・・。[n]",
-      "Replacement": "　　　      Oh...[n]"
+      "Replacement": "　　　ああ・・・。[n]"
     },
     {
       "PositionDec": 222423,
@@ -19178,14 +19178,14 @@
       "PositionHex": "0x0003650E",
       "ByteLengthDec": 23,
       "OriginalText": "　　　　　　珍しい。[n]",
-      "Replacement": "I haven't been asked[n]"
+      "Replacement": "　　　　　　珍しい。[n]"
     },
     {
       "PositionDec": 222504,
       "PositionHex": "0x00036528",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　・・・昔々、はるか昔の話だ。[n]",
-      "Replacement": "　             about this in so long.[n]"
+      "Replacement": "　　　　　　・・・昔々、はるか昔の話だ。[n]"
     },
     {
       "PositionDec": 222550,
@@ -19206,14 +19206,14 @@
       "PositionHex": "0x0003659F",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　どうして、[n]",
-      "Replacement": "　　　　　　  But why[n]"
+      "Replacement": "　　　　　　どうして、[n]"
     },
     {
       "PositionDec": 222651,
       "PositionHex": "0x000365BB",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　そんな話を聞きたがる？[n]",
-      "Replacement": "are you interested in the story?[n]"
+      "Replacement": "　　　　　　そんな話を聞きたがる？[n]"
     },
     {
       "PositionDec": 222705,
@@ -19227,7 +19227,7 @@
       "PositionHex": "0x0003661C",
       "ByteLengthDec": 31,
       "OriginalText": "　　　人を助けたいからです。[n]",
-      "Replacement": "   Because I want to help.[n]"
+      "Replacement": "　　　人を助けたいからです。[n]"
     },
     {
       "PositionDec": 222796,
@@ -19241,7 +19241,7 @@
       "PositionHex": "0x00036683",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　そうか・・・、人助けか。[n]",
-      "Replacement": "　　　 Hmmm...want to help people?[n]"
+      "Replacement": "　　　　　　そうか・・・、人助けか。[n]"
     },
     {
       "PositionDec": 222907,
@@ -19255,7 +19255,7 @@
       "PositionHex": "0x000366E6",
       "ByteLengthDec": 15,
       "OriginalText": "　　　はい。[n]",
-      "Replacement": "　　　  Yes.[n]"
+      "Replacement": "　　　はい。[n]"
     },
     {
       "PositionDec": 222982,
@@ -19269,14 +19269,14 @@
       "PositionHex": "0x0003673D",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　わたしも、そう長くはない。[n]",
-      "Replacement": "　　　　　 　I don't have much time.[n]"
+      "Replacement": "　　　　　　わたしも、そう長くはない。[n]"
     },
     {
       "PositionDec": 223081,
       "PositionHex": "0x00036769",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　ワシの役目も終わり・・・[n]",
-      "Replacement": "　　　　　　My role is almost over.[n]"
+      "Replacement": "　　　　　　ワシの役目も終わり・・・[n]"
     },
     {
       "PositionDec": 223123,
@@ -19297,14 +19297,14 @@
       "PositionHex": "0x000367DC",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　もう、語ることはないと[n]",
-      "Replacement": " I don't have much more to say.[n]"
+      "Replacement": "　　　　　　もう、語ることはないと[n]"
     },
     {
       "PositionDec": 223236,
       "PositionHex": "0x00036804",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　思っていたが。[n]",
-      "Replacement": "　　　　　　so I thought.[n]"
+      "Replacement": "　　　　　　思っていたが。[n]"
     },
     {
       "PositionDec": 223268,
@@ -19325,7 +19325,7 @@
       "PositionHex": "0x0003686D",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　さて、何から話そうかの。[n]",
-      "Replacement": "　　　　　　Now, where do I start?[n]"
+      "Replacement": "　　　　　　さて、何から話そうかの。[n]"
     },
     {
       "PositionDec": 223401,
@@ -19542,7 +19542,7 @@
       "PositionHex": "0x00036E83",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　思っていたが。[n]",
-      "Replacement": "　(beta)　　so I thought[n]"
+      "Replacement": "so I thought[n]"
     },
     {
       "PositionDec": 224931,
