@@ -11,7 +11,7 @@ This is the English translation for Lupin III: Umi ni Kieta Hihou - a visual nov
 
 The original translation was done be Peter Lemon around 8 years ago (From the time of writing this) which can be found here: https://github.com/PeterLemon/GC
 
-All lines have been translated, however Chapters 6-8 were done primarily through machine translation. If a proper translation is done, we'll update those chapters accordingly.
+All dialogue has been translated, however Chapters 6-8 were done primarily through machine translation. If a proper translation is done, we'll update those chapters accordingly.
 
 #### xdelta patch (Recommended)
 - Download [Delta Patcher](https://www.romhacking.net/utilities/704/)
@@ -25,7 +25,7 @@ All lines have been translated, however Chapters 6-8 were done primarily through
 
 Special thanks to Peter Lemon for starting the whole thing, and thanks to Drgn for helping me setup the whole project, along with gbaXL for assisting in new tools to make this easier.
 
-## When you pause and go to history, it won't display the words properly. Add this Gameshark code to fix this. 
+## When you pause and go to history, it won't display the words properly. Add this Action Replay code to fix this. 
 
 `C20095B8 00000002
 7CE0FA14 3A400000
@@ -51,10 +51,11 @@ C2008968 00000001
 
 # Current road map for the team (No specific order):
 
-Add support for History fix on disc (currently only available as an external Gameshark code)
+Add support for History fix on disc (currently only available as an external Action Replay code)
 
 Look into adding new fonts. (post-release)
 
 Translate submenus (graphics). Every menu option is actually a pre-made image, and not dynamic with the text, so someone would have to make new assets (almost complete)
 
-Grammar, spacing, etc fixes to text. Sometimes the characters will say the next line after getting rid of the previous line, so the sentence doesn't slow perfectly.
+Grammar, spacing, making sure dialogue is lined up with itself, also fixing. Sometimes the characters will finish a sentence, then start a new sentence due to space limitations. Also sometimes, a line won't
+finish, and will bleed into the next sentence, so the sentence doesn't flow perfectly. Lots of testing will have to be done to adjust these things. 
