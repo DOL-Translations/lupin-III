@@ -49,7 +49,7 @@ B003003A 2C1200FF <br />
 38950000 3E208000 <br />
 62318934 7E2903A6 <br />
 4E800421 00000000 <br />
-C2008968 00000001 <br />
+C2008968 00000001
 60000000 00000000
 
 # Current road map for the team (No specific order):
