@@ -30,7 +30,7 @@ Special thanks to Peter Lemon for starting the whole thing, and thanks to Drgn f
 
 ## When you pause and go to history, it won't display the words properly. Add this Action Replay code to fix this. 
 
-`C20095B8 00000002 <br />
+C20095B8 00000002 <br />
 7CE0FA14 3A400000 <br />
 60000000 00000000 <br />
 C200A878 00000005 <br />
@@ -50,7 +50,7 @@ B003003A 2C1200FF <br />
 62318934 7E2903A6 <br />
 4E800421 00000000 <br />
 C2008968 00000001 <br />
-60000000 00000000`
+60000000 00000000
 
 # Current road map for the team (No specific order):
 
