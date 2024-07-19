@@ -24,13 +24,16 @@ if %ISOSize% neq %ISOTargetSize% (
     exit /b 0
 )
 
-BinString.exe patch --source C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --filter sfil.bin --output C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --patch C:\Users\bob\Documents\GitHub\lupin-III\src\common\fs\COMMON --encoding "shift jis" --verbose
+set "script_dir=%~dp0"
+set "lupinIII_root=%script_dir%.."
+set "common_dir=%lupinIII_root%\src\common\fs\COMMON"
+BinString.exe patch --source "%common_dir%" --filter sfil.bin --output "%common_dir%" --patch "%common_dir%" --encoding "shift jis" --verbose
 
-echo [INFO] Compiling patches for Lupin disc 1
+echo [INFO] Compiling patches for Lupin Disc 1
 
 bass\\win\\bass.exe ..\\src\\disc1\\Main.asm
 
-echo [INFO] Patches compiled for Lupin disc 1
+echo [INFO] Patches compiled for Lupin Disc 1
 
 if not exist "%ISOFile2%" (
 	echo [INFO] "%ISOFile2%" was not found
@@ -52,11 +55,26 @@ if %ISOSize% neq %ISOTargetSize% (
     exit /b 0
 )
 
-echo [INFO] Compiling patches for Lupin disc 2
+set VideoFile1=..\src\disc2\fs\movie\last_00.thp
+set VideoFile2=..\src\disc2\fs\movie\last_01.thp
+set VideoFile3=..\src\disc2\fs\movie\staff.thp
+
+set VideoFile1Url="https://www.dropbox.com/scl/fi/oq936t6kvnt8rmshva2mc/last_00.thp?rlkey=sktjd3wckb9spd24a196zcgug"
+set VideoFile2Url="https://www.dropbox.com/scl/fi/2rncno9d26gblhy7odk39/last_01.thp?rlkey=enz4kks0dkdbh39knaiepolxx"
+set VideoFile3Url=
+
+if not exist "%VideoFile1%" (
+    echo [INFO] Video files not found
+    echo Downloading them now..
+    curl -L -o "%VideoFile1%" "%VideoFile1Url%"
+    curl -L -o "%VideoFile2%" "%VideoFile2Url%"
+)
+
+echo [INFO] Compiling patches for Lupin Disc 2
 
 bass\\win\\bass.exe ..\\src\\disc2\\Main.asm
 
-echo [INFO] Patches compiled for Lupin disc 2
+echo [INFO] Patches compiled for Lupin Disc 2
 
 echo ---------- 
 echo Finished!
