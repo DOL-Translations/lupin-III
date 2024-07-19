@@ -13,11 +13,13 @@ The original translation was done be Peter Lemon around 8 years ago (From the ti
 
 All dialogue has been translated, however Chapters 6-8 were done primarily through machine translation. If a proper translation is done, we'll update those chapters accordingly.
 
-#### xdelta patch (Recommended)
+# Patching Guide
+
+#### xDelta patch (Recommended)
 - Download [Delta Patcher](https://www.romhacking.net/utilities/704/)
 - Grab the [latest release](https://github.com/DOL-Translations/kururin-squash/releases/latest/)
 - Open Delta Patcher and add the translation xdelta patch and the required language iso.
-#### manual patch (Latest changes, Windows only)
+#### Manual patch (Latest changes, Windows only)
 - Download/clone the repository
 - Once both these files are edited, you'll have to add Discs 1/2 into the `input` folder. It HAS to be renamed correctly, with the names and hashes listed above in the files section. You don't need to have both files in the folder at the same time, one or the other will work. 
 - Lastly, back in the `tools` folder, run the `compile.bat` file, and assuming you did all the steps correctly, it'll compile properly.
@@ -25,28 +27,29 @@ All dialogue has been translated, however Chapters 6-8 were done primarily throu
 
 Special thanks to Peter Lemon for starting the whole thing, and thanks to Drgn for helping me setup the whole project, along with gbaXL for assisting in new tools to make this easier.
 
+
 ## When you pause and go to history, it won't display the words properly. Add this Action Replay code to fix this. 
 
-`C20095B8 00000002
-7CE0FA14 3A400000
-60000000 00000000
-C200A878 00000005
-B003003A 3A4000FF
-387D0000 38950000
-3E208000 62318934
-7E2903A6 4E800421
-60000000 00000000
-C200A88C 00000001
-60000000 00000000
-C200A860 00000007
-B003003A 2C1200FF
-41820014 3E208000
-6231A87C 7E2903A6
-4E800420 387D0000
-38950000 3E208000
-62318934 7E2903A6
-4E800421 00000000
-C2008968 00000001
+`C20095B8 00000002__
+7CE0FA14 3A400000__
+60000000 00000000__
+C200A878 00000005__
+B003003A 3A4000FF__
+387D0000 38950000__
+3E208000 62318934__
+7E2903A6 4E800421__
+60000000 00000000__
+C200A88C 00000001__
+60000000 00000000__
+C200A860 00000007__
+B003003A 2C1200FF__
+41820014 3E208000__
+6231A87C 7E2903A6__
+4E800420 387D0000__
+38950000 3E208000__
+62318934 7E2903A6__
+4E800421 00000000__
+C2008968 00000001__
 60000000 00000000`
 
 # Current road map for the team (No specific order):
