@@ -15503,7 +15503,7 @@
       "PositionHex": "0x0002EFED",
       "ByteLengthDec": 25,
       "OriginalText": "　　海の民のお勉強だ。[n]",
-      "Replacement": " Studying oceanfolk...[n]"
+      "Replacement": " Studying Oceanfolk...[n]"
     },
     {
       "PositionDec": 192535,
@@ -15671,7 +15671,7 @@
       "PositionHex": "0x0002F44B",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　　アイツに聞くのが一番だ。[n]",
-      "Replacement": "       about the oceanfolk.[n]"
+      "Replacement": "       about the Oceanfolk.[n]"
     },
     {
       "PositionDec": 193669,
@@ -16231,7 +16231,7 @@
       "PositionHex": "0x00031B4F",
       "ByteLengthDec": 49,
       "OriginalText": "最先端の技術を用い鉄で武装したヒッタイトでさえ[n]",
-      "Replacement": "Sea People. Even the Hitties with their iron[n]"
+      "Replacement": "Oceanfolk. Even the Hitties with their iron[n]"
     },
     {
       "PositionDec": 203651,
@@ -16287,14 +16287,14 @@
       "PositionHex": "0x00031CBC",
       "ByteLengthDec": 47,
       "OriginalText": "　　想像するに、海の民が自分達の力を誇示する[n]",
-      "Replacement": "This could just be a story from the Sea[n]"
+      "Replacement": "This could just be a story from[n]"
     },
     {
       "PositionDec": 204014,
       "PositionHex": "0x00031CEE",
       "ByteLengthDec": 45,
       "OriginalText": "　　ために、作り出した話だろうと思うがな。[n]",
-      "Replacement": "People to show off their power.[n]"
+      "Replacement": "the Oceanfolk to show off their power.[n]"
     },
     {
       "PositionDec": 204112,
@@ -16476,7 +16476,7 @@
       "PositionHex": "0x00032130",
       "ByteLengthDec": 43,
       "OriginalText": "　　だが海の民の言語は、文字として残って[n]",
-      "Replacement": "The language of the Sea People has not[n]"
+      "Replacement": "The language of the Oceanfolk has not[n]"
     },
     {
       "PositionDec": 205150,
@@ -16679,7 +16679,7 @@
       "PositionHex": "0x00032591",
       "ByteLengthDec": 43,
       "OriginalText": "　　だが海の民の言語は、文字として残って[n]",
-      "Replacement": "The language of the Sea People[n]"
+      "Replacement": "The language of the Oceanfolk[n]"
     },
     {
       "PositionDec": 206271,
@@ -16812,7 +16812,7 @@
       "PositionHex": "0x000328DC",
       "ByteLengthDec": 47,
       "OriginalText": "最先端の技術を用い鉄で武装したヒッタイトさえ[n]",
-      "Replacement": "Sea People. Even the Hitties with their iron[n]"
+      "Replacement": "Oceanfolk. Even the Hitties with their iron[n]"
     },
     {
       "PositionDec": 207118,
@@ -16868,14 +16868,14 @@
       "PositionHex": "0x00032A45",
       "ByteLengthDec": 47,
       "OriginalText": "　　想像するに、海の民が自分達の力を誇示する[n]",
-      "Replacement": "This could just be a story from the Sea[n]"
+      "Replacement": "This could just be a story from[n]"
     },
     {
       "PositionDec": 207479,
       "PositionHex": "0x00032A77",
       "ByteLengthDec": 45,
       "OriginalText": "　　ために、作り出した話だろうと思うがな。[n]",
-      "Replacement": "       People to show off their power.[n]"
+      "Replacement": "the Oceanfolk to show off their power.[n]"
     },
     {
       "PositionDec": 207545,
@@ -16973,7 +16973,7 @@
       "PositionHex": "0x00032CD7",
       "ByteLengthDec": 47,
       "OriginalText": "最先端の技術を用い鉄で武装したヒッタイトさえ[n]",
-      "Replacement": "Sea People. Even the Hitties with their iron[n]"
+      "Replacement": "Oceanfolk. Even the Hitties with their iron[n]"
     },
     {
       "PositionDec": 208137,
@@ -17029,14 +17029,14 @@
       "PositionHex": "0x00032E40",
       "ByteLengthDec": 47,
       "OriginalText": "　　想像するに、海の民が自分達の力を誇示する[n]",
-      "Replacement": "This could just be a story from the Sea[n]"
+      "Replacement": "This could just be a story from[n]"
     },
     {
       "PositionDec": 208498,
       "PositionHex": "0x00032E72",
       "ByteLengthDec": 45,
       "OriginalText": "　　ために、作り出した話だろうと思うがな。[n]",
-      "Replacement": "People to show off their power.[n]"
+      "Replacement": "the Oceanfolk to show off their power.[n]"
     },
     {
       "PositionDec": 208596,
@@ -17267,7 +17267,7 @@
       "PositionHex": "0x00033448",
       "ByteLengthDec": 43,
       "OriginalText": "　　だが海の民の言語は、文字として残って[n]",
-      "Replacement": "The language of the Sea People has not[n]"
+      "Replacement": "The language of the Oceanfolk has not[n]"
     },
     {
       "PositionDec": 210038,
@@ -17470,7 +17470,7 @@
       "PositionHex": "0x000338A9",
       "ByteLengthDec": 43,
       "OriginalText": "　　だが海の民の言語は、文字として残って[n]",
-      "Replacement": "The language of the Sea People has not[n]"
+      "Replacement": "The language of the Oceanfolk has not[n]"
     },
     {
       "PositionDec": 211159,
@@ -17722,7 +17722,7 @@
       "PositionHex": "0x00033E86",
       "ByteLengthDec": 43,
       "OriginalText": "　　だが海の民の言語は、文字として残って[n]",
-      "Replacement": "The language of the Sea People has not[n]"
+      "Replacement": "The language of the Oceanfolk has not[n]"
     },
     {
       "PositionDec": 212660,
@@ -17904,7 +17904,7 @@
       "PositionHex": "0x00034365",
       "ByteLengthDec": 47,
       "OriginalText": "最先端の技術を用い鉄で武装したヒッタイトさえ[n]",
-      "Replacement": "Sea People. Even the Hitties with their iron[n]"
+      "Replacement": "Oceanfolk. Even the Hitties with their iron[n]"
     },
     {
       "PositionDec": 213911,
@@ -17960,14 +17960,14 @@
       "PositionHex": "0x000344CE",
       "ByteLengthDec": 45,
       "OriginalText": "　想像するに、海の民が自分達の力を誇示する[n]",
-      "Replacement": "This could just be a story from the Sea[n]"
+      "Replacement": "This could just be a story from[n]"
     },
     {
       "PositionDec": 214270,
       "PositionHex": "0x000344FE",
       "ByteLengthDec": 43,
       "OriginalText": "　ために、作り出した話だろうと思うがな。[n]",
-      "Replacement": "People to show off their power.[n]"
+      "Replacement": "the Oceanfolk to show off their power.[n]"
     },
     {
       "PositionDec": 214334,
@@ -18065,7 +18065,7 @@
       "PositionHex": "0x0003475C",
       "ByteLengthDec": 47,
       "OriginalText": "最先端の技術を用い鉄で武装したヒッタイトさえ[n]",
-      "Replacement": "Sea People. Even the Hitties with their iron[n]"
+      "Replacement": "Oceanfolk. Even the Hitties with their iron[n]"
     },
     {
       "PositionDec": 214926,
@@ -18121,14 +18121,14 @@
       "PositionHex": "0x000348C5",
       "ByteLengthDec": 45,
       "OriginalText": "　想像するに、海の民が自分達の力を誇示する[n]",
-      "Replacement": "This could just be a story from the Sea[n]"
+      "Replacement": "This could just be a story from[n]"
     },
     {
       "PositionDec": 215285,
       "PositionHex": "0x000348F5",
       "ByteLengthDec": 43,
       "OriginalText": "　ために、作り出した話だろうと思うがな。[n]",
-      "Replacement": "People to show off their power.[n]"
+      "Replacement": "the Oceanfolk to show off their power.[n]"
     },
     {
       "PositionDec": 215381,
@@ -18247,7 +18247,7 @@
       "PositionHex": "0x00034C4B",
       "ByteLengthDec": 27,
       "OriginalText": "　　『海の民』の話かね？[n]",
-      "Replacement": "   a Sea People story?[n]"
+      "Replacement": "   an Oceanfolk story?[n]"
     },
     {
       "PositionDec": 216183,
@@ -18289,7 +18289,7 @@
       "PositionHex": "0x00034D70",
       "ByteLengthDec": 45,
       "OriginalText": "　　・・・とかいう言い伝えもあったようだ。[n]",
-      "Replacement": "That's a legend the Sea People had.[n]"
+      "Replacement": "That's a legend the Oceanfolk had.[n]"
     },
     {
       "PositionDec": 216480,
@@ -18331,7 +18331,7 @@
       "PositionHex": "0x00034E5C",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　海の民で『胸に赤いアザ』を持つモノは[n]",
-      "Replacement": "I wonder, if Sea People with a red birthmark[n]"
+      "Replacement": "I wonder, if Oceanfolk with a red birthmark[n]"
     },
     {
       "PositionDec": 216718,
@@ -18436,14 +18436,14 @@
       "PositionHex": "0x000350AF",
       "ByteLengthDec": 33,
       "OriginalText": "　　自分たちの祖先だけでなく、[n]",
-      "Replacement": "He claims to know the Sea[n]"
+      "Replacement": "He claims to know the[n]"
     },
     {
       "PositionDec": 217299,
       "PositionHex": "0x000350D3",
       "ByteLengthDec": 35,
       "OriginalText": "　　他の民族のことも知っている。[n]",
-      "Replacement": "People, and their ancestors.[n]"
+      "Replacement": "Oceanfolk, and their ancestors.[n]"
     },
     {
       "PositionDec": 217337,
@@ -19388,7 +19388,7 @@
       "PositionHex": "0x00036A8D",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　『海の民』について、だったかな？[n]",
-      "Replacement": "　　　 About the People of the Sea, was it?[n]"
+      "Replacement": "　　　 About the Oceanfolk, was it?[n]"
     },
     {
       "PositionDec": 223963,
@@ -19591,7 +19591,7 @@
       "PositionHex": "0x00036F99",
       "ByteLengthDec": 49,
       "OriginalText": "　　　　　　『海の竜』は海の民が伝えし物語だ。[n]",
-      "Replacement": "　        A story told by the Sea People.[n]"
+      "Replacement": "　        A story told by the Oceanfolk.[n]"
     },
     {
       "PositionDec": 225309,
@@ -20081,7 +20081,7 @@
       "PositionHex": "0x00037D56",
       "ByteLengthDec": 29,
       "OriginalText": "　　　あの・・・、海の民は[n]",
-      "Replacement": "     About Sea People...[n]"
+      "Replacement": "     About Oceanfolk...[n]"
     },
     {
       "PositionDec": 228726,
@@ -20102,7 +20102,7 @@
       "PositionHex": "0x00037DE3",
       "ByteLengthDec": 30,
       "OriginalText": "　　　　　　海の民・・・[k][n]",
-      "Replacement": "　　People of the sea...[k][n]"
+      "Replacement": "　　Oceanfolk...[k][n]"
     },
     {
       "PositionDec": 228884,
@@ -20200,7 +20200,7 @@
       "PositionHex": "0x00038020",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　海の民・・・、ルクの末裔達。[n]",
-      "Replacement": "The Sea People, descendants of Luke.[n]"
+      "Replacement": "The Oceanfolk, descendants of Luke.[n]"
     },
     {
       "PositionDec": 229454,
@@ -20249,7 +20249,7 @@
       "PositionHex": "0x0003813C",
       "ByteLengthDec": 41,
       "OriginalText": "　　　リアナのお母さんは海の民なんだ！[n]",
-      "Replacement": "Liana's mother is a Sea People![n]"
+      "Replacement": "Liana's mother is a Oceanfolk![n]"
     },
     {
       "PositionDec": 229786,
@@ -20669,7 +20669,7 @@
       "PositionHex": "0x00038BBB",
       "ByteLengthDec": 29,
       "OriginalText": "　　　あの・・・、海の民は[n]",
-      "Replacement": "      About Sea People...[n]"
+      "Replacement": "      About Oceanfolk...[n]"
     },
     {
       "PositionDec": 232411,
@@ -20690,7 +20690,7 @@
       "PositionHex": "0x00038C48",
       "ByteLengthDec": 30,
       "OriginalText": "　　　　　　海の民・・・[k][n]",
-      "Replacement": "　　People of the sea...[k][n]"
+      "Replacement": "　　Oceanfolk...[k][n]"
     },
     {
       "PositionDec": 232569,
@@ -20788,7 +20788,7 @@
       "PositionHex": "0x00038E85",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　海の民・・・、ルクの末裔達。[n]",
-      "Replacement": "The Sea People, descendants of Luke.[n]"
+      "Replacement": "The Oceanfolk, descendants of Luke.[n]"
     },
     {
       "PositionDec": 233139,
@@ -20837,7 +20837,7 @@
       "PositionHex": "0x00038FA1",
       "ByteLengthDec": 41,
       "OriginalText": "　　　リアナのお母さんは海の民なんだ！[n]",
-      "Replacement": "   Liana's mother is a Sea People![n]"
+      "Replacement": "   Liana's mother is a Oceanfolk![n]"
     },
     {
       "PositionDec": 233475,
@@ -20928,7 +20928,7 @@
       "PositionHex": "0x00039238",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　海の民には[n]",
-      "Replacement": "　Among the Sea People[n]"
+      "Replacement": "　Among the Oceanfolk[n]"
     },
     {
       "PositionDec": 234068,
@@ -22384,7 +22384,7 @@
       "PositionHex": "0x0003D1F2",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　ミヌーパだとも告げずにいた。[n]",
-      "Replacement": "    That she was a minupa?[n]"
+      "Replacement": "    That she was a Minupa?[n]"
     },
     {
       "PositionDec": 250396,
@@ -23574,7 +23574,7 @@
       "PositionHex": "0x000410BA",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　博物館のキリム、キサマだな？[n]",
-      "Replacement": "Did you steal the Kilim from the museum?[n]"
+      "Replacement": "Did you steal the Kirim from the museum?[n]"
     },
     {
       "PositionDec": 266490,
@@ -23637,7 +23637,7 @@
       "PositionHex": "0x0004122E",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　返してもらおう。[n]",
-      "Replacement": "　　　　Return the Kilim to me.[n]"
+      "Replacement": "　　　　Return the Kirim to me.[n]"
     },
     {
       "PositionDec": 266836,
@@ -23735,7 +23735,7 @@
       "PositionHex": "0x000414F6",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　私のキリムを・・・。[n]",
-      "Replacement": "　　　　　　　　  My Kilim...[n]"
+      "Replacement": "　　　　　　　　  My Kirim...[n]"
     },
     {
       "PositionDec": 267552,
@@ -23777,14 +23777,14 @@
       "PositionHex": "0x00041622",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　　　私は海の民の長の末裔だ。[n]",
-      "Replacement": "　I'm a decendant of the Sea People.[n]"
+      "Replacement": "　I'm a decendant of the Oceanfolk.[n]"
     },
     {
       "PositionDec": 267856,
       "PositionHex": "0x00041650",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　キリムの正当な相続者なのだ！[n]",
-      "Replacement": "　I'm the rightful heir of the Kilim![n]"
+      "Replacement": "　I'm the rightful heir of the Kirim![n]"
     },
     {
       "PositionDec": 267934,
@@ -23882,7 +23882,7 @@
       "PositionHex": "0x00041A20",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　キリムは海の民のものだ。[n]",
-      "Replacement": "The Kilim belongs to the Sea People.[n]"
+      "Replacement": "The Kirim belongs to the Oceanfolk.[n]"
     },
     {
       "PositionDec": 268874,
@@ -23966,7 +23966,7 @@
       "PositionHex": "0x00041C10",
       "ByteLengthDec": 49,
       "OriginalText": "　　　　ミヌーパの力を使えば門を開くのは確実。[n]",
-      "Replacement": "I need the power of a Miunpa to open the gate.[n]"
+      "Replacement": "I need the power of a Minupa to open the gate.[n]"
     },
     {
       "PositionDec": 269380,
@@ -25037,7 +25037,7 @@
       "PositionHex": "0x00044430",
       "ByteLengthDec": 35,
       "OriginalText": "　　　海の民のことは話してたか？[n]",
-      "Replacement": "　　Did he mention Sea People?[n]"
+      "Replacement": "　　Did he mention Oceanfolk?[n]"
     },
     {
       "PositionDec": 279652,
@@ -25443,7 +25443,7 @@
       "PositionHex": "0x0004510C",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　・・・妙な模様、これはキリム？[n]",
-      "Replacement": "　　 ...This looks weird. Is it a Killim?[n]"
+      "Replacement": "　　 ...This looks weird. Is it a Kirim?[n]"
     },
     {
       "PositionDec": 282956,
@@ -25499,7 +25499,7 @@
       "PositionHex": "0x000452A3",
       "ByteLengthDec": 51,
       "OriginalText": "　　　　　　　その本は海の民のシャーマン・・・、[n]",
-      "Replacement": "The book is about a shaman of the Sea People.[n]"
+      "Replacement": "The book is about a shaman of the Oceanfolk.[n]"
     },
     {
       "PositionDec": 283353,
@@ -25590,7 +25590,7 @@
       "PositionHex": "0x000454E7",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　問題は、このキリム。[n]",
-      "Replacement": "But how does the Kilim fit in all[n]"
+      "Replacement": "But how does the Kirim fit in all[n]"
     },
     {
       "PositionDec": 283923,
@@ -25695,7 +25695,7 @@
       "PositionHex": "0x00045A25",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　キリムを盗まれた。[n]",
-      "Replacement": "　　The Kilim was stolen.[n]"
+      "Replacement": "　　The Kirim was stolen.[n]"
     },
     {
       "PositionDec": 285267,
@@ -28894,7 +28894,7 @@
       "PositionHex": "0x0004DA8D",
       "ByteLengthDec": 51,
       "OriginalText": "　　母さん、わたしが海の民だとは言わなかったけど[n]",
-      "Replacement": "　　Mom didn't tell me I was a sea person.[n]"
+      "Replacement": "　　Mom didn't tell me I was an Oceanfolk.[n]"
     },
     {
       "PositionDec": 318147,
@@ -28929,7 +28929,7 @@
       "PositionHex": "0x0004DB78",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　欲しかったんじゃないかなって。[n]",
-      "Replacement": "　　　　　　my status as a sea perosn.[n]"
+      "Replacement": "　　　　　　my status as an Oceanfolk.[n]"
     },
     {
       "PositionDec": 318390,
@@ -45022,7 +45022,7 @@
       "PositionHex": "0x0007FB0B",
       "ByteLengthDec": 23,
       "OriginalText": "　　　　海の民・・・[n]",
-      "Replacement": "   The Seafolk...[n]"
+      "Replacement": "   The Oceanfolk...[n]"
     },
     {
       "PositionDec": 523049,
