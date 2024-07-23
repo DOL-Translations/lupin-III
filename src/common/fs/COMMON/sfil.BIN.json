@@ -3792,7 +3792,7 @@
       "PositionHex": "0x0000EE30",
       "ByteLengthDec": 27,
       "OriginalText": "　　呼ばれているものだ。[n]",
-      "Replacement":   "Oceanfolk\" little is[n]"
+      "Replacement": "Oceanfolk\" little is[n]"
     },
     {
       "PositionDec": 61006,
@@ -7103,7 +7103,7 @@
       "PositionHex": "0x0001997F",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　元気が出てきたから、[n]",
-      "Replacement": "    Now that you're feeling[n]" 
+      "Replacement": "    Now that you're feeling[n]"
     },
     {
       "PositionDec": 104865,
@@ -7159,7 +7159,7 @@
       "PositionHex": "0x00019B24",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　あ、よかったらもう少しだけ。[n]",
-      "Replacement": "        I'd like a little more time, please![n]" 
+      "Replacement": "        I'd like a little more time, please![n]"
     },
     {
       "PositionDec": 105316,
@@ -7376,7 +7376,7 @@
       "PositionHex": "0x0001A360",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　集中して・・・、[n]",
-      "Replacement": "     a long time if I focus.[n]" 
+      "Replacement": "     a long time if I focus.[n]"
     },
     {
       "PositionDec": 107394,
@@ -7467,7 +7467,7 @@
       "PositionHex": "0x0001A562",
       "ByteLengthDec": 49,
       "OriginalText": "　　　　　　しかし小さな生き物になる・・・か。[n]",
-      "Replacement": "      To be a small fish...?[n]" 
+      "Replacement": "      To be a small fish...?[n]"
     },
     {
       "PositionDec": 107926,
@@ -8517,7 +8517,7 @@
       "PositionHex": "0x0001C177",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　１つしか違わないのに。[n]",
-      "Replacement": "   You don't look that much older.[n]" 
+      "Replacement": "   You don't look that much older.[n]"
     },
     {
       "PositionDec": 115121,
@@ -8692,7 +8692,7 @@
       "PositionHex": "0x0001C652",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　本のことを聞きたいんだ。[n]",
-      "Replacement": "    I want to ask you about the book[n]" 
+      "Replacement": "    I want to ask you about the book[n]"
     },
     {
       "PositionDec": 116348,
@@ -22020,7 +22020,7 @@
       "PositionHex": "0x0003C72A",
       "ByteLengthDec": 33,
       "OriginalText": "　　おぬし見込まれたようだな。[n]",
-      "Replacement": "  Seems like he's determined.[n]" 
+      "Replacement": "  Seems like he's determined.[n]"
     },
     {
       "PositionDec": 247666,
@@ -43734,7 +43734,7 @@
       "PositionHex": "0x0007D618",
       "ByteLengthDec": 31,
       "OriginalText": "　　　無事、救出されました。[n]",
-      "Replacement": "   trapped in the boat.[n]" 
+      "Replacement": "   trapped in the boat.[n]"
     },
     {
       "PositionDec": 513594,
@@ -43895,7 +43895,7 @@
       "PositionHex": "0x0007DB06",
       "ByteLengthDec": 23,
       "OriginalText": "　　　　　［Fujiko][n]",
-      "Replacement": "　　   ［Fujiko] [n]" 
+      "Replacement": "　　   ［Fujiko] [n]"
     },
     {
       "PositionDec": 514879,
@@ -44030,7 +44030,7 @@
       "OriginalText": "　　　　　　［Zai][n]",
       "Replacement": "　　　　　　 ［Zai] [n]"
     },
-{
+    {
       "PositionDec": 515975,
       "PositionHex": "0x0007DF87",
       "ByteLengthDec": 35,
@@ -46079,7 +46079,7 @@
       "PositionHex": "0x00081885",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　『大いなる力』の見当は？[n]",
-      "Replacement": " Is there magnificent power?[n]" 
+      "Replacement": " Is there magnificent power?[n]"
     },
     {
       "PositionDec": 530619,
@@ -46625,7 +46625,7 @@
       "PositionHex": "0x00084A26",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　病院に運んだら、飯でも食うか。[n]",
-      "Replacement": " Want to eat something after this?[n]" 
+      "Replacement": " Want to eat something after this?[n]"
     },
     {
       "PositionDec": 543428,
@@ -53725,7 +53725,6 @@
       "OriginalText": "　このキリムの絵って[n]\u0000　早く助けに行こうよ！[n]\u0000　じつはザーイも海の民とか？[n]",
       "Replacement": " About the Kirim[n]\u0000 We have to save her![n]\u0000 Maybe Zai is an Oceanfolk?[n]"
     },
-
     {
       "PositionDec": 193859,
       "PositionHex": "0x0002F543",
