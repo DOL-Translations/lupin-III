@@ -38960,14 +38960,14 @@
       "PositionHex": "0x0006D29B",
       "ByteLengthDec": 59,
       "OriginalText": "[x32]　　[x18]十字ボタン：文字Choice　　Ａボタン：文字決定[n]",
-      "Replacement": "[x32]　　[x18]D-pad: To move     A: To select[n]"
+      "Replacement": "[x32]　　[x18]D-pad: Move        A: Select[n]"
     },
     {
       "PositionDec": 447193,
       "PositionHex": "0x0006D2D9",
       "ByteLengthDec": 58,
       "OriginalText": "[x32]　　[x18]Ｂボタン：１文字戻る　　STARTボタン：実行[n]",
-      "Replacement": "[x32][x18] B button: Backspace　 Start: Runs command[n]"
+      "Replacement": "[x32][x18] B: Backspace　        Start: Run command[n]"
     },
     {
       "PositionDec": 447255,
