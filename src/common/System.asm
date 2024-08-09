@@ -57,7 +57,7 @@ TextSave($000DA4D4, "The Memory Card in Slot A[n]is broken and cannnot be used.[
 TextSave($000DA55C, "[p1]Failed to write data.[p0][n]The Memory Card in Slot A[n]is broken and cannot be used.[n]")
 
 //Game Disc - 30 strings
-Text($000D3EA0, "The Disc Cover is open.[n]To continue playing, close the Disc Cover.")
+Text($000D3EA0, "The Disc Cover is open.[n]To continue playing, close the Disc Cover."); fill 21
 Text($000D3EFC, "No disc inserted.[n]Please insert Disc 1 of LUPIN III.") ; fill 29
 Text($000D3F50, "No disc inserted.[n]Please insert Disc 2 of LUPIN III.") ; fill 29
 Text($000D3FA4, "No disc inserted.[n]Please insert Disc 3 of LUPIN III.") ; fill 29
