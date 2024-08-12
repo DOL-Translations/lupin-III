@@ -2350,7 +2350,7 @@
       "PositionHex": "0x00005362",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　やったね、親方！[n]",
-      "Replacement": "　　　　   We did it boss![n]"
+      "Replacement": "　　　　   We did it, boss![n]"
     },
     {
       "PositionDec": 21518,
@@ -2364,14 +2364,14 @@
       "PositionHex": "0x00005438",
       "ByteLengthDec": 19,
       "OriginalText": "かなりのもんだ、[n]",
-      "Replacement": "Thats a lot, but[n]"
+      "Replacement": "It's a lot, but[n]"
     },
     {
       "PositionDec": 21582,
       "PositionHex": "0x0000544E",
       "ByteLengthDec": 23,
       "OriginalText": "まだ、たくさんある。[n]",
-      "Replacement": "theres more to come.[n]"
+      "Replacement": "more's to come.[n]"
     },
     {
       "PositionDec": 22050,
@@ -2434,7 +2434,7 @@
       "PositionHex": "0x0000592A",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　僕の名前はテオ。[n]",
-      "Replacement": "          My name is Theo.[n]"
+      "Replacement": "      My name is Theo.[n]"
     },
     {
       "PositionDec": 22874,
@@ -2469,14 +2469,14 @@
       "PositionHex": "0x00005A99",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　お前も潜ってみろよ！[n]",
-      "Replacement": "         Let's dive together![n]"
+      "Replacement": "      Let's dive together![n]"
     },
     {
       "PositionDec": 23231,
       "PositionHex": "0x00005ABF",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　コーフンするぜっ！[n]",
-      "Replacement": "             It's exciting![n]"
+      "Replacement": "      It's exciting![n]"
     },
     {
       "PositionDec": 23455,
@@ -2490,7 +2490,7 @@
       "PositionHex": "0x00005BC1",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　　　・・・・・[n]",
-      "Replacement": "　　　　　　　　・・・・・[n]"
+      "Replacement": "        ......[n]"
     },
     {
       "PositionDec": 23535,
@@ -2504,7 +2504,7 @@
       "PositionHex": "0x00005C25",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　なんだよ、平気だって！[n]",
-      "Replacement": "What's wrong? He says it's fine![n]"
+      "Replacement": "     He says the water's fine![n]"
     },
     {
       "PositionDec": 23709,
@@ -2518,7 +2518,7 @@
       "PositionHex": "0x00005CBF",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　・・・・・[n]",
-      "Replacement": "　　　　　　・・・・・[n]"
+      "Replacement": "      ......[n]"
     },
     {
       "PositionDec": 23845,
@@ -2532,14 +2532,14 @@
       "PositionHex": "0x00005D5A",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　何かあったら、[n]",
-      "Replacement": "    If something happens,[n]"
+      "Replacement": "     If something happens,[n]"
     },
     {
       "PositionDec": 23930,
       "PositionHex": "0x00005D7A",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　また人魚が助けてくれるさ！[n]",
-      "Replacement": "   the mermaid will save you again![n]"
+      "Replacement": "      the mermaid will save you again![n]"
     },
     {
       "PositionDec": 24282,
@@ -2574,14 +2574,14 @@
       "PositionHex": "0x00005F86",
       "ByteLengthDec": 21,
       "OriginalText": "　　　　　　わっ！[n]",
-      "Replacement": "　　　　　　   Ah-[n]"
+      "Replacement": "      Ah-[n]"
     },
     {
       "PositionDec": 24478,
       "PositionHex": "0x00005F9E",
       "ByteLengthDec": 27,
       "OriginalText": "　　　　　　は、はいっ！[n]",
-      "Replacement": "　　　　　　 Y-yes sir![n]"
+      "Replacement": "      Y-yes sir![n]"
     },
     {
       "PositionDec": 24796,
@@ -2595,14 +2595,14 @@
       "PositionHex": "0x0000611E",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　船長、いったん戻ろう。[n]",
-      "Replacement": "       Captain, once you return,[n]"
+      "Replacement": "      Captain, once you return,[n]"
     },
     {
       "PositionDec": 24902,
       "PositionHex": "0x00006146",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　教授に報告だ。[n]",
-      "Replacement": "report to the professor.[n]"
+      "Replacement": "  report to the professor.[n]"
     },
     {
       "PositionDec": 25524,
@@ -2623,7 +2623,7 @@
       "PositionHex": "0x00006421",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　　オレもあとで行く。[n]",
-      "Replacement": "         I'll be there as well.[n]"
+      "Replacement": "        I'll be there as well.[n]"
     },
     {
       "PositionDec": 25687,
@@ -2637,7 +2637,7 @@
       "PositionHex": "0x00006488",
       "ByteLengthDec": 23,
       "OriginalText": "　　　　　　　うん。[n]",
-      "Replacement": "　　　　　　　   Ok.[n]"
+      "Replacement": "       Ok.[n]"
     },
     {
       "PositionDec": 25776,
@@ -2651,7 +2651,7 @@
       "PositionHex": "0x000064ED",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　　　気をつけろよな。[n]",
-      "Replacement": "　　　　　　　　　　   Be careful.[n]"
+      "Replacement": "          Be careful.[n]"
     },
     {
       "PositionDec": 25959,
@@ -2672,7 +2672,7 @@
       "PositionHex": "0x000065CC",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　本日、これが最終便でーす！[n]",
-      "Replacement": " Japan, this is the last ferry![n]"
+      "Replacement": "    Japan, this is the last ferry![n]"
     },
     {
       "PositionDec": 26332,
@@ -2686,7 +2686,7 @@
       "PositionHex": "0x00006711",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　ハア・・ハア・・[n]",
-      "Replacement": "　　　　    Huff...Huff...[n]"
+      "Replacement": "      Huff...Huff...[n]"
     },
     {
       "PositionDec": 26433,
@@ -2700,7 +2700,7 @@
       "PositionHex": "0x00006776",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　待って、待って～！[n]",
-      "Replacement": "                 Wait, wait![n]"
+      "Replacement": "      Wait, wait![n]"
     },
     {
       "PositionDec": 27034,
@@ -2714,7 +2714,7 @@
       "PositionHex": "0x000069D5",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　・・・・・・[n]",
-      "Replacement": "　　　　　　　　　　・・・・・・[n]"
+      "Replacement": "          ......[n]"
     },
     {
       "PositionDec": 27145,
@@ -2728,7 +2728,7 @@
       "PositionHex": "0x00006A34",
       "ByteLengthDec": 25,
       "OriginalText": "　　　イタタタタ・・・[n]",
-      "Replacement": "　　　       Owwwwww![n]"
+      "Replacement": "   Owwwwww![n]"
     },
     {
       "PositionDec": 27230,
@@ -2742,7 +2742,7 @@
       "PositionHex": "0x00006A99",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　　　　　いった～い！[n]",
-      "Replacement": "　　　　　　　　　        Ouch![n]"
+      "Replacement": "          Ouch![n]"
     },
     {
       "PositionDec": 27359,
@@ -2756,14 +2756,14 @@
       "PositionHex": "0x00006B42",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　　　　ちょっと！[n]",
-      "Replacement": "　　　　　　　　　Hey![n]"
+      "Replacement": "         Hey![n]"
     },
     {
       "PositionDec": 27492,
       "PositionHex": "0x00006B64",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　　気をつけなさいよ!![n]",
-      "Replacement": "　　　Watch where you're standing!![n]"
+      "Replacement": "       Watch where you're standing!![n]"
     },
     {
       "PositionDec": 27548,
@@ -2777,7 +2777,7 @@
       "PositionHex": "0x00006BB8",
       "ByteLengthDec": 19,
       "OriginalText": "　　　え・・・？[n]",
-      "Replacement": "　　　  Huh...?[n]"
+      "Replacement": "   Huh...?[n]"
     },
     {
       "PositionDec": 27648,
@@ -2798,14 +2798,14 @@
       "PositionHex": "0x00006D46",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　　　女の子とぶつかったら、[n]",
-      "Replacement": " If you bump into a girl,[n]"
+      "Replacement": "       If you bump into a girl, you're[n]"
     },
     {
       "PositionDec": 28018,
       "PositionHex": "0x00006D72",
       "ByteLengthDec": 51,
       "OriginalText": "　　　　　　　　『大丈夫？』くらい言いなさいよ！[n]",
-      "Replacement": " you're supposed to ask if she is okay![n]"
+      "Replacement": "        supposed to ask if she is okay![n]"
     },
     {
       "PositionDec": 28100,
@@ -2819,7 +2819,7 @@
       "PositionHex": "0x00006DF0",
       "ByteLengthDec": 19,
       "OriginalText": "　　　え・・・？[n]",
-      "Replacement": "　　　Huh...?[n]"
+      "Replacement": "   Huh...?[n]"
     },
     {
       "PositionDec": 28166,
@@ -2840,14 +2840,14 @@
       "PositionHex": "0x00006E44",
       "ByteLengthDec": 25,
       "OriginalText": "　　　だって、そっちが[n]",
-      "Replacement": " But that's...[n]"
+      "Replacement": "   But that's...[n]"
     },
     {
       "PositionDec": 28256,
       "PositionHex": "0x00006E60",
       "ByteLengthDec": 33,
       "OriginalText": "　　　ぶつかってきたのに・・。[n]",
-      "Replacement": " You bumped into me...[n]"
+      "Replacement": "   You bumped into me...[n]"
     },
     {
       "PositionDec": 28394,
@@ -2861,7 +2861,7 @@
       "PositionHex": "0x00006F2B",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　　　・・・・・[n]",
-      "Replacement": "　　　　　　　　.....[n]"
+      "Replacement": "        ......[n]"
     },
     {
       "PositionDec": 28511,
@@ -3358,7 +3358,7 @@
       "PositionHex": "0x0000E225",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　親方は「ある」って言ってた。[n]",
-      "Replacement": "　             Their boss said they did.[n]"
+      "Replacement": "　             Their boss said so.[n]"
     },
     {
       "PositionDec": 58057,
@@ -3393,7 +3393,7 @@
       "PositionHex": "0x0000E357",
       "ByteLengthDec": 37,
       "OriginalText": "　　「あそこにある」と言ってたが。[n]",
-      "Replacement": " that these would be found here.[n]"
+      "Replacement": " that these could be found here.[n]"
     },
     {
       "PositionDec": 58239,
@@ -3533,14 +3533,14 @@
       "PositionHex": "0x0000E7C2",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　　　あの娘さん、[n]",
-      "Replacement": "  How's that girl, Sophia,[n]"
+      "Replacement": "    How's that girl, Sophia,[n]"
     },
     {
       "PositionDec": 59364,
       "PositionHex": "0x0000E7E4",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　ソフィアも元気かい？[n]",
-      "Replacement": "　　　　　　　how is she doing now?[n]"
+      "Replacement": "        how is she doing now?[n]"
     },
     {
       "PositionDec": 59420,
@@ -3554,7 +3554,7 @@
       "PositionHex": "0x0000E853",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　　　　・・・ん？[n]",
-      "Replacement": "　　　　　　　　　   ...Hm?[n]"
+      "Replacement": "         ...Hm?[n]"
     },
     {
       "PositionDec": 59523,
@@ -3568,7 +3568,7 @@
       "PositionHex": "0x0000E8AC",
       "ByteLengthDec": 27,
       "OriginalText": "　　ソフィアは死んだよ、[n]",
-      "Replacement": "Sofia is...she died...[n]"
+      "Replacement": "  Sofia is...she died...[n]"
     },
     {
       "PositionDec": 59594,
@@ -3603,7 +3603,7 @@
       "PositionHex": "0x0000E943",
       "ByteLengthDec": 35,
       "OriginalText": "　　奇跡的にテオだけが助かった。[n]",
-      "Replacement": "     but a miracle saved Theo.[n]"
+      "Replacement": "  but a miracle saved Theo.[n]"
     },
     {
       "PositionDec": 59767,
@@ -3617,14 +3617,14 @@
       "PositionHex": "0x0000E9AA",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　あの時、ソフィアが[n]",
-      "Replacement": "That's the guy who Sofia was[n]"
+      "Replacement": "  That's the guy who Sofia was[n]"
     },
     {
       "PositionDec": 59854,
       "PositionHex": "0x0000E9CE",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　抱いてた男の子だね。[n]",
-      "Replacement": " hugging that one time, right?[n]"
+      "Replacement": "   hugging that one time, right?[n]"
     },
     {
       "PositionDec": 59892,
@@ -3645,7 +3645,7 @@
       "PositionHex": "0x0000EA39",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　そうか・・・。[n]",
-      "Replacement": "　　　　　　     I see...[n]"
+      "Replacement": "      I see...[n]"
     },
     {
       "PositionDec": 59993,
@@ -3666,14 +3666,14 @@
       "PositionHex": "0x0000EA9E",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　お母さんには世話になったよ。[n]",
-      "Replacement": "　　 Your mother took care of me once.[n]"
+      "Replacement": "      Your mother took care of me once.[n]"
     },
     {
       "PositionDec": 60129,
       "PositionHex": "0x0000EAE1",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　・・・優しい人だった。[n]",
-      "Replacement": "　　　　 ...She was a good woman.[n]"
+      "Replacement": "      ...She was a good woman.[n]"
     },
     {
       "PositionDec": 60183,
@@ -3687,7 +3687,7 @@
       "PositionHex": "0x0000EB40",
       "ByteLengthDec": 31,
       "OriginalText": "　　で、今日はどうしたんだ？[n]",
-      "Replacement": "    So, what you visit me?[n]"
+      "Replacement": "  So, what you visit me?[n]"
     },
     {
       "PositionDec": 60344,
@@ -3715,7 +3715,7 @@
       "PositionHex": "0x0000EC34",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　なんだと思う？[n]",
-      "Replacement": " What do you think it is?[n]"
+      "Replacement": "  What do you think it is?[n]"
     },
     {
       "PositionDec": 60514,
@@ -3729,7 +3729,7 @@
       "PositionHex": "0x0000EC8B",
       "ByteLengthDec": 19,
       "OriginalText": "　　ふん・・・。[n]",
-      "Replacement": "　　    Hmmm...[n]"
+      "Replacement": "  Hmmm...[n]"
     },
     {
       "PositionDec": 60577,
@@ -3827,7 +3827,7 @@
       "PositionHex": "0x0000EF0E",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　おじいちゃん、これ。[n]",
-      "Replacement": "　　　　        Wait, Grandpa.[n]"
+      "Replacement": "      Wait, Grandpa.[n]"
     },
     {
       "PositionDec": 61294,
@@ -3848,7 +3848,7 @@
       "PositionHex": "0x0000EFFF",
       "ByteLengthDec": 21,
       "OriginalText": "　　ん、どうした？[n]",
-      "Replacement": " Hmm? What is it?[n]"
+      "Replacement": "  Hmm? What is it?[n]"
     },
     {
       "PositionDec": 61681,
@@ -3862,7 +3862,7 @@
       "PositionHex": "0x0000F122",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　この本・・・。[n]",
-      "Replacement": "　Take a look at this...[n]"
+      "Replacement": "    Take a look at this...[n]"
     },
     {
       "PositionDec": 61776,
@@ -3876,7 +3876,7 @@
       "PositionHex": "0x0000F17D",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　この本がどうかしたのか？[n]",
-      "Replacement": "　　　      What is this book?[n]"
+      "Replacement": "    What is this book?[n]"
     },
     {
       "PositionDec": 61905,
@@ -3890,7 +3890,7 @@
       "PositionHex": "0x0000F1FE",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　これは・・・キリム！[n]",
-      "Replacement": "　　That is... the Kirim![n]"
+      "Replacement": "    That is... the Kirim![n]"
     },
     {
       "PositionDec": 61998,
@@ -3918,7 +3918,7 @@
       "PositionHex": "0x0000F2BC",
       "ByteLengthDec": 25,
       "OriginalText": "　　ん・・・どうした？[n]",
-      "Replacement": "    Hmm? What is it?[n]"
+      "Replacement": "  Hmm? What is it?[n]"
     },
     {
       "PositionDec": 62374,
@@ -3932,7 +3932,7 @@
       "PositionHex": "0x0000F3D3",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　これは・・・キリム！[n]",
-      "Replacement": "　　　This is... the Kirim![n]"
+      "Replacement": "    This is... the Kirim![n]"
     },
     {
       "PositionDec": 62467,
@@ -3974,7 +3974,7 @@
       "PositionHex": "0x0000F4F2",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　女の子が落としていったんだ[n]",
-      "Replacement": "       A girl dropped it earlier...[n]"
+      "Replacement": "      A girl dropped it earlier...[n]"
     },
     {
       "PositionDec": 62750,
@@ -3995,7 +3995,7 @@
       "PositionHex": "0x0000F685",
       "ByteLengthDec": 23,
       "OriginalText": "　　　　　　女の子？[n]",
-      "Replacement": "　　　　　　A girl?[n]"
+      "Replacement": "      A girl?[n]"
     },
     {
       "PositionDec": 63149,
@@ -4009,7 +4009,7 @@
       "PositionHex": "0x0000F6D1",
       "ByteLengthDec": 21,
       "OriginalText": "　　　　　　・・・[n]",
-      "Replacement": "　　　　　　...[n]"
+      "Replacement": "      ......[n]"
     },
     {
       "PositionDec": 63230,
@@ -4030,7 +4030,7 @@
       "PositionHex": "0x0000F75D",
       "ByteLengthDec": 17,
       "OriginalText": "　　あ、ああ。[n]",
-      "Replacement": "     Y-yes.[n]"
+      "Replacement": "  Y-yes.[n]"
     },
     {
       "PositionDec": 63345,
@@ -15776,7 +15776,7 @@
       "PositionHex": "0x00031007",
       "ByteLengthDec": 35,
       "OriginalText": "　　あの頑固じじいが頼み事とは、[n]",
-      "Replacement": "  It's really something that he[n]"
+      "Replacement": "  Must be quite important if he[n]"
     },
     {
       "PositionDec": 200749,
@@ -15804,7 +15804,7 @@
       "PositionHex": "0x000310B6",
       "ByteLengthDec": 25,
       "OriginalText": "　　手短に済ませよう。[n]",
-      "Replacement": "  so let's hurry up.[n]"
+      "Replacement": "  so let's begin.[n]"
     },
     {
       "PositionDec": 200928,
@@ -16049,7 +16049,7 @@
       "PositionHex": "0x00031638",
       "ByteLengthDec": 35,
       "OriginalText": "　　その類だと思われるが・・・。[n]",
-      "Replacement": "  similar to that, but...[n]"
+      "Replacement": "  similar to that one, but...[n]"
     },
     {
       "PositionDec": 202334,
@@ -16070,7 +16070,7 @@
       "PositionHex": "0x0003169B",
       "ByteLengthDec": 39,
       "OriginalText": "　　少し違うのは、海の民は自分たちで[n]",
-      "Replacement": "  the difference is that the [n]"
+      "Replacement": "  the main difference is that the [n]"
     },
     {
       "PositionDec": 202437,
@@ -18499,14 +18499,14 @@
       "PositionHex": "0x00035218",
       "ByteLengthDec": 30,
       "OriginalText": "　　多分、会えるだろう。[k][n]",
-      "Replacement": "  You can, but he's far.[k][n]"
+      "Replacement": "  You can, but he lives[k][n]"
     },
     {
       "PositionDec": 217673,
       "PositionHex": "0x00035249",
       "ByteLengthDec": 29,
       "OriginalText": "　　少し遠いが、行くかね？[n]",
-      "Replacement": "  Sure you want to go?[n]"
+      "Replacement": "  a far aways off.[n]"
     },
     {
       "PositionDec": 217719,
@@ -18520,7 +18520,7 @@
       "PositionHex": "0x000352A8",
       "ByteLengthDec": 23,
       "OriginalText": "　　　　　　はいっ！[n]",
-      "Replacement": "      Yes, sir![n]"
+      "Replacement": "      I can go, sir![n]"
     },
     {
       "PositionDec": 217808,
@@ -18660,14 +18660,14 @@
       "PositionHex": "0x0003559D",
       "ByteLengthDec": 37,
       "OriginalText": "　　まだ、船の時間にも間に合うな。[n]",
-      "Replacement": "  The boat is leaving soon.[n]"
+      "Replacement": "  My boat is leaving soon.[n]"
     },
     {
       "PositionDec": 218565,
       "PositionHex": "0x000355C5",
       "ByteLengthDec": 23,
       "OriginalText": "　　連絡しておこう。[n]",
-      "Replacement": "  I'll get in touch.[n]"
+      "Replacement": "  We'll be in touch.[n]"
     },
     {
       "PositionDec": 218605,
@@ -18681,7 +18681,7 @@
       "PositionHex": "0x0003561E",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　ありがとうございます。[n]",
-      "Replacement": "      Thank you for understanding.[n]"
+      "Replacement": "      Thank you for your help![n]"
     },
     {
       "PositionDec": 218708,
@@ -18751,14 +18751,14 @@
       "PositionHex": "0x000357B8",
       "ByteLengthDec": 41,
       "OriginalText": "　　キミのジィさんとは異なる意見だが、[n]",
-      "Replacement": "I have a different opinion than Clark.[n]"
+      "Replacement": "  Clark may say otherwise, but I think[n]"
     },
     {
       "PositionDec": 219108,
       "PositionHex": "0x000357E4",
       "ByteLengthDec": 45,
       "OriginalText": "　　大学に入って、しっかり勉強するといい。[n]",
-      "Replacement": "  But you should go to Uni and study hard.[n]"
+      "Replacement": "  you should study hard and get a degree.[n]"
     },
     {
       "PositionDec": 219156,
@@ -18814,7 +18814,7 @@
       "PositionHex": "0x000358DE",
       "ByteLengthDec": 37,
       "OriginalText": "　　会議があるのでこれで失礼する。[n]",
-      "Replacement": "  a meeting, see you later.[n]"
+      "Replacement": "  that meeting, see you later.[n]"
     },
     {
       "PositionDec": 219412,
@@ -18828,7 +18828,7 @@
       "PositionHex": "0x00035945",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　あ、ありがとうございました。[n]",
-      "Replacement": "      Oh, thank you very much.[n]"
+      "Replacement": "      Oh, thank you very much![n]"
     },
     {
       "PositionDec": 219809,
@@ -18891,7 +18891,7 @@
       "PositionHex": "0x00035BE2",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　ゾッとするけどな。[n]",
-      "Replacement": "      explore my ancestors.[n]"
+      "Replacement": "      study my ancestors.[n]"
     },
     {
       "PositionDec": 220180,
@@ -19024,7 +19024,7 @@
       "PositionHex": "0x00035EE7",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　悪い人だと思ってた。[n]",
-      "Replacement": "    worse than he was.[n]"
+      "Replacement": "    scarier than he was.[n]"
     },
     {
       "PositionDec": 220951,
@@ -19087,7 +19087,7 @@
       "PositionHex": "0x0003605C",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　・・・うん、本当だね。[n]",
-      "Replacement": "    ...Yeah, I know.[n]"
+      "Replacement": "    ...Yeah, I guess.[n]"
     },
     {
       "PositionDec": 221734,
@@ -19101,7 +19101,7 @@
       "PositionHex": "0x00036253",
       "ByteLengthDec": 25,
       "OriginalText": "　　　アレクシウさん？[n]",
-      "Replacement": "　　　アレクシウさん？[n]"
+      "Replacement": "   Mr. Alexiu?[n]"
     },
     {
       "PositionDec": 221879,
@@ -19115,7 +19115,7 @@
       "PositionHex": "0x000362F6",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　ん？・・・ああ。[n]",
-      "Replacement": "　　　　　　ん？・・・ああ。[n]"
+      "Replacement": "      Hmm?... Oh.[n]"
     },
     {
       "PositionDec": 221990,
@@ -19129,7 +19129,7 @@
       "PositionHex": "0x00036369",
       "ByteLengthDec": 39,
       "OriginalText": "　　　ラリス教授の紹介できたんだが。[n]",
-      "Replacement": "　　　ラリス教授の紹介できたんだが。[n]"
+      "Replacement": "  Professor Laris told us about you.[n]"
     },
     {
       "PositionDec": 222113,
@@ -19143,14 +19143,14 @@
       "PositionHex": "0x000363E0",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　・・・うん、聞いてるよ。[n]",
-      "Replacement": "　　　　　　・・・うん、聞いてるよ。[n]"
+      "Replacement": "      ...Yeah, I'm listening.[n]"
     },
     {
       "PositionDec": 222218,
       "PositionHex": "0x0003640A",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　『海の民』について、だったかな？[n]",
-      "Replacement": "　　　　　　『海の民』について、だったかな？[n]"
+      "Replacement": "      About the Oceanfolk, was it?[n]"
     },
     {
       "PositionDec": 222296,
@@ -19164,7 +19164,7 @@
       "PositionHex": "0x00036485",
       "ByteLengthDec": 21,
       "OriginalText": "　　　ああ・・・。[n]",
-      "Replacement": "　　　ああ・・・。[n]"
+      "Replacement": "   Yes..[n]"
     },
     {
       "PositionDec": 222423,
@@ -19178,14 +19178,14 @@
       "PositionHex": "0x0003650E",
       "ByteLengthDec": 23,
       "OriginalText": "　　　　　　珍しい。[n]",
-      "Replacement": "　　　　　　珍しい。[n]"
+      "Replacement": "      I haven't been[n]"
     },
     {
       "PositionDec": 222504,
       "PositionHex": "0x00036528",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　・・・昔々、はるか昔の話だ。[n]",
-      "Replacement": "　　　　　　・・・昔々、はるか昔の話だ。[n]"
+      "Replacement": "      asked about this in so long.[n]"
     },
     {
       "PositionDec": 222550,
@@ -19206,14 +19206,14 @@
       "PositionHex": "0x0003659F",
       "ByteLengthDec": 25,
       "OriginalText": "　　　　　　どうして、[n]",
-      "Replacement": "　　　　　　どうして、[n]"
+      "Replacement": "      But why are you[n]"
     },
     {
       "PositionDec": 222651,
       "PositionHex": "0x000365BB",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　そんな話を聞きたがる？[n]",
-      "Replacement": "　　　　　　そんな話を聞きたがる？[n]"
+      "Replacement": "      interested in the story?[n]"
     },
     {
       "PositionDec": 222705,
@@ -19227,7 +19227,7 @@
       "PositionHex": "0x0003661C",
       "ByteLengthDec": 31,
       "OriginalText": "　　　人を助けたいからです。[n]",
-      "Replacement": "　　　人を助けたいからです。[n]"
+      "Replacement": "   Because I want to help.[n]"
     },
     {
       "PositionDec": 222796,
@@ -19241,7 +19241,7 @@
       "PositionHex": "0x00036683",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　そうか・・・、人助けか。[n]",
-      "Replacement": "　　　　　　そうか・・・、人助けか。[n]"
+      "Replacement": "      Hmmm... want to help people?[n]"
     },
     {
       "PositionDec": 222907,
@@ -19255,7 +19255,7 @@
       "PositionHex": "0x000366E6",
       "ByteLengthDec": 15,
       "OriginalText": "　　　はい。[n]",
-      "Replacement": "　　　はい。[n]"
+      "Replacement": "   Yes.[n]"
     },
     {
       "PositionDec": 222982,
@@ -19269,14 +19269,14 @@
       "PositionHex": "0x0003673D",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　わたしも、そう長くはない。[n]",
-      "Replacement": "　　　　　　わたしも、そう長くはない。[n]"
+      "Replacement": "      I don't have much time.[n]"
     },
     {
       "PositionDec": 223081,
       "PositionHex": "0x00036769",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　ワシの役目も終わり・・・[n]",
-      "Replacement": "　　　　　　ワシの役目も終わり・・・[n]"
+      "Replacement": "      My role is almost over.[n]"
     },
     {
       "PositionDec": 223123,
@@ -19297,14 +19297,14 @@
       "PositionHex": "0x000367DC",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　もう、語ることはないと[n]",
-      "Replacement": "　　　　　　もう、語ることはないと[n]"
+      "Replacement": "     I don't have much more to say[n]"
     },
     {
       "PositionDec": 223236,
       "PositionHex": "0x00036804",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　思っていたが。[n]",
-      "Replacement": "　　　　　　思っていたが。[n]"
+      "Replacement": "      or so I thought.[n]"
     },
     {
       "PositionDec": 223268,
@@ -19325,7 +19325,7 @@
       "PositionHex": "0x0003686D",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　さて、何から話そうかの。[n]",
-      "Replacement": "　　　　　　さて、何から話そうかの。[n]"
+      "Replacement": "    Tell me the story of Sea Dragon.[n]"
     },
     {
       "PositionDec": 223401,
@@ -20165,7 +20165,7 @@
       "PositionHex": "0x00037F48",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　守り神の入れ墨をしたという。[n]",
-      "Replacement": "      It's a tattoo of a guardian deity.[n]"
+      "Replacement": "     It's a marking of a guardian deity.[n]"
     },
     {
       "PositionDec": 229252,
@@ -20361,7 +20361,7 @@
       "PositionHex": "0x0003842B",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　異教徒となり、歴史から消えた。[n]",
-      "Replacement": "Becoming pagans and hid from history.[n]"
+      "Replacement": "  Becoming pagans and hiding from history.[n]"
     },
     {
       "PositionDec": 230505,
@@ -20613,7 +20613,7 @@
       "PositionHex": "0x00038A3F",
       "ByteLengthDec": 31,
       "OriginalText": "　　　　　　『大いなる力』は[n]",
-      "Replacement": "The \"Great power\"[n]"
+      "Replacement": "The \"Great Power\"[n]"
     },
     {
       "PositionDec": 232033,
@@ -20858,7 +20858,7 @@
       "PositionHex": "0x00039080",
       "ByteLengthDec": 23,
       "OriginalText": "　　　あの、胸とかに[n]",
-      "Replacement": "   Can someone get a"
+      "Replacement": "   Can someone get a[n]"
     },
     {
       "PositionDec": 233626,
@@ -20984,7 +20984,7 @@
       "PositionHex": "0x0003937A",
       "ByteLengthDec": 27,
       "OriginalText": "　　　呼ばれるものだな。[n]",
-      "Replacement": "   as an example?[n]"
+      "Replacement": "   for example?[n]"
     },
     {
       "PositionDec": 234406,
@@ -21033,7 +21033,7 @@
       "PositionHex": "0x0003948C",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　強すぎる光を持つモノが現れる。[n]",
-      "Replacement": "      something appears with an extremely[n]"
+      "Replacement": "      something appears with[n]"
     },
     {
       "PositionDec": 234684,
@@ -21054,7 +21054,7 @@
       "PositionHex": "0x00039505",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　身体に赤いアザを持つモノ、[n]",
-      "Replacement": "      strong light.[n]"
+      "Replacement": "      an extremely strong light.[n]"
     },
     {
       "PositionDec": 234801,
@@ -21117,7 +21117,7 @@
       "PositionHex": "0x00039676",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　石に命を与え、光を呼ぶ。[n]",
-      "Replacement": "      stones, and calls forth light.[n]"
+      "Replacement": "      stones, and call forth light.[n]"
     },
     {
       "PositionDec": 235182,
@@ -21544,7 +21544,7 @@
       "PositionHex": "0x0003A301",
       "ByteLengthDec": 49,
       "OriginalText": "　　　　　　　簡単に触れさせるわけにはいかぬ。[n]",
-      "Replacement": "       I can't let others touch it so easily.[n]"
+      "Replacement": "    Others can't be let to touch it so easily.[n]"
     },
     {
       "PositionDec": 238403,
@@ -21565,7 +21565,7 @@
       "PositionHex": "0x0003A38D",
       "ByteLengthDec": 43,
       "OriginalText": "　　　ちょっと抜いて見せてはくれないか？[n]",
-      "Replacement": "   Can you pull it out and show me?[n]"
+      "Replacement": "   Could you at least pull it out?[n]"
     },
     {
       "PositionDec": 238537,
@@ -21670,7 +21670,7 @@
       "PositionHex": "0x0003A8B7",
       "ByteLengthDec": 37,
       "OriginalText": "　　　昨日、銭形警部がまた来たよ。[n]",
-      "Replacement": "   Yesterday, Zenigata came back.[n]"
+      "Replacement": "   Zenigata came back yesterday.[n]"
     },
     {
       "PositionDec": 239853,
@@ -30287,7 +30287,7 @@
       "PositionHex": "0x00052E90",
       "ByteLengthDec": 46,
       "OriginalText": "　　　　　　詳しいことは、また書きます。[k][n]",
-      "Replacement": "    but I'll write them some other time.[k][n]"
+      "Replacement": "      but that's for some other time.[k][n]"
     },
     {
       "PositionDec": 339666,
@@ -30301,7 +30301,7 @@
       "PositionHex": "0x00052F08",
       "ByteLengthDec": 51,
       "OriginalText": "　　　しばらくはここで暮らすことになりそうです。[n]",
-      "Replacement": "   home, and I'll stay here for a while.[n]"
+      "Replacement": "   home, and I'll stay there for a while.[n]"
     },
     {
       "PositionDec": 339774,
@@ -30322,14 +30322,14 @@
       "PositionHex": "0x00052F96",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　改まって書くのも恥ずかしいけど、[n]",
-      "Replacement": "    It's a bit embarrassing to write it,[n]"
+      "Replacement": "    It's a bit embarrassing to write,[n]"
     },
     {
       "PositionDec": 339908,
       "PositionHex": "0x00052FC4",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　元気になれたのは、テオのおかげ。[n]",
-      "Replacement": "    but thanks to you, I'm well now.[n]"
+      "Replacement": "    but thanks to you, I'm better now.[n]"
     },
     {
       "PositionDec": 339954,
@@ -30343,7 +30343,7 @@
       "PositionHex": "0x00053038",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　ホントにありがとう。[n]",
-      "Replacement": "      Thank you.[n]"
+      "Replacement": "      Thank you,[n]"
     },
     {
       "PositionDec": 340078,
@@ -37994,7 +37994,7 @@
       "PositionHex": "0x0006B858",
       "ByteLengthDec": 33,
       "OriginalText": "　ギリシャ神話に登場する人魚。[n]",
-      "Replacement": "A mermaid in Greek mythology[n]"
+      "Replacement": "A mermaid in Greek mythology.[n]"
     },
     {
       "PositionDec": 440444,
@@ -38015,56 +38015,56 @@
       "PositionHex": "0x0006B8E4",
       "ByteLengthDec": 51,
       "OriginalText": "　危険を知らせる音響『サイレン』の語源でもある。[n]",
-      "Replacement": "It's the origin of \"siren\" to warn people.[n]"
+      "Replacement": "The term has evolved to describe a warning.[n]"
     },
     {
       "PositionDec": 440602,
       "PositionHex": "0x0006B91A",
       "ByteLengthDec": 51,
       "OriginalText": "　アルゴー探検隊の物語にもセイレーンは登場する。[n]",
-      "Replacement": "Sirens also appear in the Argo expedition.[n]"
+      "Replacement": "Sirens also appear in the myth of the Argonauts.[n]"
     },
     {
       "PositionDec": 440656,
       "PositionHex": "0x0006B950",
       "ByteLengthDec": 51,
       "OriginalText": "　遠征隊一行は黄金の毛皮を手に入れ、持ち帰る旅の[n]",
-      "Replacement": "The journey was to obtain golden fur and return[n]"
+      "Replacement": "On an expedition to obtain the Golden Fleece,[n]"
     },
     {
       "PositionDec": 440710,
       "PositionHex": "0x0006B986",
       "ByteLengthDec": 51,
       "OriginalText": "　途中にセイレーンの島近くを通った。セイレーンは[n]",
-      "Replacement": "On the way back, they passed near Sirens' island[n]"
+      "Replacement": "The return trip led by the island of the Sirens.[n]"
     },
     {
       "PositionDec": 440764,
       "PositionHex": "0x0006B9BC",
       "ByteLengthDec": 51,
       "OriginalText": "　いつものように誘惑しようと歌いはじめたが、探検[n]",
-      "Replacement": "The sirens began to seduce them, as they do,[n]"
+      "Replacement": "The Sirens began to seduce them, as they do,[n]"
     },
     {
       "PositionDec": 440818,
       "PositionHex": "0x0006B9F2",
       "ByteLengthDec": 51,
       "OriginalText": "　隊のメンバーに、竪琴の名手オルフェウスがいた。[n]",
-      "Replacement": "but Orpheus, master of the lyre was there.[n]"
+      "Replacement": "But Orpheus, Master of the Lyre was on board and[n]"
     },
     {
       "PositionDec": 440872,
       "PositionHex": "0x0006BA28",
       "ByteLengthDec": 51,
       "OriginalText": "　彼に負けたセイレーンは魔力を失い、岩になってし[n]",
-      "Replacement": "Once defeated, they turned into stones.[n]"
+      "Replacement": "Turned them to stone by the sound of his music.[n]"
     },
     {
       "PositionDec": 440926,
       "PositionHex": "0x0006BA5E",
       "ByteLengthDec": 20,
       "OriginalText": "　まったという。 [n]",
-      "Replacement": "An old tale.[n]"
+      "Replacement": "The End.[n]"
     },
     {
       "PositionDec": 441012,
@@ -38078,84 +38078,84 @@
       "PositionHex": "0x0006BAF8",
       "ByteLengthDec": 45,
       "OriginalText": "●ムー大陸に関する古記録　～　ナーカル文書[n]",
-      "Replacement": "● Ancient Records of the Mu Continent[n]"
+      "Replacement": "● Ancient Records of Atlantis: Timaeus[n]"
     },
     {
       "PositionDec": 441128,
       "PositionHex": "0x0006BB28",
       "ByteLengthDec": 51,
       "OriginalText": "　チャーチワードと寺院の高僧によって解読された。[n]",
-      "Replacement": "Deciphered by Churchwardens and high priests.[n]"
+      "Replacement": "As described by Plato in Timaeus and Critias.[n]"
     },
     {
       "PositionDec": 441182,
       "PositionHex": "0x0006BB5E",
       "ByteLengthDec": 35,
       "OriginalText": "　内容は下記のように分類される。[n]",
-      "Replacement": "The contents are categorized.[n]"
+      "Replacement": "Table of Contents:[n]"
     },
     {
       "PositionDec": 441220,
       "PositionHex": "0x0006BB84",
       "ByteLengthDec": 25,
       "OriginalText": "１．天地創造と人類誕生[n]",
-      "Replacement": "1 Creation of mankind[n]"
+      "Replacement": "1. Pillars of Heracles[n]"
     },
     {
       "PositionDec": 441248,
       "PositionHex": "0x0006BBA0",
       "ByteLengthDec": 45,
       "OriginalText": "２．地下の火（ガス）と陸の隆起と、後の状況[n]",
-      "Replacement": "2 Underground fire and uplift of land[n]"
+      "Replacement": "2. Cleito, the First Atlantean[n]"
     },
     {
       "PositionDec": 441296,
       "PositionHex": "0x0006BBD0",
       "ByteLengthDec": 45,
       "OriginalText": "３．全宇宙に存在する偉大なる力の根源と作用[n]",
-      "Replacement": "3 The origin and action of a great power[n]"
+      "Replacement": "3. Divine Origins[n]"
     },
     {
       "PositionDec": 441344,
       "PositionHex": "0x0006BC00",
       "ByteLengthDec": 43,
       "OriginalText": "４．地球の持つ偉大なる原動力の根源と作用[n]",
-      "Replacement": "4 The origin and action of divine force[n]"
+      "Replacement": "4. The Domain of King Atlas[n]"
     },
     {
       "PositionDec": 441390,
       "PositionHex": "0x0006BC2E",
       "ByteLengthDec": 35,
       "OriginalText": "５．地球の持つ原子力の根源と作用[n]",
-      "Replacement": "The origin of nuclear power[n]"
+      "Replacement": "5. Ancient Engineering[n]"
     },
     {
       "PositionDec": 441428,
       "PositionHex": "0x0006BC54",
       "ByteLengthDec": 45,
       "OriginalText": "６．生命創造、生命維持させる力の根源と作用[n]",
-      "Replacement": "6. the origin and power to sustain life[n]"
+      "Replacement": "6. Lover of War and Wisdom[n]"
     },
     {
       "PositionDec": 441476,
       "PositionHex": "0x0006BC84",
       "ByteLengthDec": 49,
       "OriginalText": "７．生命の根源、生命の本質、地球にともなう変化[n]",
-      "Replacement": "7. The root of life, and the essence of life[n]"
+      "Replacement": "7. Depths of the Sea[n]"
     },
     {
       "PositionDec": 441528,
       "PositionHex": "0x0006BCB8",
       "ByteLengthDec": 47,
       "OriginalText": "８．人類の創造、人類の本質、他の生物との相違[n]",
-      "Replacement": "8. Creation of mankind, nature of mankind[n]"
+      "Replacement": "8. Children of Earth and Heaven[n]"
     },
     {
       "PositionDec": 441578,
       "PositionHex": "0x0006BCEA",
       "ByteLengthDec": 51,
       "OriginalText": "９．人類最初の地である「人類の母なる国」について[n]",
-      "Replacement": "9. \"Motherland of Mankind\", the first land.[n]"
+      "Replacement": "9. Of the Four Natures[n]"
     },
     {
       "PositionDec": 441694,
@@ -44343,7 +44343,7 @@
       "PositionHex": "0x0007E9C2",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　それ、あの子の本。[n]",
-      "Replacement": "      Thats the girl's book.[n]"
+      "Replacement": "      That's the girl's book.[n]"
     },
     {
       "PositionDec": 518666,
@@ -44357,14 +44357,14 @@
       "PositionHex": "0x0007EA4F",
       "ByteLengthDec": 23,
       "OriginalText": "　　わるい、わるい。[n]",
-      "Replacement": "  Sorry but I [n]"
+      "Replacement": "  Sorry, but[n]"
     },
     {
       "PositionDec": 518783,
       "PositionHex": "0x0007EA7F",
       "ByteLengthDec": 25,
       "OriginalText": "　　勝手に見ちまった。[n]",
-      "Replacement": "  wanted to see it.[n]"
+      "Replacement": "  I wanted to see it.[n]"
     },
     {
       "PositionDec": 518905,
@@ -44420,14 +44420,14 @@
       "PositionHex": "0x0007EC0C",
       "ByteLengthDec": 13,
       "OriginalText": "　　病院？[n]",
-      "Replacement": "  The[n]"
+      "Replacement": "  Wait..[n]"
     },
     {
       "PositionDec": 519196,
       "PositionHex": "0x0007EC1C",
       "ByteLengthDec": 21,
       "OriginalText": "　　・・・待てよ。[n]",
-      "Replacement": "  hospital? Wait.[n]"
+      "Replacement": "  The hospital?[n]"
     },
     {
       "PositionDec": 519220,
@@ -44476,7 +44476,7 @@
       "PositionHex": "0x0007ECE4",
       "ByteLengthDec": 21,
       "OriginalText": "　　・・・そうか。[n]",
-      "Replacement": "  ... I see.[n]"
+      "Replacement": "  ...I see.[n]"
     },
     {
       "PositionDec": 519424,
@@ -44518,7 +44518,7 @@
       "PositionHex": "0x0007EDE0",
       "ByteLengthDec": 17,
       "OriginalText": "　　テオ達が？[n]",
-      "Replacement": "  Really you[n]"
+      "Replacement": "  Really?[n]"
     },
     {
       "PositionDec": 519668,
@@ -44539,7 +44539,7 @@
       "PositionHex": "0x0007EE31",
       "ByteLengthDec": 21,
       "OriginalText": "　　・・・本当か!?[n]",
-      "Replacement": "  guys did it?[n]"
+      "Replacement": "  You guys did it?[n]"
     },
     {
       "PositionDec": 519839,
@@ -44595,7 +44595,7 @@
       "PositionHex": "0x0007F026",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　　社長のコスタスが[n]",
-      "Replacement": "       The owner, Costas is[n]"
+      "Replacement": "       The owner, Costas, is[n]"
     },
     {
       "PositionDec": 520266,
@@ -44693,14 +44693,14 @@
       "PositionHex": "0x0007F252",
       "ByteLengthDec": 13,
       "OriginalText": "　　テオも[n]",
-      "Replacement": "  So,[n]"
+      "Replacement": "  So..[n]"
     },
     {
       "PositionDec": 520802,
       "PositionHex": "0x0007F262",
       "ByteLengthDec": 33,
       "OriginalText": "　　将来はダイバーになるのか？[n]",
-      "Replacement": "  will Theo be a diver?[n]"
+      "Replacement": "  Will Theo also be a diver?[n]"
     },
     {
       "PositionDec": 520852,
@@ -44714,7 +44714,7 @@
       "PositionHex": "0x0007F2C5",
       "ByteLengthDec": 23,
       "OriginalText": "　　　　　　・・・。[n]",
-      "Replacement": "       ...[n]"
+      "Replacement": "      ......[n]"
     },
     {
       "PositionDec": 520941,
@@ -44847,7 +44847,7 @@
       "PositionHex": "0x0007F5ED",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　　　『彼女は生きてる！』[n]",
-      "Replacement": "        'This girl is alive!' [n]"
+      "Replacement": "        \"This girl is alive!\" [n]"
     },
     {
       "PositionDec": 521751,
@@ -48326,7 +48326,7 @@
       "PositionHex": "0x0008E054",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　頼むから任せてくれ。[n]",
-      "Replacement": "       Just leave it to me.[n]"
+      "Replacement": "       Leave it to us this time.[n]"
     },
     {
       "PositionDec": 581770,
@@ -48382,7 +48382,7 @@
       "PositionHex": "0x0008E20A",
       "ByteLengthDec": 27,
       "OriginalText": "　　　わからなかったよ。[n]",
-      "Replacement": "  I don't understand the[n]"
+      "Replacement": "  I don't understand[n]"
     },
     {
       "PositionDec": 582198,
@@ -48396,7 +48396,7 @@
       "PositionHex": "0x0008E262",
       "ByteLengthDec": 35,
       "OriginalText": "　　　あの本の幾何学模様のような[n]",
-      "Replacement": "   pictures and multiple shapes[n]"
+      "Replacement": "   the pictures and shapes[n]"
     },
     {
       "PositionDec": 582280,
@@ -48431,7 +48431,7 @@
       "PositionHex": "0x0008E356",
       "ByteLengthDec": 35,
       "OriginalText": "　　　・・・何も意味しない・・。[n]",
-      "Replacement": "   ...means nothing...[n]"
+      "Replacement": "   ...no meaning...[n]"
     },
     {
       "PositionDec": 582538,
@@ -48445,14 +48445,14 @@
       "PositionHex": "0x0008E3C0",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　　そういえばラリス教授から[n]",
-      "Replacement": "     Oh, Professor Laris gave me this,[n]"
+      "Replacement": "       Oh, Professor Laris handed[n]"
     },
     {
       "PositionDec": 582636,
       "PositionHex": "0x0008E3EC",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　預かりモノがあるよ。[n]",
-      "Replacement": "       it's for you.[n]"
+      "Replacement": "       me this, it's for you.[n]"
     },
     {
       "PositionDec": 582756,
@@ -53849,7 +53849,7 @@
       "PositionHex": "0x000318DF",
       "ByteLengthDec": 47,
       "OriginalText": "　『大いなる力』って[n]\u0000　『キリム』のことを[n]",
-      "Replacement": "\"Great power\"?      [n]\u0000 About the \"Kirim\"  [n]"
+      "Replacement": "\"Great Power\"?      [n]\u0000 About the \"Kirim\"  [n]"
     },
     {
       "PositionDec": 204126,
@@ -53863,7 +53863,7 @@
       "PositionHex": "0x00032686",
       "ByteLengthDec": 23,
       "OriginalText": "　『大いなる力』って[n]",
-      "Replacement": " \"Great power\"?     [n]"
+      "Replacement": " \"Great Power\"?     [n]"
     },
     {
       "PositionDec": 208610,
@@ -53891,14 +53891,14 @@
       "PositionHex": "0x00033F7B",
       "ByteLengthDec": 49,
       "OriginalText": "　『サルド』の場所って[n]\u0000　『大いなる力』って[n]",
-      "Replacement": " Where is Saludo?     [n]\u0000 \"Great power\"?     [n]"
+      "Replacement": " Where is Saludo?     [n]\u0000 \"Great Power\"?     [n]"
     },
     {
       "PositionDec": 213263,
       "PositionHex": "0x0003410F",
       "ByteLengthDec": 23,
       "OriginalText": "　『大いなる力』って[n]",
-      "Replacement": " \"Great power\"?     [n]"
+      "Replacement": " \"Great Power\"?     [n]"
     },
     {
       "PositionDec": 215395,
@@ -53926,7 +53926,7 @@
       "PositionHex": "0x000381A8",
       "ByteLengthDec": 25,
       "OriginalText": "　『大いなる力』のこと[n]",
-      "Replacement": " The \"Great power\"    [n]"
+      "Replacement": " The \"Great Power\"    [n]"
     },
     {
       "PositionDec": 232282,
@@ -53947,7 +53947,7 @@
       "PositionHex": "0x0003AD33",
       "ByteLengthDec": 31,
       "OriginalText": "　・・・。[n]\u0000　ボクも行く！[n]",
-      "Replacement": "　・・・  [n]\u0000I'll be there![n]"
+      "Replacement": "　・・・  [n]\u0000I'll go too![n]"
     },
     {
       "PositionDec": 251753,
@@ -53968,7 +53968,7 @@
       "PositionHex": "0x0008E716",
       "ByteLengthDec": 41,
       "OriginalText": "　銭形警部を止める[n]\u0000　ジッと見ている[n]",
-      "Replacement": " Stop Zenigata    [n]\u0000　I can't help  [n]"
+      "Replacement": " Stop Zenigata    [n]\u0000　Do Nothing  [n]"
     },
     {
       "PositionDec": 589528,
