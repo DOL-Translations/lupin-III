@@ -25,7 +25,7 @@ All dialogue has been translated, however Chapters 6-8 were done primarily throu
 - Lastly, back in the `tools` folder, run the `compile.bat` file, and assuming you did all the steps correctly, it'll compile properly.
 - After a few seconds, your translated English ISO will be in the `output` folder. 
 
-## When you pause and go to History, it won't display the words properly. Add this Action Replay code to fix this. 
+## When you pause and go to History, it won't display the words properly. Add this Gecko code to fix this. 
 
 C20095B8 00000002 <br />
 7CE0FA14 3A400000 <br />
@@ -51,11 +51,8 @@ C2008968 00000001 <br />
 
 # Current road map for the project (No specific order):
 
-Add support for History fix on disc (currently only available as an external Action Replay code)
+Add support for History fix on disc (currently only available as an external Gecko code)
 
 Look into adding new fonts. (post-release)
 
-Translate submenus (graphics). Every menu option is actually a pre-made image, so new assets will have to be made to replace it. (almost complete)
-
-Grammar, spacing, making sure dialogue is lined up with itself, also fixing. Sometimes the characters will finish a sentence, then start a new sentence due to space limitations. Also sometimes, a line won't
-finish, and will bleed into the next sentence, so the sentence doesn't flow perfectly. Lots of testing will have to be done to adjust these things. 
+Fix audio popping issues in disc 2
