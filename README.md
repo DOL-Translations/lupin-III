@@ -11,7 +11,7 @@ This is the English translation for Lupin III: Umi ni Kieta Hihou - a visual nov
 
 The original translation was done be Peter Lemon around 2016 which can be found here: https://github.com/PeterLemon/GC
 
-All dialogue has been translated, however Chapters 6-8 were done primarily through machine translation. If a proper translation is done, we'll update those chapters accordingly.
+All dialogue and menus has been translated, however Chapters 6-8 were done primarily through machine translation. If a proper translation is done, we'll update those chapters accordingly.
 
 # Patching Guide
 
@@ -51,8 +51,8 @@ C2008968 00000001 <br />
 
 # Current road map for the project (No specific order):
 
-Add support for History fix on disc (currently only available as an external Gecko code)
+Add support for History fix on disc. (currently only available as an external Gecko code, post-release)
 
 Look into adding new fonts. (post-release)
 
-Fix audio popping issues in disc 2
+Fix audio popping issues in Disc 2. (Being worked on)
