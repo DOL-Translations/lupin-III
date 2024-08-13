@@ -1,6 +1,6 @@
 Credits: Original translation and programming done by Peter Lemon.
 
-New programming by: Radiant, translating the whole game, along with being the one who started the project up again after Peter Lemon left it.
+New programming by: Radiant, along with being the one who started the project up again after Peter Lemon left it.
 
 New translation by: Bingokemski for originally joining the team and partially translating chapter 1.
 
@@ -12,7 +12,7 @@ Radiant for machine translating the rest of chapter 6, chapter 7, chapter 8 roug
 
 Thanks to PTwr for making a much easier way to edit the text, and insert it in with the .json.
 
-Thanks to NewGBAXL for assisting with debugging, and making some English graphic replacements.
+Thanks to NewGBAXL for assisting with debugging, and making some English graphic replacements, and correcting text allignment.
 
 Thanks to aldi_09 for creating English graphic replacements.
 
