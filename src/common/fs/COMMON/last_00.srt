@@ -12,7 +12,7 @@ Do you see anything?
 
 4
 00:00:12,160 --> 00:00:13,860
-There is no change in the monitor.
+There are no changes on the monitor.
 
 5
 00:00:14,270 --> 00:00:16,200
@@ -40,15 +40,15 @@ Some hero you are.
 
 11
 00:00:25,280 --> 00:00:27,010
-There must be one or two
+There must be a thing or two
 
 12
 00:00:27,040 --> 00:00:28,680
-things that you're afraid of!
+that you're afraid of!
 
 13
 00:00:30,410 --> 00:00:32,680
-Aren't you the energetic one?
+Well aren't you the energetic one?
 
 14
 00:00:35,450 --> 00:00:36,450
@@ -74,7 +74,7 @@ The inside is uncharted and dangerous.
 
 19
 00:00:46,500 --> 00:00:47,830
-Descent into it.
+Descend into it.
 
 20
 00:00:47,830 --> 00:00:50,500
@@ -95,7 +95,7 @@ Y-yes sir.
 
 24
 00:01:03,310 --> 00:01:04,850
-Visibility is at 50.
+Visibility is at 50%.
 
 25
 00:01:04,850 --> 00:01:06,220
@@ -112,7 +112,7 @@ and still descending.
 
 28
 00:01:12,890 --> 00:01:14,390
-This seems never ending.
+This seems to never end.
 
 29
 00:01:14,390 --> 00:01:15,660
@@ -138,7 +138,7 @@ The water temperature?
 34
 00:01:25,000 --> 00:01:28,610
 Also, moisture levels in the sea water
-are 50 more
+are 50% higher
 
 35
 00:01:28,610 --> 00:01:30,910
@@ -204,7 +204,7 @@ A bottomless drop...
 50
 00:01:58,740 --> 00:02:01,210
 Theo, do you remember
-the sleeping dragon story?
+the story about the sleeping dragon?
 
 51
 00:02:02,540 --> 00:02:04,040
@@ -242,7 +242,7 @@ The what?
 59
 00:02:18,580 --> 00:02:21,390
 The sleeping dragon
-at the end of the world.
+at the End of the Sea.
 
 60
 00:02:21,390 --> 00:02:24,200
@@ -344,7 +344,7 @@ Don't try anything funny.
 
 84
 00:03:31,230 --> 00:03:33,260
-Don't forget, he's still here.
+Don't forget, he's still listening.
 
 85
 00:03:33,800 --> 00:03:34,930
@@ -479,11 +479,11 @@ Quite magnificent, isn't it?
 
 117
 00:05:49,970 --> 00:05:51,500
-Another boat is approaching us.
+Another boat is approaching fast.
 
 118
 00:05:51,500 --> 00:05:53,840
-Look who it is.
+Well look who it is.
 
 119
 00:05:54,740 --> 00:05:56,510
@@ -503,7 +503,7 @@ Went this way, then went that way.
 
 123
 00:06:02,180 --> 00:06:04,480
-I see, so Lupin went into the ocean?
+I see, so Lupin took a swim?
 
 124
 00:06:08,120 --> 00:06:10,690
@@ -547,7 +547,7 @@ There's a lot of stones here...
 
 134
 00:06:37,850 --> 00:06:40,180
-maybe this is the graveyard
+maybe this is a graveyard
 for the Oceanfolk?
 
 135
@@ -589,7 +589,7 @@ I don't know anything.
 144
 00:06:59,200 --> 00:07:01,710
 Don't play dumb!
-Where is the great power?
+Where is the Great Power?
 
 145
 00:07:02,440 --> 00:07:04,580
@@ -598,7 +598,7 @@ What are you looking for?
 146
 00:07:04,580 --> 00:07:06,780
 What do you think
-the great power actually is?
+the Great Power actually is?
 
 147
 00:07:08,280 --> 00:07:09,910
@@ -640,7 +640,7 @@ to the building of this place, Saludo.
 
 156
 00:07:34,740 --> 00:07:36,910
-The great power doesn't exist.
+The Great Power doesn't exist.
 
 157
 00:07:37,070 --> 00:07:38,580
@@ -648,7 +648,7 @@ For the last time...
 
 158
 00:07:38,760 --> 00:07:41,410
-Tell me where the great power is.
+Tell me where the Great Power is.
 
 159
 00:07:41,850 --> 00:07:42,980
@@ -672,11 +672,11 @@ I won't ask again. Where is it?
 
 164
 00:07:57,230 --> 00:07:58,780
-Where is the great power?
+Where is the Great Power?
 
 165
 00:07:58,780 --> 00:08:00,580
-The great power of Saludo.
+The Great Power of Saludo.
 
 166
 00:08:01,700 --> 00:08:03,630
@@ -760,7 +760,7 @@ The frozen heart...
 
 186
 00:09:24,780 --> 00:09:26,820
-Is this the great power!?
+Is this the Great Power!?
 
 187
 00:09:29,920 --> 00:09:32,820
@@ -850,7 +850,7 @@ The light that even God fears!
 
 208
 00:10:51,870 --> 00:10:54,040
-The great power is in my grasp!
+The Great Power is in my grasp!
 
 209
 00:11:01,480 --> 00:11:03,680
@@ -870,7 +870,7 @@ What the...?
 
 213
 00:11:25,340 --> 00:11:27,240
-Don't tell me this is the great power!
+Don't tell me this is the Great Power!
 
 214
 00:11:27,770 --> 00:11:28,640
@@ -886,8 +886,8 @@ Liana! I'm coming!
 
 217
 00:11:33,240 --> 00:11:36,180
-Don't come here!
-You two stay away from the light.
+Don't come here,
+Stay away from the light!
 
 218
 00:11:36,180 --> 00:11:39,850
@@ -955,7 +955,7 @@ What are you talking about, Liana?
 
 234
 00:12:28,630 --> 00:12:32,100
-What's so important at this moment?
+What's so important now?
 
 235
 00:12:32,970 --> 00:12:33,600
@@ -1040,8 +1040,8 @@ Yes!
 
 255
 00:13:23,650 --> 00:13:26,260
-You pulled out the Kirims,
-but nothing changed.
+Pulling out the Kirims
+didn't do anything.
 
 256
 00:13:26,260 --> 00:13:29,960
