@@ -1,14 +1,14 @@
 Credits: Original translation and programming done by Peter Lemon.
 
-New translation by: Bingokemski for originally joining the team and partially translating chapter 1 before needing to take a step back from the project.
+New programming by: Radiant, translating the whole game, along with being the one who started the project up again after Peter Lemon left it.
+
+New translation by: Bingokemski for originally joining the team and partially translating chapter 1.
 
 Cindi/Robindebank for finishing the rest of chapter 1, along with partial translation of chapter 7.
 
 Jebbi/Jebbi90 for translating chapters 2-6.
 
-Radiant for translating the rest of chapter 6, chapter 7, and chapter 8 (first person section) and translating disc 2, along with making subs go along with it.
-
-New programming by: Radiant for for chapter 1-5, and chapter 7, along with being the one who started the project up again after Peter Lemon left it.
+Radiant for machine translating the rest of chapter 6, chapter 7, chapter 8 rough translating disc 2, 
 
 Thanks to PTwr for making a much easier way to edit the text, and insert it in with the .json.
 
@@ -16,16 +16,16 @@ Thanks to NewGBAXL for assisting with debugging, and making some English graphic
 
 Thanks to aldi_09 for creating English graphic replacements.
 
-Thanks to arhkma_muddykipz for assisting with proofreading.
+Thanks to arhkma_muddykipz for assisting with proofreading chapter 1-5.
 
 Thanks to Muttvil for proofreading disc 2.
 
-Thanks to Lord-Giganticus for making THP-Converter, allowing the thp to me converted as an MP4 for ease of use.
+Thanks to Lord-Giganticus for making THP-Converter, allowing the thp to be converted as an MP4.
 
-Thanks AaronRules5 for assisting with getting the THP to work with the game, and helping with additional fixes. 
+Thanks AaronRules5 for assisting with getting the THP to work with the game.
 
-Thanks to mashedmonk for fixing audio popping issue in disc 2 fmv, and fixing dialogue.
+Thanks to mashedmonk for fixing audio popping issue in disc 2 fmv, and proofreading dialogue for the whole game.
 
-Thanks to Wiimpathy for making WiiFlowTHP, this helped me convert the MP4 files back to thp files to add back to the game.
+Thanks to Wiimpathy for making WiiFlowTHP, this helped convert MP4 files back to thp files to add back to the game.
 
 Special thanks to Drgn for teaching me how to set up the project, and helping me debug stuff.
