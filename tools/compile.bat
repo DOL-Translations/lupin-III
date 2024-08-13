@@ -17,7 +17,7 @@ for %%F in ("%ISOFile1%") do (
 )
 
 if %ISOSize% neq %ISOTargetSize% (
-    echo [INFO] "%ISOFile1%" was has an incorrect size
+    echo [INFO] "%ISOFile1%" has an incorrect size
     echo Are you using the uncompressed ROM?
     echo Exiting in 10 seconds..
     C:\Windows\System32\timeout.exe /t 10 /nobreak >nul
