@@ -31,7 +31,7 @@ BinString.exe patch --source "%common_dir%" --filter sfil.bin --output "%common_
 
 echo [INFO] Compiling patches for Lupin Disc 1
 
-//bass\\win\\bass.exe ..\\src\\disc1\\Main.asm
+bass\\win\\bass.exe ..\\src\\disc1\\Main.asm
 
 echo [INFO] Patches compiled for Lupin Disc 1
 
