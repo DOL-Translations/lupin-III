@@ -31,7 +31,7 @@ BinString.exe patch --source "%common_dir%" --filter sfil.bin --output "%common_
 
 echo [INFO] Compiling patches for Lupin Disc 1
 
-bass\\win\\bass.exe ..\\src\\disc1\\Main.asm
+//bass\\win\\bass.exe ..\\src\\disc1\\Main.asm
 
 echo [INFO] Patches compiled for Lupin Disc 1
 
@@ -59,16 +59,16 @@ set VideoFile1=..\src\disc2\fs\movie\last_00.thp
 set VideoFile2=..\src\disc2\fs\movie\last_01.thp
 set VideoFile3=..\src\disc2\fs\movie\staff.thp
 
-set VideoFile1Url="https://www.dropbox.com/scl/fi/oq936t6kvnt8rmshva2mc/last_00.thp?rlkey=sktjd3wckb9spd24a196zcgug"
-set VideoFile2Url="https://www.dropbox.com/scl/fi/2rncno9d26gblhy7odk39/last_01.thp?rlkey=enz4kks0dkdbh39knaiepolxx"
+set VideoFile1Url="https://drive.usercontent.google.com/download?id=17EoTkikBQtFoJY4HNdsOA9v4iInXTBHN&confirm=t"
+set VideoFile2Url="https://drive.usercontent.google.com/download?id=1CrwxXHPJwpKAZpLbkEZqhri94gx4kC-u&confirm=t"
 set VideoFile3Url=
 
-if not exist "%VideoFile1%" (
-    echo [INFO] Video files not found
-    echo Downloading them now..
-    curl -L -o "%VideoFile1%" "%VideoFile1Url%"
-    curl -L -o "%VideoFile2%" "%VideoFile2Url%"
-)
+//if not exist %VideoFile1% (
+    //echo [INFO] Video files not found
+    echo [INFO] Downloading video files..
+    curl -L -o %VideoFile1% %VideoFile1Url%
+    curl -L -o %VideoFile2% %VideoFile2Url%
+//)
 
 echo [INFO] Compiling patches for Lupin Disc 2
 
