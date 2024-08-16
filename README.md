@@ -11,19 +11,15 @@ This is the English translation for Lupin III: Umi ni Kieta Hihou - a visual nov
 
 The original translation was done be Peter Lemon around 2016 which can be found here: https://github.com/PeterLemon/GC
 
-All dialogue and menus has been translated, however Chapters 6-8 were done primarily through machine translation. If a proper translation is done, we'll update those chapters accordingly.
+All dialogue and menus has been translated, along with Disc 2's fmv having subtitles baked into the video, making it fully console compatiable.
 
 # Patching Guide
 
-#### xDelta patch (Recommended)
 - Download [xDelta Patcher](https://www.romhacking.net/utilities/704/).
 - Grab the [latest release](https://github.com/DOL-Translations/kururin-squash/releases/latest/).
 - Open the xDelta Patcher, add the translation xDelta patch and Japanese iso, and press patch.
-#### Manual patch (Latest changes, Windows only)
-- Download/clone the repository.
-- Add Discs 1 and/or 2 into the `input` folder. It HAS to be renamed correctly, to the names listed by the hashes listed above. You don't need to have both files in the folder at the same time, one or the other will work. 
-- Lastly, back in the `tools` folder, run the `compile.bat` file, and assuming you did all the steps correctly, it'll compile properly.
-- After a few seconds, your translated English ISO will be in the `output` folder. 
+
+### If you're interested in compiling manually, or learning more about the game, [click here] to go to the wiki.
 
 ## When you pause and go to History, it won't display the words properly. Add this Gecko code to fix this. 
 
@@ -49,10 +45,11 @@ B003003A 2C1200FF <br />
 C2008968 00000001 <br />
 60000000 00000000
 
-# Current road map for the project (No specific order):
+# Post release things to do:
 
-Add support for History fix on disc. (currently only available as an external Gecko code, post-release)
+Add support for History fix on disc. (currently only available as an external Gecko code)
 
-Look into adding new fonts. (post-release)
+Look into adding new fonts.
 
-Fix audio popping issues in Disc 2. (Being worked on)
+Get chapter 6-8 properly translated, and add fixes as needed.
+
