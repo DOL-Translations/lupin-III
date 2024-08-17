@@ -13,7 +13,7 @@ The original translation was done be Peter Lemon around 2016 which can be found 
 
 All dialogue and menus has been translated, along with Disc 2's fmv having subtitles baked into the video, making it fully console compatiable.
 
-[Credits to all the members who worked on the project](https://github.com/radianthero/lupin-III/wiki/Project-Credits)
+## [Credits to all the members who worked on the project](https://github.com/radianthero/lupin-III/wiki/Project-Credits)
 
 # Patching Guide
 
