@@ -9,11 +9,11 @@
 
 This is the English translation for Lupin III: Umi ni Kieta Hihou - a visual novel for the GameCube, developed and published by Asmik Ace.
 
-The original translation was done be Peter Lemon around 2016 which can be found here: https://github.com/PeterLemon/GC
+The original translation was done be Peter Lemon around 2016 which can be found here: https://github.com/PeterLemon/GC.
 
 All dialogue and menus has been translated, along with Disc 2's fmv having subtitles baked into the video, making it fully console compatiable.
 
-## Here you can [Credits to all the members who worked on the project](https://github.com/radianthero/lupin-III/wiki/Project-Credits) to fix the issue.
+## Here you can [credits to all the members who worked on the project](https://github.com/radianthero/lupin-III/wiki/Project-Credits).
 
 # Patching Guide
 
@@ -23,14 +23,14 @@ All dialogue and menus has been translated, along with Disc 2's fmv having subti
 
 ### If you're interested in compiling manually, or learning more about the game, [click here to go to the wiki](https://github.com/radianthero/lupin-III/wiki).
 
-## When you pause and go to `History`, it won't display words with spaces properly, [follow the instructions here](https://github.com/radianthero/lupin-III/wiki/Adding-the-History-Fix)
+## When you pause and go to `History`, it won't display words with spaces properly, [follow the instructions here](https://github.com/radianthero/lupin-III/wiki/Adding-the-History-Fix) to fix the issue.
 
 
 # Post release things to do:
 
-Add support for History fix on disc. (currently only available as an external Gecko code)
+Add support for History fix on disc (Currently only available as an external Gecko code).
 
 Look into adding new fonts.
 
-Get chapter 6-8 properly translated, and add fixes as needed.
+Get chapter 6-8 translated by an actual translator instead of DeepL, and add fixes as needed.
 
