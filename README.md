@@ -13,7 +13,7 @@ The original translation was done be Peter Lemon around 2016 which can be found 
 
 All dialogue and menus has been translated, along with Disc 2's fmv having subtitles baked into the video, making it fully console compatiable.
 
-## Here you can see the [credits to all the members who worked on the project](https://github.com/radianthero/lupin-III/wiki/Project-Credits).
+## Here you can view the [credits of all the individuals who worked on the project](https://github.com/radianthero/lupin-III/wiki/Project-Credits).
 
 # Patching Guide
 
@@ -23,10 +23,10 @@ All dialogue and menus has been translated, along with Disc 2's fmv having subti
 
 ### If you're interested in compiling manually, or learning more about the game, [click here to go to the wiki](https://github.com/radianthero/lupin-III/wiki).
 
-## When you pause and go to `History`, it won't display words with spaces properly, [follow the instructions here](https://github.com/radianthero/lupin-III/wiki/Adding-the-History-Fix) to fix the issue.
+### When you pause the game and go to `History`, it won't display words with spaces properly, [follow the instructions here](https://github.com/radianthero/lupin-III/wiki/Adding-the-History-Fix) to fix the issue.
 
 
-# Post release things to do:
+# Post-release things to do:
 
 Add support for History fix on disc (Currently only available as an external Gecko code).
 
