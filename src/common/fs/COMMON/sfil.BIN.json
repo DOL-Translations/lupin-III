@@ -19563,14 +19563,14 @@
       "PositionHex": "0x00036EEC",
       "ByteLengthDec": 49,
       "OriginalText": "　　　　　『海の竜』の話を聞かせてやって欲しい[n]",
-      "Replacement": "     Tell me the story of Sea Dragon.[n]"
+      "Replacement": "     Laris asked me to tell you guys about[n]"
     },
     {
       "PositionDec": 225056,
       "PositionHex": "0x00036F20",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　と、ラリス氏からいわれているが。[n]",
-      "Replacement": "     Laris told me about it.[n]"
+      "Replacement": "     the \"Sea Dragon\" story.[n]"
     },
     {
       "PositionDec": 225104,
