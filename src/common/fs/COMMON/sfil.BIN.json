@@ -3687,7 +3687,7 @@
       "PositionHex": "0x0000EB40",
       "ByteLengthDec": 31,
       "OriginalText": "　　で、今日はどうしたんだ？[n]",
-      "Replacement": "  So, what you visit me?[n]"
+      "Replacement": "  So, why are you visit me?[n]"
     },
     {
       "PositionDec": 60344,
@@ -3757,7 +3757,7 @@
       "PositionHex": "0x0000ECF8",
       "ByteLengthDec": 33,
       "OriginalText": "　　収蔵されたものがあったが。[n]",
-      "Replacement": "  as a museum the other day.[n]"
+      "Replacement": "  at a museum the other day.[n]"
     },
     {
       "PositionDec": 60746,
@@ -4541,7 +4541,7 @@
       "PositionHex": "0x00011C02",
       "ByteLengthDec": 29,
       "OriginalText": "　　　・・・２時間経過か。[n]",
-      "Replacement": "Down there for 2 hours?[n]"
+      "Replacement": "Down there for two hours?[n]"
     },
     {
       "PositionDec": 72760,
@@ -4562,7 +4562,7 @@
       "PositionHex": "0x00011C82",
       "ByteLengthDec": 37,
       "OriginalText": "　　　船内に空気がたまっていれば。[n]",
-      "Replacement": "Assuming theres air in the cabin.[n]"
+      "Replacement": "Assuming there's air in the cabin.[n]"
     },
     {
       "PositionDec": 72902,
@@ -5164,7 +5164,7 @@
       "PositionHex": "0x00013349",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　　　すでに２時間以上経過か。[n]",
-      "Replacement": "She's been down there for 2 hours...[n]"
+      "Replacement": "She's been down there for two hours...[n]"
     },
     {
       "PositionDec": 78797,
@@ -46562,7 +46562,7 @@
       "PositionHex": "0x000848C6",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　こんな事もあるんだな。[n]",
-      "Replacement": "      I've heard of cases similar.[n]"
+      "Replacement": "      I've heard of similar cases.[n]"
     },
     {
       "PositionDec": 542972,
