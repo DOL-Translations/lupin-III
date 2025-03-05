@@ -3687,7 +3687,7 @@
       "PositionHex": "0x0000EB40",
       "ByteLengthDec": 31,
       "OriginalText": "　　で、今日はどうしたんだ？[n]",
-      "Replacement": "  So, why are you visit me?[n]"
+      "Replacement": "So, why are you visiting me?[n]"
     },
     {
       "PositionDec": 60344,
@@ -4100,7 +4100,7 @@
       "PositionHex": "0x0000FA4D",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　本日、このような男を[n]",
-      "Replacement": "have you seen a man like this[n]"
+      "Replacement": "Have you seen a man like this[n]"
     },
     {
       "PositionDec": 64113,
@@ -6445,7 +6445,7 @@
       "PositionHex": "0x0001857C",
       "ByteLengthDec": 51,
       "OriginalText": "　　　　　　キミが落としたんじゃないかと思って。[n]",
-      "Replacement": "      I was wondering if you dropped it.[n]"
+      "Replacement": "      I was wondering if you dropped it?[n]"
     },
     {
       "PositionDec": 99776,
@@ -7712,7 +7712,7 @@
       "PositionHex": "0x0001AC53",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　オレ達は『教授』って呼んでるよ。[n]",
-      "Replacement": "      history: we call him \"Professor\".[n]"
+      "Replacement": "      history- we call him \"Professor\".[n]"
     },
     {
       "PositionDec": 109701,
@@ -8083,7 +8083,7 @@
       "PositionHex": "0x0001B655",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　どうせ大したモノじゃないし。[n]",
-      "Replacement": "        It's not anything special[n]"
+      "Replacement": "        It's not anything special.[n]"
     },
     {
       "PositionDec": 112263,
@@ -9434,7 +9434,7 @@
       "PositionHex": "0x0001D978",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　リアナはこれ、何だか知ってる？[n]",
-      "Replacement": "      Do you know what this is?[n]"
+      "Replacement": "      do you know what this is?[n]"
     },
     {
       "PositionDec": 121444,
@@ -9553,7 +9553,7 @@
       "PositionHex": "0x0001DD79",
       "ByteLengthDec": 29,
       "OriginalText": "　　　　　　　　［Liana][n]",
-      "Replacement": "　　　　　　　　［Lupin］[n]"
+      "Replacement": "　　　　　　　　［Liana］[n]"
     },
     {
       "PositionDec": 122288,
@@ -36356,14 +36356,14 @@
       "PositionHex": "0x00063E2C",
       "ByteLengthDec": 11,
       "OriginalText": "［Jigen][n]",
-      "Replacement": "［Theo][n]"
+      "Replacement": "［Jigen][n]"
     },
     {
       "PositionDec": 409210,
       "PositionHex": "0x00063E7A",
       "ByteLengthDec": 27,
       "OriginalText": "お前のせいだ、お前のっ！[n]",
-      "Replacement": "That wasn't my fault![n]"
+      "Replacement": "That isn't my fault![n]"
     },
     {
       "PositionDec": 409322,
@@ -36391,7 +36391,7 @@
       "PositionHex": "0x00064014",
       "ByteLengthDec": 25,
       "OriginalText": "こっちへ振るからだっ！[n]",
-      "Replacement": "You go farther![n]"
+      "Replacement": "Then go over there![n]"
     },
     {
       "PositionDec": 409730,
@@ -36440,7 +36440,7 @@
       "PositionHex": "0x00064282",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　　いいや、そっちだっ！[n]",
-      "Replacement": "      No, you are![n]"
+      "Replacement": "      No, you do it![n]"
     },
     {
       "PositionDec": 410384,
@@ -37014,7 +37014,7 @@
       "PositionHex": "0x00065694",
       "ByteLengthDec": 37,
       "OriginalText": "　　いえ、この子と２人きりですが？[n]",
-      "Replacement": "  No, i's just me and this boy.[n]"
+      "Replacement": " No, it's just me and this boy.[n]"
     },
     {
       "PositionDec": 415434,
@@ -43545,7 +43545,7 @@
       "PositionHex": "0x0007D039",
       "ByteLengthDec": 51,
       "OriginalText": "　　　　　　　こちらコンスタンティンサルベージ。[n]",
-      "Replacement": "       This is Constantine Salvage.[n]"
+      "Replacement": "       This is Constas Salvage.[n]"
     },
     {
       "PositionDec": 512111,
@@ -44042,7 +44042,7 @@
       "PositionHex": "0x0007DFB1",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　私以外にもまだいたとはな。[n]",
-      "Replacement": "     one of the Oceanfolk descendants.[n]"
+      "Replacement": "    of the Oceanfolk descendants.[n]"
     },
     {
       "PositionDec": 516061,
@@ -45393,7 +45393,7 @@
       "PositionHex": "0x00080534",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　　そんな意味があるらしい。[n]",
-      "Replacement": "      I believe is the translation.[n]"
+      "Replacement": "     I believe its the translation.[n]"
     },
     {
       "PositionDec": 525676,
@@ -45456,7 +45456,7 @@
       "PositionHex": "0x0008076E",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　　まあ、考えられるな。[n]",
-      "Replacement": "       Well, we can keep thinking,[n]"
+      "Replacement": "       Well, we can keep thinking.[n]"
     },
     {
       "PositionDec": 526230,
@@ -45715,7 +45715,7 @@
       "PositionHex": "0x00080DF3",
       "ByteLengthDec": 45,
       "OriginalText": "　　　　　　テオの母さんも好きだった男だ。[n]",
-      "Replacement": "      Your mother... liked him too...[n]"
+      "Replacement": "      your mother... liked him too...[n]"
     },
     {
       "PositionDec": 527907,
@@ -45890,7 +45890,7 @@
       "PositionHex": "0x00081242",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　テオ、聞けそうだったら・・・[n]",
-      "Replacement": "      Theo, if the opportunity arises[n]"
+      "Replacement": "   Theo, if the opportunity arises...[n]"
     },
     {
       "PositionDec": 529008,
@@ -46359,7 +46359,7 @@
       "PositionHex": "0x00081FE7",
       "ByteLengthDec": 27,
       "OriginalText": "　　　　　　・・・うむ。[n]",
-      "Replacement": "　　　　　　    ...Mmm[n]"
+      "Replacement": "　　　　　　    ...Mmm.[n]"
     },
     {
       "PositionDec": 541646,
