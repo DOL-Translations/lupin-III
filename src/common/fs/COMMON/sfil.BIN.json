@@ -50419,7 +50419,7 @@
       "PositionHex": "0x0009757E",
       "ByteLengthDec": 21,
       "OriginalText": "　　　　・・・え？[n]",
-      "Replacement": "    ・・・What?[n]"
+      "Replacement": "    ...What?[n]"
     },
     {
       "PositionDec": 619940,
@@ -50447,7 +50447,7 @@
       "PositionHex": "0x00097660",
       "ByteLengthDec": 35,
       "OriginalText": "　　　　　・・・あ、ゴ、ゴメン！[n]",
-      "Replacement": "     ・・・Ah, s-sorry![n]"
+      "Replacement": "     ...Ah, s-sorry![n]"
     },
     {
       "PositionDec": 620166,
@@ -53415,7 +53415,7 @@
       "PositionHex": "0x0009EFA3",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　　ダメだよ、足！・・・足っ！[n]",
-      "Replacement": "     But what about your leg?!n]"
+      "Replacement": "    But what about your leg?![n]"
     },
     {
       "PositionDec": 651519,
