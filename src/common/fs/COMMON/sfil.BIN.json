@@ -11527,14 +11527,14 @@
       "PositionHex": "0x00025FF5",
       "ByteLengthDec": 16,
       "OriginalText": "　　・・・[k][n]",
-      "Replacement": "　　・・・[k][n]"
+      "Replacement": "　　...[k][n]"
     },
     {
       "PositionDec": 155672,
       "PositionHex": "0x00026018",
       "ByteLengthDec": 25,
       "OriginalText": "　　（怪しい人だなあ）[n]",
-      "Replacement": " (He looks suspicious)[n]"
+      "Replacement": " (He looks suspicious.)[n]"
     },
     {
       "PositionDec": 155714,
@@ -11583,7 +11583,7 @@
       "PositionHex": "0x000262CC",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　（怪しい人だなあ）[n]",
-      "Replacement": "    (He also looks suspicious)[n]"
+      "Replacement": "   (He also looks suspicious.)[n]"
     },
     {
       "PositionDec": 156712,
@@ -11793,7 +11793,7 @@
       "PositionHex": "0x0002687E",
       "ByteLengthDec": 49,
       "OriginalText": "　　　　親戚じゃなく、隣に住んでた人らしいが、[n]",
-      "Replacement": "    it turns out they aren't relatives,[n]"
+      "Replacement": "    it turns out she has no relatives,[n]"
     },
     {
       "PositionDec": 157874,
@@ -11933,7 +11933,7 @@
       "PositionHex": "0x00026BC7",
       "ByteLengthDec": 39,
       "OriginalText": "　　　　まずはリアナと話をしてみる。[n]",
-      "Replacement": "    First I have to talk to Liana[n]."
+      "Replacement": "    First I have to talk to Liana.[n]"
     },
     {
       "PositionDec": 158705,
@@ -12017,7 +12017,7 @@
       "PositionHex": "0x00027110",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　　　　　　って、まさか・・・）[n]",
-      "Replacement": "           does he think they're after her?)[n]"
+      "Replacement": "         does he think they're after her?)[n]"
     },
     {
       "PositionDec": 160631,
@@ -12192,7 +12192,7 @@
       "PositionHex": "0x00027842",
       "ByteLengthDec": 43,
       "OriginalText": "　　　　　　なかなか上手くいかなくてね。[n]",
-      "Replacement": "      no matter how hard you try..[n]"
+      "Replacement": "     no matter how hard you try..[n]"
     },
     {
       "PositionDec": 161904,
@@ -12220,7 +12220,7 @@
       "PositionHex": "0x000278DF",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　・・・ってヤツさ！[n]",
-      "Replacement": "      ...That's what I say![n]"
+      "Replacement": "   ...That's what I say![n]"
     },
     {
       "PositionDec": 162065,
@@ -12262,7 +12262,7 @@
       "PositionHex": "0x000279E5",
       "ByteLengthDec": 47,
       "OriginalText": "　　　　　　　また、明日はいいことがあるって[n]",
-      "Replacement": "       will you still think that tomorrow[n]"
+      "Replacement": "      will you still think that tomorrow[n]"
     },
     {
       "PositionDec": 162327,
@@ -12437,7 +12437,7 @@
       "PositionHex": "0x00027DF2",
       "ByteLengthDec": 37,
       "OriginalText": "　　　　　　いっぱいあるんだ～っ！[n]",
-      "Replacement": "      cool things around here![n]"
+      "Replacement": "    cool things around here![n]"
     },
     {
       "PositionDec": 163368,
@@ -12493,7 +12493,7 @@
       "PositionHex": "0x00027F51",
       "ByteLengthDec": 33,
       "OriginalText": "　　　　　　ダメだよ、テオは。[n]",
-      "Replacement": "      Not Theo. He's a coward[n]"
+      "Replacement": "    Not Theo. He's a coward![n]"
     },
     {
       "PositionDec": 163701,
@@ -12514,7 +12514,7 @@
       "PositionHex": "0x00027FBC",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　臆病で、水に入れないんだ。[n]",
-      "Replacement": "      that won't enter the water.[n]"
+      "Replacement": "      He won't enter the water.[n]"
     },
     {
       "PositionDec": 163830,
@@ -12752,7 +12752,7 @@
       "PositionHex": "0x000285C9",
       "ByteLengthDec": 27,
       "OriginalText": "　　花ビン、探してくる。[n]",
-      "Replacement": "  I'll go get a case.[n]"
+      "Replacement": "  I'll go get a vase.[n]"
     },
     {
       "PositionDec": 165643,
