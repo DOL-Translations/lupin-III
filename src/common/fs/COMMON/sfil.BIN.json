@@ -10183,7 +10183,7 @@
       "PositionHex": "0x00021F78",
       "ByteLengthDec": 34,
       "OriginalText": "　　　　　　教授・・・、[k]その[n]",
-      "Replacement": "      Professor...[k]D-[n]"
+      "Replacement": "      Professor...[k]D...[n]"
     },
     {
       "PositionDec": 139181,
@@ -10211,7 +10211,7 @@
       "PositionHex": "0x00022024",
       "ByteLengthDec": 41,
       "OriginalText": "　　　　　　ただの言い伝えっていうか、[n]",
-      "Replacement": "      Isn't it just a story,[n]"
+      "Replacement": "      Isn't it just a story..[n]"
     },
     {
       "PositionDec": 139344,
@@ -10400,7 +10400,7 @@
       "PositionHex": "0x00022447",
       "ByteLengthDec": 39,
       "OriginalText": "　　　呼ばれる場所にたどり着ければ、[n]",
-      "Replacement": "   the land of the Oceanfolk,[n]"
+      "Replacement": "   the land of the Oceanfolk.[n]"
     },
     {
       "PositionDec": 140401,
@@ -10421,7 +10421,7 @@
       "PositionHex": "0x000224AE",
       "ByteLengthDec": 33,
       "OriginalText": "　　　歴史の中に埋もれた伝説、[n]",
-      "Replacement": "   then you could uncover the[n]"
+      "Replacement": "   Then you could uncover the[n]"
     },
     {
       "PositionDec": 140498,
@@ -10610,7 +10610,7 @@
       "PositionHex": "0x000228F7",
       "ByteLengthDec": 33,
       "OriginalText": "　　　思いこみはとても危険だ。[n]",
-      "Replacement": "   is a very dangerous thing[n]"
+      "Replacement": "  is a very dangerous thing[n]"
     },
     {
       "PositionDec": 141595,
@@ -10722,7 +10722,7 @@
       "PositionHex": "0x00022B23",
       "ByteLengthDec": 39,
       "OriginalText": "　　　何世代もたっているんだからな。[n]",
-      "Replacement": " happened over 3000 years ago, even.[n]"
+      "Replacement": " even happened over 3000 years ago.[n]"
     },
     {
       "PositionDec": 142171,
@@ -10960,7 +10960,7 @@
       "PositionHex": "0x000230E9",
       "ByteLengthDec": 35,
       "OriginalText": "　　見かけたことはあるそうだが、[n]",
-      "Replacement": "  They see him around, however,[n]"
+      "Replacement": "They've seen him around, but,[n]"
     },
     {
       "PositionDec": 143631,
@@ -11275,7 +11275,7 @@
       "PositionHex": "0x0002386F",
       "ByteLengthDec": 21,
       "OriginalText": "　　そこへザーイ。[n]",
-      "Replacement": " And that Zai guy,[n]"
+      "Replacement": " And that Zai guy.[n]"
     },
     {
       "PositionDec": 145543,
@@ -11296,7 +11296,7 @@
       "PositionHex": "0x000238C2",
       "ByteLengthDec": 35,
       "OriginalText": "　　まあ、オレ達の知らないことも[n]",
-      "Replacement": "  he must know something[n]"
+      "Replacement": "  He must know something[n]"
     },
     {
       "PositionDec": 145640,
