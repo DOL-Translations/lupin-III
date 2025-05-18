@@ -27,7 +27,8 @@ if %ISOSize% neq %ISOTargetSize% (
 set "script_dir=%~dp0"
 set "lupinIII_root=%script_dir%.."
 set "common_dir=%lupinIII_root%\src\common\fs\COMMON"
-BinString.exe patch --source "%common_dir%" --filter sfil.bin --output "%common_dir%" --patch "%common_dir%" --encoding "shift jis" --verbose
+call extract_file.bat "%common_dir%\sfil.BIN" "%lupinIII_root%\input\Lupin Disc 1 [J].iso" 0x43A4426C 667392
+BinString.exe patch --source "%common_dir%" --filter sfil.bin --output "%common_dir%" --patch "%common_dir%" --encoding "shift jis" --verbose >nul 2>&1
 
 echo [INFO] Compiling patches for Lupin Disc 1
 
