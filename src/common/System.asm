@@ -1,3 +1,4 @@
+
 // Save data
 Text($000D57DC, "Lupin III: Lost Treasure Under the Sea"); fill 1 // oopsie, overwrites some developer text lol
 origin $4871A; db $03E4 // point to the new string
@@ -15,7 +16,7 @@ ReplaceAsset($000D7BC0, "../common/fs/save_banner", 3848) // (inside the .dol)
 
 // Memory Card - 38 strings
 Text($000D97C0, "Lupin III - Lost Treasure          ") //Under the Sea -")
-Text($000D97E4, "Would you like to start the game?[n]You will not be able to save."); fill 10
+Text($000D97E4, "Once you start the game,[n]you won't be able to save."); fill 10
 Text($000D9824, "Continue?"); fill 14
 Text($000D985C, "Do you want to format the Memory Card?[n]All files will be deleted.") ; fill 8
 Text($000D98A8, "Do you want to save your progress?")
@@ -31,8 +32,8 @@ Text($000D9A18, "Overwrite FILE 1?[n]") ; fill 31
 Text($000D9A4C, "Overwrite FILE 2?[n]") ; fill 31
 Text($000D9A80, "Overwrite FILE 3?[n]") ; fill 31
 TextSave($000D9AB4, "No Memory Card found in Slot A.[n][n][n]")
-TextSave($000D9B1C, "There is no free space or the number of files[n]have been exeeeded. To save, you will need[n]one file and 4 blocks of free space.")
-TextSave($000D9BDC, "There is no free space or the number of files[n]have been exeeeded. To save, you will need[n]one file and 4 blocks of free space.")
+TextSave($000D9B1C, "There is not enough free space on the[n]Memory Card in Slot A.[n]To save, 1 file and 4 blocks are required.")
+TextSave($000D9BDC, "There is not enough free space on the[n]Memory Card in Slot A.[n]To save, 1 file and 4 blocks are required.")
 TextSave($000D9C9C, "The Memory Card in Slot A[n]has corrupted data and needs to be formatted.[n][n]")
 TextSave($000D9D24, "The Memory Card in Slot A[n]cannot be used for this game.[n][n]")
 
@@ -52,18 +53,18 @@ TextSave($000DA260, "Saving complete.[n][n][n]")
 TextSave($000DA2B8, "[p1]The Memory Card was removed during writing,[n]so writing may have failed.[n][n]")
 TextSave($000DA34C, "There is no data for this game[n]on the Memory Card in Slot A.[n][n]")
 TextSave($000DA3CC, "To organize the contents of the Memory Card,[n]use the Memory Card management screen on the console.[n][n]")
-TextSave($000DA45C, "There is something other than a[n]Memory Card inserted in Slot A.[n][n]")
+TextSave($000DA45C, "Wrong device inserted in Slot A.[n]Please insert a Memory Card.[n][n]")
 TextSave($000DA4D4, "The Memory Card in Slot A[n]is broken and cannnot be used.[n][n]")
 TextSave($000DA55C, "[p1]Failed to write data.[p0][n]The Memory Card in Slot A[n]is broken and cannot be used.[n]")
 
 //Game Disc - 30 strings
-Text($000D3EA0, "The Disc Cover is open.[n]To continue playing, close the Disc Cover."); fill 21
-Text($000D3EFC, "No disc inserted.[n]Please insert Disc 1 of LUPIN III.") ; fill 29
-Text($000D3F50, "No disc inserted.[n]Please insert Disc 2 of LUPIN III.") ; fill 29
-Text($000D3FA4, "No disc inserted.[n]Please insert Disc 3 of LUPIN III.") ; fill 29
-Text($000D3FF8, "Wrong disc inserted.[n]Please insert Disc 1 of LUPIN III.") ; fill 14
-Text($000D4040, "Wrong disc inserted.[n]Please insert Disc 2 of LUPIN III.") ; fill 14
-Text($000D4088, "Wrong disc inserted.[n]Please insert Disc 3 of LUPIN III.") ; fill 14
+Text($000D3EA0, "The Disc Cover is open.[n]To continue playing, please close the Disc Cover."); fill 21
+Text($000D3EFC, "No disc inserted.[n]Please insert LUPIN III Game Disc 1.") ; fill 29
+Text($000D3F50, "No disc inserted.[n]Please insert LUPIN III Game Disc 2.") ; fill 29
+Text($000D3FA4, "No disc inserted.[n]Please insert LUPIN III Game Disc 3.") ; fill 29
+Text($000D3FF8, "Wrong disc inserted.[n]Please insert LUPIN III Game Disc 1.") ; fill 14
+Text($000D4040, "Wrong disc inserted.[n]Please insert LUPIN III Game Disc 2.") ; fill 14
+Text($000D4088, "Wrong disc inserted.[n]Please insert LUPIN III Game Disc 3.") ; fill 14
 Text($000D40D0, "Disc could not be read.[n]If the disc cannot read after reinserting the disc,[n]check the Instruction Booklet.") ; fill 15
 Text($000D414C, "A disc error has occurred.[n]Press the Power Button on the console to turn the power off,[n]and check the Instruction Booklet.") ; fill 3
 Text($000D41CC, "Press the Open Button on the Disc Cover,[n]and replace it with Disc 1 of LUPIN III.[n]After replacing the disc, close the Disc Cover.") ; fill 11

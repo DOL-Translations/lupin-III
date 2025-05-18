@@ -1,0 +1,1 @@
+BinString.exe extract --source "C:\Users\newgb\Documents\GitHub\DOL-Translations\lupin-III\src\common\fs\COMMON\sfil.BIN" --patch "C:\Users\newgb\Documents\GitHub\DOL-Translations\lupin-III\src\common\fs\COMMON\sfil_choices.BIN.json" --encoding "shift jis" --verbose --pattern "(>)(?<numoptions>[\x01-\x04])(\x00)(?<length>[^\x00])(?<text>.*?)(\x00\x36)"
